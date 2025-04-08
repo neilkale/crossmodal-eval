@@ -1,0 +1,18 @@
+env/
+data/images/
+
+checkpoints/*.pt
+
+*.egg-info
+*.zip
+*.idea
+*.DS_Store
+*.ipynb_checkpoints
+*.pyc
+*__pycache__
+
+# Secret Environment Variables
+.env*
+
+# Output
+_results

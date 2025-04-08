@@ -102,6 +102,7 @@ def process_single_sample(data):
 
 # DATA SAVING
 def save_json(filename, ds):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
         json.dump(ds, f, indent=4)
 
