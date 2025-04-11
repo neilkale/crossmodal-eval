@@ -70,18 +70,25 @@ if __name__ == '__main__':
 
     # models that we experimented on
     model_names = [
-                    'MiniGPT-4-v2', 'flamingov2', 'instructblip_7b', 'instructblip_13b',
-                    'llava-internlm2-7b', 'Yi_VL_6B', 'Yi_VL_34B',
-                    'llava-v1.5-7b-xtuner', 'llava-v1.5-13b-xtuner', 'cogvlm-chat', 
-                    'llava_v1.5_7b', 'llava_v1.5_13b', 'llava-v1.6-34b',
-                    'QwenVLMax', 'GeminiProVision', 'GPT4V', 'OPUS'
+                    # 'MiniGPT-4-v2', 'flamingov2', 'instructblip_7b', 'instructblip_13b',
+                    # 'llava-internlm2-7b', 'Yi_VL_6B', 'Yi_VL_34B',
+                    # 'llava-v1.5-7b-xtuner', 'llava-v1.5-13b-xtuner', 'cogvlm-chat', 
+                    # 'llava_v1.5_7b', 'llava_v1.5_13b', 'llava-v1.6-34b',
+                    # 'QwenVLMax', 'GeminiProVision', 'GPT4V', 'OPUS'
+                    'QWEN', 'QWEN-HIT'
                     ]
     # save to a output path with model_name.json, replace with custom model name
-    model_name = model_names[-2]
+    
     subtasks = [
         'Visual_Similarity', 'Counting', 'Relative_Depth', 'Jigsaw', 'Art_Style', 'Functional_Correspondence', 'Semantic_Correspondence', 'Spatial_Relation', 'Object_Localization', 'Visual_Correspondence', 'Multi-view_Reasoning', 'Relative_Reflectance', 'Forensic_Detection', 'IQ_Test'
         ]
-
     split = 'val'
-    get_prediction_file(split, model_name)
-    eval_prediction(split, model_name)
+
+    for model_name in model_names:
+        get_prediction_file(split, model_name)
+        accu_by_task = eval_prediction(split, model_name)
+        # save accuracies to a json file
+        save_path = f'{split}_accuracies/{model_name}.json'
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        json.dump(accu_by_task, open(save_path, 'w'), indent=4)
+        print(f"Accuracy saved to {save_path}")

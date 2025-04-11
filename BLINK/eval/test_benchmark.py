@@ -149,7 +149,6 @@ def eval_task(task_name):
     for split in ['val']:
         print(f'{split} accuracy: {round(accu[split]/len(outputs[split])*100, 2)}%')
 
-
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str, default='QWEN', help="select the model name")
@@ -168,14 +167,14 @@ if __name__ == '__main__':
 
     model_generate_funcs = {'GPT4V': query_gpt4v}
 
-    if model_name == 'QWEN':
+    if 'qwen' in model_name.lower():
         print(f"Loading from {args.model_path}")
         from qwen import QwenModel
         if args.model_path == 'Qwen/Qwen2.5-VL-7B-Instruct':
             qwen_model = QwenModel(model=args.model_path, weight_ensembling_ratio=args.weight_ensembling_ratio)
         else:
             qwen_model = QwenModel(model='../../checkpoints/' + args.model_path, weight_ensembling_ratio=args.weight_ensembling_ratio)
-        model_generate_funcs.update({'QWEN': qwen_model.query})
+        model_generate_funcs.update({model_name: qwen_model.query})
 
     model_generate_func = model_generate_funcs[model_name]
     

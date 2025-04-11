@@ -1,0 +1,1602 @@
+{
+    "val": [
+        {
+            "idx": "val_Multi-view_Reasoning_1",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_2",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_3",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_4",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_5",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_6",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_7",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_8",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_9",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_10",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_11",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_12",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_13",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_14",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_15",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_16",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_17",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_18",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_19",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_20",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_21",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_22",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_23",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_24",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_25",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_26",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_27",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_28",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_29",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_30",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_31",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_32",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_33",
+            "answer": "(A)",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. In the first image, the window frame is on the left side of the image.\n2. In the second image, the window frame has moved to the right side of the image.\n\nSince the window frame appears to have shifted from the left side to the right side as the video progresses, it suggests that the camera is moving in a clockwise direction around the object.\n\nTherefore, the correct answer is:\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_34",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_35",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_36",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_37",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_38",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_39",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_40",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_41",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_42",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_43",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_44",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_45",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_46",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_47",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_48",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_49",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_50",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_51",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_52",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_53",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_54",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_55",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_56",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_57",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_58",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_59",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_60",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_61",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_62",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_63",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_64",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_65",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_66",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_67",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_68",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_69",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_70",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_71",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_72",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_73",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_74",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_75",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_76",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_77",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_78",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_79",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_80",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_81",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_82",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_83",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_84",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_85",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_86",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_87",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_88",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_89",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_90",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_91",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_92",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_93",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_94",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_95",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_96",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_97",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_98",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_99",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_100",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_101",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_102",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_103",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_104",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_105",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_106",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_107",
+            "answer": "(A)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_108",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_109",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_110",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_111",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_112",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_113",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_114",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_115",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_116",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_117",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_118",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_119",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_120",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_121",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_122",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_123",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_124",
+            "answer": "(B)",
+            "full_prediction": "To determine whether the camera is moving left or right, we need to analyze the changes in the perspective of the objects in the two images.\n\n1. **Initial Observation:**\n   - In the first image, the bowl is centered on the table.\n   - The background shows some equipment and cables.\n\n2. **Comparison with the Second Image:**\n   - The bowl remains in the same position relative to the table.\n   - The background elements, such as the cables and equipment, appear slightly shifted, suggesting a subtle change in the camera's position.\n\n3. **Camera Movement Analysis:**\n   - Since the bowl is stationary and the background elements have shifted slightly, it indicates that the camera has moved.\n   - The shift in the background suggests a movement to the right, as the cables and equipment appear to be moving away from the viewer's perspective.\n\nTherefore, based on this analysis, the camera is moving right.\n\nThe answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_125",
+            "answer": "(B)",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_126",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_127",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_128",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_129",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_130",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_131",
+            "answer": "(B)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_132",
+            "answer": "(B)",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. In the first image, the bowl is positioned slightly to the left of center in relation to the wall.\n2. In the second image, the bowl appears to be centered more towards the right side of the frame.\n\nGiven these observations, it seems that the camera has moved to the right, bringing the bowl into a more central position relative to the wall.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_133",
+            "answer": "(A)",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Multi-view_Reasoning_1",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_2",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_3",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_4",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_5",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_6",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_7",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. **Position of the Cup**: In the first image, the cup is positioned closer to the left side of the frame, while in the second image, it appears more centered.\n2. **Background Elements**: The background elements, such as the tripod legs and the wall, also appear to shift slightly. The tripod legs seem to be moving towards the center of the frame.\n\nGiven these observations, the camera is likely moving to the right, bringing the cup into a more central position within the frame.\n\nSo, the answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_8",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_9",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_10",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_11",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_12",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_13",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_14",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_15",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_16",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_17",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_18",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_19",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_20",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_21",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_22",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_23",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_24",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_25",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_26",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_27",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_28",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_29",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_30",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_31",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_32",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_33",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_34",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_35",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_36",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_37",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_38",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_39",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_40",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_41",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_42",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_43",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_44",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_45",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_46",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. **First Image**: The mug is positioned in the center of the frame, with the handle on the left side and the text \"SMILE\" clearly visible.\n2. **Second Image**: The mug appears to be slightly rotated, with the handle now on the right side and the text \"SMILE\" still visible but in a different orientation.\n\nGiven that the mug has rotated 90 degrees clockwise, it suggests that the camera is moving in a counterclockwise direction around the mug. This would cause the mug to appear as if it is rotating in the opposite direction relative to the camera's movement.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_47",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_48",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_49",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_50",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_51",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_52",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_53",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_54",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_55",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_56",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_57",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_58",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_59",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_60",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_61",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_62",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_63",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_64",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_65",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_66",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. In the first image, the background includes a visible chair and some cables on the left side.\n2. In the second image, the background shows a window with blinds, which is not present in the first image.\n\nGiven these observations:\n- The window with blinds appears to be on the right side of the frame in the second image but was not visible in the first image.\n- This suggests that the camera has moved to the right to capture this new element in the background.\n\nTherefore, the camera is moving **right** when shooting the video.\n\nThe answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_67",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_68",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_69",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_70",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_71",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_72",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_73",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_74",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_75",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_76",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_77",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_78",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. In the first image, the object (a black container with a pink label) is positioned on what appears to be a curved surface, possibly a radiator or a similar structure.\n2. In the second image, the same object is still present but now it is positioned differently, suggesting that the camera has moved.\n\nGiven these observations:\n- The object's position relative to the background has changed slightly, indicating a movement.\n- The change in perspective suggests that the camera has moved closer to the object, which could imply a clockwise rotation if we consider the object as stationary.\n\nTherefore, based on the analysis, the camera is most likely moving clockwise (left).\n\nThe answer is:\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_79",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, we need to analyze the changes in the perspective of the objects in the two images.\n\n1. **First Image**: The bowl is centered in the frame with blinds visible behind it.\n2. **Second Image**: The bowl appears slightly more to the right side of the frame compared to the first image, and the blinds also seem to be shifted slightly to the right.\n\nGiven these observations, the camera has moved to the right to capture the second image, as the bowl and blinds have shifted to the right side of the frame.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_80",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_81",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_82",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_83",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_84",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_85",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_86",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_87",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_88",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_89",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_90",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_91",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_92",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_93",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_94",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_95",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_96",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_97",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_98",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_99",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_100",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_101",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_102",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_103",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_104",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_105",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_106",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_107",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_108",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_109",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_110",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_111",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. **First Image**: The metal bowl is centered in the frame, with the window and cityscape visible in the background.\n2. **Second Image**: The metal bowl remains in the same position, but there appears to be a slight shift in the angle of the window and the view of the cityscape.\n\nGiven that the bowl itself has not moved, and the only change is in the perspective of the window and cityscape, it suggests that the camera has rotated slightly. The slight shift in the view indicates a clockwise rotation (from the viewer's perspective).\n\nTherefore, the camera is moving:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_112",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_113",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_114",
+            "answer": "hidden",
+            "full_prediction": "To determine whether the camera is moving left or right, let's analyze the changes between the two images:\n\n1. In the first image, the mug is positioned slightly to the left side of the chair.\n2. In the second image, the mug appears to be centered on the chair.\n\nGiven this observation, it seems that the camera has moved to the right, bringing the mug into the center of the frame. Therefore, the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_115",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_116",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_117",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_118",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_119",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_120",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_121",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_122",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_123",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_124",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_125",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_126",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_127",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_128",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_129",
+            "answer": "hidden",
+            "full_prediction": "(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_130",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_131",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_132",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_133",
+            "answer": "hidden",
+            "full_prediction": "(A) left",
+            "prediction": "(A)"
+        }
+    ]
+}

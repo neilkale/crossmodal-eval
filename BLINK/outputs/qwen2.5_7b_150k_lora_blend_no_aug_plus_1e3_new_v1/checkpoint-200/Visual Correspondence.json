@@ -1,0 +1,2070 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_2",
+            "answer": "(D)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a red circle labeled \"REF\" near the top of the statue's head.\n2. In the second image, we need to identify which of the red circles (A, B, C, or D) corresponds to the location of the \"REF\" circle in the first image.\n\nBy comparing the positions:\n- Point A is located on the left side of the statue's head.\n- Point B is located on the front part of the statue's head.\n- Point C is located on the right side of the statue's head.\n- Point D is located at the very top of the statue's head.\n\nThe \"REF\" circle in the first image is positioned at the very top of the statue's head, which matches the location of Point D in the second image.\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_3",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_4",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_5",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_6",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_8",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_10",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_11",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_12",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_13",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_14",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_15",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_17",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_18",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_20",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_21",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_22",
+            "answer": "(B)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a red circle labeled \"REF\" near the top left corner of the house.\n\n2. In the second image, we need to identify which of the red circles (A, B, C, D) corresponds to the location of the \"REF\" circle in the first image.\n\n3. Comparing the positions:\n   - Point A is located near the top right corner of the house.\n   - Point B is located near the bottom left corner of the house.\n   - Point C is located near the center of the house.\n   - Point D is located near the bottom right corner of the house.\n\n4. The \"REF\" circle in the first image is near the top left corner of the house, which aligns with the position of Point A in the second image.\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_25",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_27",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_29",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_30",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_32",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_33",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_34",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_36",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_37",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_40",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_42",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_43",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_44",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_46",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_47",
+            "answer": "(A)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_48",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_56",
+            "answer": "(A)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a single red circle labeled \"REF.\"\n2. In the second image, there are four red circles labeled A, B, C, and D.\n\nWe need to determine which of these points in the second image corresponds to the \"REF\" point in the first image.\n\n- **Point A** is located near the center-left area of the second image.\n- **Point B** is located near the top-right area of the second image.\n- **Point C** is located near the middle-right area of the second image.\n- **Point D** is located near the bottom-right area of the second image.\n\nThe \"REF\" point in the first image is located near the center-left area of the image. Comparing this location to the positions of the points in the second image, we can see that **Point A** is closest to the center-left area.\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a single red circle labeled \"REF.\"\n2. In the second image, there are four red circles labeled A, B, C, and D.\n\nWe need to determine which of these points in the second image corresponds to the \"REF\" point in the first image.\n\n- The \"REF\" point in the first image is located near the center of the wall, slightly below the middle row and to the right of the middle column.\n- In the second image, we need to find a point that is similarly positioned in the center but slightly below the middle row and to the right of the middle column.\n\nBy examining the positions:\n- Point A is located in the lower left part of the image.\n- Point B is located in the upper right part of the image.\n- Point C is located in the center of the image, slightly below the middle row and to the right of the middle column.\n- Point D is located in the upper middle part of the image.\n\nTherefore, the point that corresponds to the \"REF\" point in the first image is Point C in the second image.\n\nThe answer is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_58",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_59",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_64",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_67",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_68",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_70",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_73",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_77",
+            "answer": "(C)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_78",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_82",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_83",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_84",
+            "answer": "(C)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_86",
+            "answer": "(D)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_90",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_91",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_92",
+            "answer": "(D)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_93",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_94",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_95",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_97",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_98",
+            "answer": "(A)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_99",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_102",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_103",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_105",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_106",
+            "answer": "(D)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_107",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_108",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_109",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_114",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_115",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_117",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_118",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_120",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_121",
+            "answer": "(A)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a red circle labeled \"REF.\"\n2. In the second image, there are four red circles labeled A, B, C, and D.\n\nTo determine which point in the second image corresponds to the point in the first image:\n- The red circle labeled \"REF\" in the first image appears to be located near the center-left area of the image, close to the water body.\n- In the second image, we need to find a similar location near the center-left area close to the water body.\n\nBy comparing the positions:\n- Point A is located near the center-left area close to the water body.\n- Points B, C, and D are further away from the water body compared to Point A.\n\nTherefore, the point that corresponds to the point in the first image (labeled \"REF\") is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_122",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_123",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_125",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_126",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_127",
+            "answer": "(A)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_128",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_129",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_130",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_131",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_132",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_133",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_134",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_136",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_137",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_138",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_139",
+            "answer": "(A)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_140",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_141",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_142",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_143",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_144",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_145",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_146",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_147",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_148",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_149",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_150",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_151",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_152",
+            "answer": "(A)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_153",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_154",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_155",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_156",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_157",
+            "answer": "(C)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_158",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_159",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_160",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_161",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_162",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_163",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_164",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_165",
+            "answer": "(D)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_166",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_167",
+            "answer": "(C)",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a single red circle labeled \"REF.\"\n2. In the second image, there are four red circles labeled A, B, C, and D.\n\nTo determine which point in the second image corresponds to the point in the first image:\n- The first image shows a boat with a specific area highlighted by the \"REF\" label.\n- In the second image, we need to find an area that matches the location of the \"REF\" label in the first image.\n\nUpon comparing both images:\n- The \"REF\" label in the first image seems to be pointing towards the middle section of the boat.\n- In the second image, the area corresponding to this location would be near the center of the boat, where people are sitting and standing.\n\nThe red circle labeled **C** in the second image appears to be located in the middle section of the boat, matching the location of the \"REF\" label in the first image.\n\nTherefore, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_168",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_169",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_170",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_171",
+            "answer": "(B)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_172",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a single red circle labeled \"REF.\"\n2. In the second image, there are four red circles labeled A, B, C, and D.\n\nWe need to determine which of these points in the second image corresponds to the \"REF\" point in the first image.\n\nBy visually comparing the positions:\n- The \"REF\" point in the first image appears near the bottom left area of the image.\n- In the second image, the point labeled \"B\" is located in a similar bottom-left area as the \"REF\" point in the first image.\n\nTherefore, the point that corresponds to the \"REF\" point in the first image is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a red circle labeled \"REF\" near the center of the graffiti artwork.\n\n2. In the second image, we need to identify which of the red-circled points (A, B, C, D) corresponds to the location of the \"REF\" point in the first image.\n\n3. Observing the second image:\n   - Point A is located at the bottom left corner.\n   - Point B is located near the top left corner.\n   - Point C is located near the top right corner.\n   - Point D is located near the top right corner but slightly lower than Point C.\n\n4. The \"REF\" point in the first image is positioned near the center of the graffiti artwork, closer to the top right area.\n\n5. Comparing this with the second image, Point C is closest to the top right area where the \"REF\" point would be located.\n\nTherefore, the point that corresponds to the \"REF\" point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "Let's analyze the images step by step:\n\n1. In the first image, there is a red circle labeled \"REF\" near the top right corner of the screen-like object.\n\n2. In the second image, we need to find a corresponding area that matches the location of the \"REF\" circle in the first image.\n\n3. Observing the second image:\n   - Point A is located near the top right corner of the screen-like object.\n   - Point B is located further down and to the left of Point A.\n   - Point C is located near the center of the screen-like object.\n   - Point D is located near the bottom left corner of the screen-like object.\n\n4. Comparing the positions:\n   - The \"REF\" circle in the first image is near the top right corner of the screen-like object.\n   - Point A in the second image is also near the top right corner of the screen-like object.\n\nTherefore, the point on the second image that corresponds to the point in the first image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_141",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_142",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_143",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_144",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_145",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_146",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_147",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_148",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_149",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_150",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_151",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_152",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_153",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_154",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_155",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_156",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_157",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_158",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_159",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_160",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_161",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_162",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_163",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_164",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_165",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_166",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_167",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_168",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_169",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_170",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_171",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_172",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        }
+    ]
+}

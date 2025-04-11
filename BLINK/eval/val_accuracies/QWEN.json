@@ -1,0 +1,17 @@
+{
+    "Visual_Similarity": 0.837037037037037,
+    "Counting": 0.6583333333333333,
+    "Relative_Depth": 0.12903225806451613,
+    "Jigsaw": 0.6733333333333333,
+    "Art_Style": 0.5641025641025641,
+    "Functional_Correspondence": 0.2692307692307692,
+    "Semantic_Correspondence": 0.4244604316546763,
+    "Spatial_Relation": 0.8881118881118881,
+    "Object_Localization": 0.5573770491803278,
+    "Visual_Correspondence": 0.6744186046511628,
+    "Multi-view_Reasoning": 0.44360902255639095,
+    "Relative_Reflectance": 0.3358208955223881,
+    "Forensic_Detection": 0.4393939393939394,
+    "IQ_Test": 0.24666666666666667,
+    "Total": 0.510066270917071
+}

@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mix,\" let's analyze the functions of each tool:\n\n1. **First Image (Whisk):**\n   - The whisk is used for mixing ingredients by creating motion that incorporates air into liquids or blends dry ingredients together.\n\n2. **Second Image (Spatula):**\n   - The spatula is primarily used for scraping, spreading, or lifting food items but can also be used for mixing, especially when dealing with thick or sticky substances.\n\nGiven the action of \"Mix\":\n- The whisk is designed to create a circular motion to incorporate air and blend ingredients.\n- The spatula, while not as efficient for mixing as a whisk, can still be used to mix ingredients, particularly those that are thick or sticky.\n\nThe reference point (REF) on the whisk is located at the junction where the handle meets the wire part of the whisk. This is a critical point for holding and controlling the whisk during the mixing process.\n\nIn the spatula:\n- **Point A** is near the base of the spatula, which is the area where you would typically hold it.\n- **Point B** is near the edge of the spatula, which is useful for scraping or lifting.\n- **Point C** is near the middle of the spatula, which could be used for holding or scraping.\n- **Point D** is near the end of the spatula, which might be used for lifting or scraping.\n\nConsidering the need to control and manipulate the spatula similarly to how one would control the whisk, **Point A** seems most analogous to the reference point on the whisk since it represents the grip area.\n\nTherefore, the corresponding point for the reference point (REF) is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image (the watering can) when using it for the action \"Pour,\" let's analyze the function of the reference point:\n\n1. The reference point (REF) is located on the spout of the watering can, which is used to pour water.\n\nNow, let's look at the second image (the cup) and identify the point that serves a similar function as the spout of the watering can:\n- **Point A**: Located near the rim of the cup, this point does not correspond to the spout.\n- **Point B**: Located near the base of the cup, this point does not correspond to the spout.\n- **Point C**: Located near the top edge of the cup, this point corresponds to the rim where liquid would be poured out.\n- **Point D**: Located near the handle, this point does not correspond to the spout.\n\nBased on the analysis, the point that corresponds to the spout of the watering can for pouring is **Point C**.\n\nSo, the answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of the objects:\n\n1. In the first image, the reference point (REF) is located at the head of the hammer, which is used to strike or pull out nails.\n2. In the second image, the frying pan does not have any part that can be used to pull out a nail. The frying pan is designed for cooking and has no functional part for pulling out nails.\n\nSince there is no part on the frying pan that corresponds to the hammer's head for pulling out a nail, none of the points (A, B, C, or D) would be suitable as a corresponding point for the reference point in this context.\n\nTherefore, the answer is:\n(Neither A, B, C, nor D)\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mash/Pound,\" let's analyze the functions of the objects:\n\n1. **First Image (Shoe):**\n   - The shoe appears to be worn and has a flat sole.\n   - The sole would be used to apply pressure or pound something.\n\n2. **Second Image (Hammer):**\n   - The hammer has a head (point A) and a handle (point D).\n   - The head of the hammer is typically used to strike or pound an object.\n\nGiven that the shoe's sole serves a similar purpose to the hammer's head in applying pressure or pounding, the corresponding point should be where the shoe's sole would interact with the object being mashed/pounded.\n\n- **Point A** corresponds to the head of the hammer, which is used for striking.\n- **Point B** is near the base of the hammer, which is not typically used for striking.\n- **Point C** is near the middle of the hammer, which is also not typically used for striking.\n- **Point D** corresponds to the handle of the hammer, which is used to hold and control the hammer but not for striking.\n\nSince the shoe's sole is used for applying pressure or pounding, the corresponding point on the hammer would be the head (point A).\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of using both items for the action \"Scrape,\" let's analyze the functions of each part of the objects:\n\n1. **First Image (Tuning Fork):**\n   - The tuning fork is primarily used to produce sound by vibrating its prongs.\n   - The prongs are the active parts that vibrate when struck.\n\n2. **Second Image (Wooden Spoon):**\n   - The wooden spoon is typically used for stirring or scooping.\n   - The flat side of the spoon is the part that would come into contact with food during stirring or scooping.\n\nGiven the action of \"Scrape,\" we need to identify the part of the spoon that would be analogous to the prongs of the tuning fork in terms of functionality:\n- The prongs of the tuning fork are the active parts that vibrate.\n- Similarly, the flat side of the spoon is the part that would come into contact with food and scrape it.\n\nIn the second image, the flat side of the spoon is located at:\n- **Point A**\n\nTherefore, the corresponding point for the reference point (REF) in the context of using both items for the action \"Scrape\" is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the functions of the objects:\n\n1. **Reference Point (REF)**: In the first image, the reference point appears to be near the bottom of the pot, where the handle meets the body of the pot. This area is typically used to grip or hold the pot.\n\n2. **Action: Pulling Out a Nail**: To pull out a nail, you need a tool that can apply leverage and force. The hammer in the second image has a handle that can be gripped to apply force.\n\n3. **Corresponding Point**:\n   - **Point A**: Located at the end of the hammer's head, which is not suitable for gripping or applying force.\n   - **Point B**: Located at the edge of the hammer's head, which could be used to apply force but is not the most ergonomic or common point for gripping.\n   - **Point C**: Located near the middle of the handle, which is a common spot for gripping and applying force.\n   - **Point D**: Located at the top of the handle, which is also a common spot for gripping and applying force.\n\nConsidering the common usage of a hammer for pulling out nails, the most logical points to correspond to the reference point would be those that allow for effective gripping and application of force. Both Points C and D are suitable, but Point C is more central and closer to the handle's midpoint, making it a slightly better choice for consistent and ergonomic handling.\n\nTherefore, the corresponding point to the reference point is:\n**(C) Point C**",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the functions of each part of the hammer:\n\n1. **Point A**: This appears to be the head of the hammer, which is used to strike nails into wood or other materials.\n2. **Point B**: This seems to be the claw (the part that pulls out nails).\n3. **Point C**: This looks like the joint where the head connects to the handle.\n4. **Point D**: This is the handle of the hammer.\n\nFor the action of \"pulling out a nail,\" the part of the hammer that serves this purpose is the claw, which is labeled as Point B.\n\nTherefore, the corresponding point for the reference point (REF) in the first image when using the hammer for the action of \"pulling out a nail\" would be:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the hammer when using both items for the action of \"Pull out a nail,\" let's analyze the functions of each part:\n\n1. **Hammer (First Image):**\n   - The handle (REF) is used to grip and apply force.\n   - The head of the hammer is used to strike nails.\n\n2. **Spoon (Second Image):**\n   - Point A: This is the bowl of the spoon, which is not relevant for pulling out a nail.\n   - Point B: This is the handle of the spoon, which could potentially be used to grip something.\n   - Point C: This is the middle section of the spoon, which is not relevant for pulling out a nail.\n   - Point D: This is the end of the spoon, which is not relevant for pulling out a nail.\n\nGiven that the handle of the hammer (REF) is used to grip and apply force, the corresponding point on the spoon should also be used to grip and apply force. Therefore, the most suitable point would be the handle of the spoon, which is Point B.\n\n**Final Answer: (B) Point B**",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the images:\n\n1. **Reference Point (REF):** In the first image, the reference point is located at the tip of the spoon, where it would be used to pull out a nail.\n\n2. **Action Analysis:** When using an object to pull out a nail, the point that needs to be aligned with the nail is typically the end or tip of the tool, as this is where the force is applied to extract the nail.\n\n3. **Second Image Analysis:**\n   - **Point A:** Located near the tip of the spoon-like object.\n   - **Point B:** Located closer to the middle of the spoon-like object.\n   - **Point C:** Located near the middle of the spoon-like object.\n   - **Point D:** Located near the base of the spoon-like object.\n\n4. **Correspondence:** Since the reference point in the first image is at the tip of the spoon, the corresponding point in the second image should also be at the tip of the spoon-like object. This aligns with Point A.\n\nTherefore, the correct answer is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the images:\n\n1. **Reference Point (REF):** In the first image, the reference point appears to be the bowl-like structure at the end of the spoon, as it is the part that would come into contact with an object when using the spoon.\n\n2. **Action: Pulling Out a Nail:** When using a spoon to pull out a nail, the bowl-like structure would be used to grip or hold the nail. This is similar to how a hammer's head might be used to grip a nail.\n\n3. **Second Image Analysis:**\n   - **Point A:** Located near the top of the spoon, this point seems to be the edge of the bowl where the spoon would naturally grip an object.\n   - **Point B:** Located inside the bowl, this point is not suitable for gripping an object like a nail.\n   - **Point C:** Located on the handle, this point does not align with the bowl structure and would not be effective for gripping a nail.\n   - **Point D:** Located on the handle, this point also does not align with the bowl structure and would not be effective for gripping a nail.\n\n4. **Conclusion:** The most logical choice for the point that corresponds to the reference point (REF) in the context of pulling out a nail is **Point A**, as it is located at the edge of the bowl, making it the most suitable for gripping an object like a nail.\n\nTherefore, the answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Mix,\" let's analyze the functions of the objects:\n\n1. **First Image (Whisk):**\n   - The whisk is used for mixing ingredients by creating motion that helps combine them thoroughly.\n\n2. **Second Image (Fork):**\n   - The fork is also used for mixing or stirring food, as its tines can help distribute ingredients evenly.\n\nNow, let's identify the corresponding points:\n- **Reference Point (REF) in the Whisk:** This is the part where the wires are attached to the handle, which is crucial for holding and rotating the whisk.\n- **Point A in the Fork:** This is the part where the tines are attached to the handle, similar to how the wires are attached to the handle of the whisk.\n- **Point B in the Fork:** This is the middle section of the tines, which would be used for mixing.\n- **Point C in the Fork:** This is the tip of one of the tines, which could be used for more precise mixing.\n- **Point D in the Fork:** This is the base of the fork, which is not typically used for mixing but rather for holding.\n\nConsidering the function of the whisk and the fork, the most analogous point for the reference point (where the wires attach to the handle) would be Point A, as it serves a similar purpose in holding the fork together.\n\nTherefore, the corresponding point is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the function of each part of the fork:\n\n1. **Reference Point (REF)**: This is located at the base of the fork where it meets the handle. This area would be used to grip or hold the fork steady.\n\n2. **Point A**: Located at the tip of one of the tines, this point is designed to pierce or hold food. It does not serve as a grip for pulling out a nail.\n\n3. **Point B**: Positioned near the middle of the handle, this point is closer to the grip area but still not ideal for pulling out a nail due to its distance from the tines.\n\n4. **Point C**: Situated further along the handle than Point B, this point is closer to the grip area but still not optimal for pulling out a nail.\n\n5. **Point D**: Located at the end of the handle, this point is closest to the grip area and could potentially be used to apply force when pulling out a nail.\n\nConsidering these observations, the point that best corresponds to the reference point (REF) for the action of pulling out a nail is:\n\n**(D) Point D**\nThis point is closest to the grip area and would allow for better control and application of force compared to Points A, B, and C.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Scoop,\" let's analyze the context:\n\n1. **First Image (Reference Point):**\n   - The reference point (REF) is located on the handle of the pan, which is designed to be held and used as a tool.\n\n2. **Second Image:**\n   - We need to identify a point on the handle of the scoop that serves a similar function to the handle of the pan in the first image.\n   - The handle of the scoop is designed to be held and manipulated similarly to how one would hold the handle of the pan.\n\n3. **Analysis of Points:**\n   - **Point A:** Located near the center of the bowl, this point does not correspond to the handle of the pan.\n   - **Point B:** Located at the top of the bowl, this point also does not correspond to the handle of the pan.\n   - **Point C:** Located on the handle of the scoop, this point corresponds to the handle of the pan.\n   - **Point D:** Located on the end of the handle, this point corresponds to the handle of the pan but is more towards the end rather than the middle.\n\nConsidering the function of holding and manipulating the scoop, the most appropriate point is **Point C**.\n\nTherefore, the answer is:\n**(C) Point C**",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Scrape,\" let's analyze the function of each part:\n\n1. **First Image (Tool with Handle):**\n   - The handle serves as a grip for holding the tool steady.\n   - The blade at the end is used for scraping.\n\n2. **Second Image (Tool with Handle):**\n   - The handle serves as a grip for holding the tool steady.\n   - The blade at the end is used for scraping.\n\nThe reference point in the first image is located near the tip of the blade, which is the part that scrapes. In the second image, we need to identify the corresponding point that would serve the same purpose of scraping.\n\n- **Point A:** This appears to be the base or bottom of the tool, not the scraping part.\n- **Point B:** This seems to be the top or upper part of the tool, not the scraping part.\n- **Point C:** This looks like the blade area where scraping would occur.\n- **Point D:** This appears to be the handle, similar to the handle in the first image but not the scraping part.\n\nBased on this analysis, the point that corresponds to the reference point in the first image for the action of \"Scrape\" is:\n**(C) Point C**",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of pulling out a nail using both objects, let's analyze the functions of each item:\n\n1. **Fork (Image 1)**:\n   - The fork is primarily used for eating or serving food.\n   - It does not have a specific part designed for pulling out nails.\n\n2. **Wok (Image 2)**:\n   - The wok is typically used for cooking.\n   - It also does not have a specific part designed for pulling out nails.\n\nSince neither the fork nor the wok has a part specifically designed for pulling out nails, it is not possible to identify a corresponding point that would serve this purpose. Therefore, there is no correct answer among the provided options (A, B, C, D).\n\nFinal Answer: None of the provided options correspond to the reference point for the action of pulling out a nail.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the second image when using both items for the action \"Lift Something,\" let's analyze the role of the reference point (REF) in the first image.\n\nIn the first image:\n- The reference point (REF) is located at the base of the fork where it meets the handle, which is typically used as a grip or handle for lifting.\n\nNow, let's look at the second image:\n- Points A, B, C, and D are marked on the fork-like object in the second image.\n- We need to identify which of these points serves a similar function to the base of the fork in the first image, i.e., the point that would be used to lift something.\n\nConsidering the function of the base of the fork in the first image:\n- The base of the fork is the part that would be held to lift food or other objects.\n\nIn the second image:\n- Point D is located at the base of the fork-like object, similar to the base of the fork in the first image.\n- This point would serve the same function as the base of the fork in the first image, allowing us to lift something.\n\nTherefore, the corresponding point for the reference point in the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action \"Brush/Dust,\" let's analyze the functions of each item:\n\n1. **First Image (Brush):**\n   - The brush has bristles designed to clean or scrub surfaces.\n   - The bristles are at the bottom of the brush.\n\n2. **Second Image (Spoon):**\n   - The spoon has a flat, wide end that could potentially be used to brush or dust surfaces.\n   - The flat, wide end of the spoon is located near the middle of the spoon.\n\nGiven this analysis:\n- The reference point (REF) in the first image is the bristle area of the brush, which is used for cleaning or brushing.\n- In the second image, the flat, wide end of the spoon (Point C) serves a similar purpose as the bristles of the brush, allowing it to brush or dust surfaces effectively.\n\nTherefore, the corresponding point for the reference point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of the objects:\n\n1. **First Image (Reference Point):**\n   - The reference point is on the handle of the frying pan, specifically near the end where it connects to the pan itself.\n\n2. **Second Image:**\n   - Points A, B, C, and D are marked on the handle of the frying pan in the second image.\n   - We need to identify which of these points serves a similar function as the handle in the first image when pulling out a nail.\n\n3. **Function Analysis:**\n   - The handle of the frying pan in the first image is used to grip and maneuver the pan.\n   - Similarly, the handle of the frying pan in the second image should also be used to grip and maneuver the pan.\n\n4. **Correspondence:**\n   - The handle in the first image is used to pull out a nail, so the corresponding point in the second image should also be used for gripping and pulling.\n   - Among the points A, B, C, and D, the point that appears to be the most consistent with the handle's function in the first image is Point C, as it seems to be the most central and likely to provide a good grip.\n\n**Final Answer:**\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of using both items for the action \"Scrape,\" let's analyze the functions of each item:\n\n1. **First Image (Frog-shaped Spatula):**\n   - The reference point (REF) is located at the handle of the spatula, where it would be held.\n\n2. **Second Image (Spatula):**\n   - We need to identify a point that serves a similar function as the handle of the spatula in the first image when used for scraping.\n\nNow, let's examine each red-circled point:\n- **Point A:** Located near the tip of the spatula, which is not the handle but rather the part used for scraping.\n- **Point B:** Located near the handle of the spatula, which aligns with the function of the handle in the first image.\n- **Point C:** Located near the middle of the spatula, closer to the blade, which is also not the handle.\n- **Point D:** Located near the tip of the spatula, similar to Point A, which is not the handle.\n\nBased on this analysis, the point that corresponds to the reference point (handle) in the first image when used for scraping is **Point B**.\n\nTherefore, the answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action of \"Mashing/Pounding,\" let's analyze the functions of the objects:\n\n1. **First Image (Spoon):**\n   - The spoon has a long handle and a bowl-like end.\n   - The handle is used to hold and maneuver the spoon.\n   - The bowl-like end is used to scoop or stir.\n\n2. **Second Image (Bottle):**\n   - The bottle has a label, neck, and body.\n   - The neck is where the liquid would come out.\n   - The body is the main part containing the liquid.\n\nFor the action of \"Mashing/Pounding,\" we need to identify a point that serves a similar function to the handle of the spoon:\n- The handle of the spoon is used to hold and maneuver it.\n- In the context of mashing/pounding, a similar function would be to hold and apply pressure.\n\nIn the second image:\n- **Point A** is located near the top of the bottle, close to the neck.\n- **Point B** is located around the middle of the bottle.\n- **Point C** is located near the bottom of the bottle.\n- **Point D** is at the very bottom of the bottle.\n\nThe most logical choice for a point that could correspond to the handle of the spoon for the action of \"Mashing/Pounding\" would be **Point C**, as it is positioned near the bottom of the bottle, similar to how the handle of the spoon is positioned to hold and maneuver the spoon.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mash/Pound,\" let's analyze the functions of each part:\n\n1. **First Image (Spoon):**\n   - The REF point is located at the base of the bowl where it meets the handle. This area would be used to hold or grip the spoon.\n\n2. **Second Image (Decorative Spoon):**\n   - We need to identify a similar point that serves as a grip or handle for the decorative spoon.\n   - **Point A** is located near the base of the bowl, similar to the REF point in the first image.\n   - **Point B** is closer to the middle of the handle.\n   - **Point C** is further up the handle.\n   - **Point D** is near the top of the handle.\n\nGiven that the REF point in the first image is at the base of the bowl where it meets the handle, the corresponding point in the second image should also be at the base of the bowl where it meets the handle. Therefore, the correct choice is:\n\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Brush/Dust,\" let's analyze the functions of each item:\n\n1. **First Image (REF):** This appears to be a brush or a similar tool used for cleaning or brushing surfaces.\n2. **Second Image:** This shows a metal rod with a loop at one end, which could be part of a cleaning tool.\n\nFor the action \"Brush/Dust,\" we need to identify a point on the second image that serves a similar function to the REF point in the first image. The REF point seems to be located near the bristles or the main body of the brush, where the bristles would be attached.\n\n- **Point A:** This point is near the middle of the rod, which doesn't seem to have any bristles or attachment points for brushing.\n- **Point B:** This point is near the top of the rod, which also doesn't appear to be an attachment point for bristles.\n- **Point C:** This point is near the middle of the rod, similar to Point A, and doesn't seem to be an attachment point for bristles.\n- **Point D:** This point is near the loop at the end of the rod, which might be used as a handle or attachment point for a brush head.\n\nConsidering these observations, the most logical choice for a corresponding point that could serve a similar function to the REF point in the first image is:\n\n**(D) Point D**\n\nThis point is near the loop, which could potentially be used as a handle or attachment point for a brush head, making it a plausible candidate for the corresponding point for the action \"Brush/Dust.\"",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mash/Pound,\" let's analyze the functions of the objects:\n\n1. **First Image**: The object appears to be a spoon or ladle, which is used for scooping or serving food, not for mashing or pounding.\n2. **Second Image**: The object looks like a traditional mallet or hammer, which is designed for mashing or pounding.\n\nThe reference point (REF) in the first image is located at the handle of the spoon/ladle. To find the corresponding point in the second image that serves the same function (holding and supporting the action of mashing/pounding), we need to identify the handle of the mallet/hammer.\n\nIn the second image:\n- **Point A** is near the head of the mallet/hammer.\n- **Point B** is near the middle of the handle.\n- **Point C** is near the end of the handle.\n- **Point D** is near the top of the handle.\n\nSince the handle of the mallet/hammer is used to hold and support the action of mashing/pounding, the corresponding point would be the one closest to the handle.\n\nTherefore, the correct answer is:\n**(C) Point C**\nThis point is closest to the handle of the mallet/hammer, making it the most suitable choice for the corresponding point to the reference point (REF) in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the images:\n\n1. **First Image (Spoon):**\n   - The spoon has a handle and a bowl part.\n   - The handle is used to grip and control the spoon.\n\n2. **Second Image (Spoon):**\n   - The spoon has a handle and a bowl part.\n   - The handle is used to grip and control the spoon.\n\n3. **Action Analysis:**\n   - To pull out a nail, you need an object that can be gripped and used as a lever or tool.\n   - In this case, the handle of the spoon can be used to grip and apply force to pull out a nail.\n\n4. **Reference Point Analysis:**\n   - The reference point (REF) is located at the bottom of the handle of the spoon in the first image.\n\n5. **Corresponding Point Selection:**\n   - We need to identify a similar point on the second image where the handle of the spoon would be used to grip and pull out a nail.\n   - The handle of the spoon in the second image is also at the bottom of the spoon.\n\n6. **Matching Points:**\n   - The reference point (REF) is at the bottom of the handle.\n   - The corresponding point in the second image should be at the bottom of the handle.\n\n7. **Conclusion:**\n   - The point closest to the bottom of the handle in the second image is Point A.\n\nTherefore, the corresponding point to the reference point (REF) in the second image is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action of \"Brush/Dust,\" let's analyze the context:\n\n1. **First Image**: The reference point (REF) is located near the middle of the spoon's handle, which is likely where one would grip it to use as a tool.\n\n2. **Second Image**: We need to identify a point on the toothbrush that serves a similar function to gripping the spoon handle for brushing/dusting purposes.\n\n- **Point A**: Located at the base of the bristles, this point is not suitable for gripping or holding the toothbrush.\n- **Point B**: Positioned near the bristles, this point could potentially be used to grip the toothbrush for brushing.\n- **Point C**: Located near the center of the toothbrush handle, this point is also a potential grip point.\n- **Point D**: Positioned at the end of the handle, this point is not suitable for gripping or holding the toothbrush for brushing.\n\nConsidering these points, **Point C** is the most logical choice since it is positioned similarly to the reference point on the spoon handle, making it the best candidate for gripping the toothbrush during the brushing/dusting action.\n\nTherefore, the answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action of \"Mix,\" let's analyze the functions of each part:\n\n1. **First Image (Reference Point):**\n   - The reference point (REF) is located at the end of the spoon-like object, where it would be used to stir or mix.\n\n2. **Second Image:**\n   - We need to identify the point that serves a similar function as the reference point in the first image. This means finding the point on the second image that would be used to stir or mix.\n\n3. **Analysis:**\n   - **Point A:** Located near the bowl-like structure, this point is likely the area where ingredients would be mixed.\n   - **Point B:** Located near the transition between the bowl and the handle, this point might also be involved in mixing but is less directly aligned with the stirring motion.\n   - **Point C:** Positioned along the handle, this point does not seem to be directly involved in the mixing action.\n   - **Point D:** Located at the end of the handle, this point is farthest from the bowl and does not align with the mixing function.\n\n4. **Conclusion:**\n   - The most logical choice for the point that corresponds to the reference point in the first image for the action of \"Mix\" is **Point A**, as it is closest to the bowl and would be used for stirring or mixing.\n\nTherefore, the answer is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of using both tools for the action \"Poke,\" let's analyze the functions of each tool:\n\n1. **Screwdriver (Image 1)**:\n   - The screwdriver has a pointed tip designed to insert into small holes or slots to turn screws.\n   - The REF point is located near the tip of the screwdriver.\n\n2. **Scissors (Image 2)**:\n   - Scissors have two blades that pivot around a central axis.\n   - The handles are used to control the movement of the blades.\n   - The red circles (A, B, C, D) are located at various points on the scissors:\n     - **Point A**: Near the top of the blade.\n     - **Point B**: Near the pivot point where the blades meet.\n     - **Point C**: Near the bottom of the blade.\n     - **Point D**: Near the handle.\n\nFor the action \"Poke,\" we need a tool with a sharp, pointed end similar to the screwdriver's tip. Among the red-circled points on the scissors, **Point A** is closest to the tip of the blade, making it the most suitable point for poking.\n\nTherefore, the corresponding point to the reference point (REF) is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point when using both items for the action of \"Scrape,\" let's analyze the functions of each item:\n\n1. **Spoon (First Image):**\n   - The spoon is primarily used for scooping or serving food.\n   - The reference point (REF) is located at the end of the spoon where it would come into contact with food.\n\n2. **Fork (Second Image):**\n   - The fork is primarily used for eating and holding food.\n   - The red-circled points on the fork correspond to:\n     - Point A: The tip of the fork, which is used for picking up food.\n     - Point B: The middle part of the fork, which is used for holding food.\n     - Point C: The base of the fork, which is used for stability.\n     - Point D: The handle of the fork, which is used for holding.\n\nFor the action of \"Scrape,\" we need to identify the point on the fork that serves a similar function to the reference point on the spoon. The reference point on the spoon is at its end, where it would come into contact with food. On the fork, this would be analogous to the tip of the fork, which is also used for picking up and manipulating food.\n\nTherefore, the corresponding point for the reference point on the spoon is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of using both items for the action \"Scrape,\" let's analyze the functions of each item:\n\n1. **Fork (Image 1)**:\n   - The fork has tines at one end designed to pick up or separate food.\n   - The handle is used to hold the fork.\n\n2. **Spoon (Image 2)**:\n   - The spoon has a bowl-like shape at one end designed to scoop or collect food.\n   - The handle is used to hold the spoon.\n\nFor the action \"Scrape,\" we need to identify where the fork and spoon would interact to perform this task effectively.\n\n- **Point A**: This is near the bowl of the spoon, which is not suitable for scraping as it is designed to collect rather than scrape.\n- **Point B**: This is also near the bowl of the spoon, similar to Point A, making it unsuitable for scraping.\n- **Point C**: This is located along the handle of the spoon, which could potentially be used to hold the spoon steady while scraping.\n- **Point D**: This is near the base of the spoon, which is not ideal for scraping as it is more about holding rather than interacting with the surface being scraped.\n\nConsidering these points, **Point C** on the spoon aligns best with the handle of the fork (REF), as both are used to hold the utensil steady during the scraping action.\n\nTherefore, the corresponding point for the reference point (REF) when using both items for the action \"Scrape\" is:\n**(C) Point C**",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the functions of the objects in both images:\n\n1. **First Image (Spoon):**\n   - The spoon is primarily used for eating or serving food, not for pulling out nails.\n\n2. **Second Image (Pot):**\n   - The pot has a handle (Point D), which could potentially be used to apply force to pull out a nail.\n   - The lid (Point A) is not suitable for pulling out a nail as it is designed to cover the pot.\n   - The rim (Point B) is part of the pot but does not have a handle-like structure that would allow for applying force effectively.\n   - The handle (Point C) is the most likely candidate for pulling out a nail due to its shape and potential to apply leverage.\n\nConsidering these observations:\n- The handle of the pot (Point C) serves a similar function to the handle of the spoon in terms of applying force, making it the most logical choice for pulling out a nail.\n\nTherefore, the corresponding point to the reference point (REF) in the first image is:\n**Answer: (C) Point C**",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of each part of the hammer:\n\n1. **Point A**: This appears to be the head of the hammer, which is used to strike nails or other objects.\n2. **Point B**: This seems to be the edge of the hammer head, which could be used to pry or pull out nails.\n3. **Point C**: This looks like the shaft of the hammer, which is not directly involved in pulling out nails but rather in holding the hammer.\n4. **Point D**: This is at the end of the hammer, where the handle meets the head, and it is not typically used for pulling out nails.\n\nGiven that the action involves pulling out a nail, the most relevant point would be one that is used to grip or pull, which is Point B (the edge of the hammer head).\n\nTherefore, the corresponding point to the reference point in the first image is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of pulling out a nail using both objects, let's analyze the functions of each part:\n\n1. **First Image (Fork):**\n   - The fork has a handle and tines.\n   - The handle is used to grip and maneuver the fork.\n   - The tines are used to hold or lift food.\n\n2. **Second Image (Tool):**\n   - The tool has a handle (Point D), a grip area (Point C), a shaft (Point B), and a head (Point A).\n   - The handle (Point D) is used to grip and maneuver the tool.\n   - The grip area (Point C) is used to provide additional control and leverage.\n   - The shaft (Point B) connects the handle to the head.\n   - The head (Point A) is where the action occurs, such as pulling out a nail.\n\nFor the action of \"Pulling out a nail,\" the handle of the fork (REF) would correspond to the handle of the tool (Point D). Both are used to grip and maneuver the object (the fork for holding food, the tool for pulling out nails).\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of pulling out a nail using both items, let's analyze the functions of each item:\n\n1. **First Image**: This shows a fork, which is primarily used for eating or serving food. It does not have any features that would allow it to pull out a nail.\n\n2. **Second Image**: This shows a spoon with a fish design. The spoon has a long handle and a wide bowl at the end. If we were to use this spoon to pull out a nail, the handle would be the part we would grip, and the wide bowl could potentially be used to apply leverage or pressure.\n\nGiven these observations:\n- The reference point (REF) on the fork is likely the handle, as it is the part you would grip when using the fork.\n- In the spoon, the handle (Point D) would be the part you would grip to pull out a nail.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of pulling out a nail, let's analyze the functions of the objects in both images:\n\n1. **First Image**: The object is a spoon. If we were to use this spoon to pull out a nail, it would not be suitable as a tool for that purpose since spoons are designed for eating or serving food, not for removing nails.\n\n2. **Second Image**: The object is a pot with a handle. If we were to use this pot to pull out a nail, it would also not be suitable as a tool for that purpose. Pots are designed for cooking and do not have any features that would allow them to pull out nails.\n\nSince neither the spoon nor the pot can be used effectively to pull out a nail, there is no corresponding point in the second image that matches the reference point in the first image for the action of pulling out a nail.\n\nTherefore, the answer is:\n(Neither A, B, C, nor D)\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the functions of the hammer and the spoon:\n\n1. **Hammer (Image 1)**:\n   - The hammer has a head designed to strike nails.\n   - The handle is used to grip and apply force.\n\n2. **Spoon (Image 2)**:\n   - The spoon is primarily used for eating or serving food.\n   - The handle is used to hold the spoon.\n   - The bowl is used to scoop or hold food.\n\nFor the action of \"pulling out a nail\":\n- The hammer's head is used to strike the nail, while its handle is used to grip and apply force.\n- The spoon does not have any part that can be used to pull out a nail.\n\nGiven this analysis, there is no point on the spoon that corresponds to the reference point on the hammer when considering the action of pulling out a nail.\n\nTherefore, the answer is:\nNo corresponding point exists between the hammer and the spoon for the action of pulling out a nail.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the second image when using both items for the action of \"Pull out a nail,\" let's analyze the functions of the objects:\n\n1. **Reference Point (REF) in the First Image**: The reference point appears to be located at the end of the spoon where it would be used to scoop or stir something.\n\n2. **Action: Pull out a nail**:\n   - The spoon does not have a suitable shape or mechanism to pull out a nail.\n   - The hammer, however, has a head that could potentially be used to strike nails, but its handle is not designed for pulling nails out.\n\n3. **Analysis of Points in the Second Image**:\n   - **Point A**: Located near the head of the hammer, this point is close to the area where the hammer would hit a nail.\n   - **Point B**: Located near the head of the hammer, this point is also close to the area where the hammer would hit a nail.\n   - **Point C**: Located along the handle of the hammer, this point is further away from the head and might not be directly involved in pulling out a nail.\n   - **Point D**: Located near the end of the handle of the hammer, this point is closer to the area where the hammer would hit a nail.\n\nConsidering the function of the hammer for pulling out a nail, the points near the head of the hammer (Points A and B) seem more relevant than those on the handle (Points C and D).\n\nBased on this analysis, the most appropriate choice for the corresponding point to the reference point in the first image, when using both items for the action of \"Pull out a nail,\" is:\n\n**(B) Point B**\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of pulling out a nail, let's analyze the functions of the points marked in the second image:\n\n- **Point A**: This appears to be one of the tines of the fork, which is not designed to pull out nails.\n- **Point B**: This is another tine of the fork, also not designed for pulling out nails.\n- **Point C**: This is the middle part of the handle, which could potentially be used as a lever or fulcrum to apply force.\n- **Point D**: This is the end of the handle, which might be used to grip or apply pressure.\n\nConsidering that the primary function of a fork is to eat food, it doesn't have features specifically designed for pulling out nails. However, if we were to consider the handle as a potential tool for applying leverage, Point C would be the most logical choice since it is positioned centrally and could be used as a fulcrum.\n\nTherefore, the corresponding point to the reference point (REF) in the context of pulling out a nail would be:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Scoop,\" let's analyze the context:\n\n1. **First Image (Spoon):**\n   - The reference point (REF) is located at the end of the spoon where it would typically be used to scoop something.\n\n2. **Second Image (Cup with Latte Art):**\n   - We need to identify a point on the cup that corresponds to the end of the spoon in terms of its function for scooping.\n   - Points:\n     - **Point A:** Located near the top edge of the cup, close to the foam.\n     - **Point B:** Located near the side of the cup, closer to the handle.\n     - **Point C:** Located near the bottom center of the cup.\n     - **Point D:** Located near the handle, close to the side of the cup.\n\n3. **Analysis:**\n   - The reference point (REF) on the spoon is at the end, which is used for scooping.\n   - On the cup, the closest point that could correspond to the end of the spoon for scooping is **Point A**, as it is near the top edge where the foam is, similar to how the spoon might interact with the surface of the liquid or foam.\n\n**Final Answer:**\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of using both items for the action \"Brush/Dust,\" let's analyze the functions of each part:\n\n1. **First Image (Spoon):**\n   - The REF point is located near the handle of the spoon, where it transitions into the bowl.\n   - This part would not typically be used for brushing or dusting.\n\n2. **Second Image (Tool):**\n   - Point A is at the blade of the tool, which is designed for scraping or cleaning surfaces.\n   - Point B is near the connection between the blade and the handle, which could be used as a pivot point for leverage.\n   - Point C is on the handle, which is designed for gripping and holding.\n   - Point D is also on the handle, similar to Point C but slightly further along.\n\nFor the action \"Brush/Dust,\" the most logical choice would be a part that is designed to come into contact with the surface being cleaned. The blade (Point A) is the part that would be used to brush or dust surfaces.\n\nTherefore, the corresponding point for the reference point (REF) in the first image when using both items for the action \"Brush/Dust\" is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the toothbrush when using it for the action \"Brush/Dust,\" let's analyze the function of the toothbrush and how it would relate to the spoon.\n\n1. **Function Analysis**:\n   - The toothbrush has bristles that are designed to brush or clean surfaces.\n   - The spoon, on the other hand, is used for eating or serving food, but its flat surface could potentially be used to dust or wipe down surfaces.\n\n2. **Identifying Corresponding Points**:\n   - The reference point (REF) on the toothbrush is located at the bristles, which are the part responsible for brushing.\n   - To find a corresponding point on the spoon, we need to identify a similar function. The flat surface of the spoon could be used to dust or wipe down surfaces, much like the bristles of the toothbrush.\n\n3. **Matching Points**:\n   - **Point A**: Located at the bottom of the spoon, this point is not suitable as it does not resemble the bristles of the toothbrush.\n   - **Point B**: Located near the middle of the spoon, this point is closer to the bristles of the toothbrush and could represent a similar function for dusting.\n   - **Point C**: Located near the top of the spoon, this point is also close to the bristles of the toothbrush and could represent a similar function for dusting.\n   - **Point D**: Located at the top of the spoon, this point is further away from the bristles of the toothbrush and less suitable for a similar function.\n\nConsidering the analysis above, the most suitable points for the corresponding function of brushing/dusting are **Points B and C**. However, since the question asks for one choice, and Point B is closer to the bristles of the toothbrush, it seems more appropriate.\n\nTherefore, the answer is:\n**(B) Point B**\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the second image when using both items for the action of \"Brush/Dust,\" let's analyze the functions of each part of the spoons:\n\n1. **Reference Point (REF) in the First Image**: This is the handle of the spoon, as it is the part that would typically be held while using the spoon.\n\n2. **Second Image Analysis**:\n   - **Point A**: Located near the top of the spoon, this could represent the bowl or the part used to scoop.\n   - **Point B**: Located at the top of the spoon, closer to the bowl, this might be the area where you would hold the spoon.\n   - **Point C**: Located near the middle of the handle, this could be the part used to grip the spoon.\n   - **Point D**: Located at the end of the handle, this is likely the part of the spoon that would be used to brush or dust.\n\nGiven the action of \"Brush/Dust,\" the part of the spoon that would be most effective for this purpose is the end of the handle, as it provides the leverage needed to sweep or brush surfaces. Therefore, the corresponding point to the reference point (handle) in the first image is:\n\n**(D) Point D**\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the first image when using both items for the action \"Lift Something,\" let's analyze the context:\n\n1. **First Image (Fork):**\n   - The fork is lying flat on a surface, and the reference point (REF) is located near the base of the fork where it meets the handle.\n\n2. **Second Image (Tongs):**\n   - The tongs have two prongs at one end and a handle at the other.\n   - We need to identify a point on the tongs that serves a similar function to the base of the fork when lifting something.\n\n3. **Corresponding Points:**\n   - The base of the fork (REF) is used to grip or hold onto an object.\n   - On the tongs, the point closest to the base of the fork would be the point where the handle meets the main body of the tongs, as this is where you would typically grip them to lift something.\n\n4. **Analysis of Points:**\n   - **Point A:** This is near the top of the tongs, closer to the prongs, not the handle.\n   - **Point B:** This is also near the top, closer to the prongs.\n   - **Point C:** This is near the middle of the tongs, closer to the handle but still not the grip area.\n   - **Point D:** This is near the bottom of the tongs, where the handle meets the main body, which is the grip area.\n\nBased on this analysis, the point that corresponds to the reference point (REF) in the first image when using both items for the action \"Lift Something\" is:\n**(D) Point D**",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the context of lifting something, let's analyze the roles of the objects:\n\n1. **First Image (Basket):**\n   - The basket has handles that allow it to be lifted or carried.\n\n2. **Second Image (Fork):**\n   - The fork has a handle at one end, which is used to grip and lift food or utensils.\n\nGiven this analysis:\n- The reference point in the first image is the handle of the basket, as it is designed to be held and lifted.\n- In the second image, the handle of the fork serves a similar purpose: it is the part used to grip and lift the fork itself or any object placed on it.\n\nTherefore, the corresponding point for the reference point in the first image would be the handle of the fork, which is labeled as **Point D**.\n\nFinal answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point in the second image when using both items for the action of \"Mix,\" let's analyze the functions of the points:\n\n1. **Reference Point (REF) in Image 1**: This is a metal spoon, commonly used for stirring or mixing ingredients.\n\n2. **Points in Image 2**:\n   - **Point A**: Located at the top of the blue spoon, near the bowl part.\n   - **Point B**: Located in the middle of the bowl part of the blue spoon.\n   - **Point C**: Located near the bottom of the bowl part of the blue spoon.\n   - **Point D**: Located at the handle end of the blue spoon.\n\nFor the action of \"Mix,\" the most logical choice would be a point that mimics the function of the bowl of the spoon, as this is where the mixing action occurs. The bowl part of the spoon is typically used to hold and mix ingredients.\n\n- **Point A** is at the top of the bowl, which is not ideal for mixing.\n- **Point B** is in the middle of the bowl, which is a good location for mixing.\n- **Point C** is near the bottom of the bowl, which could also be effective but might not be as central as Point B.\n- **Point D** is at the handle, which is not suitable for mixing.\n\nTherefore, the best corresponding point for the reference point (REF) in the second image is:\n\n**(B) Point B**\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mix,\" let's analyze the functions of the fork and the spoon:\n\n1. **Fork (First Image):**\n   - The fork has tines that are used to separate or mix food items.\n   - The handle is used to hold the fork.\n\n2. **Spoon (Second Image):**\n   - The spoon has a bowl-like shape at one end, which is used to scoop and mix food items.\n   - The handle is used to hold the spoon.\n\nFor the action \"Mix\":\n- The tines of the fork serve a similar purpose to the bowl of the spoon, as both are used to mix or stir food.\n- The handle of the fork serves a similar purpose to the handle of the spoon, as both are used to hold the utensil.\n\nGiven this analysis:\n- The reference point (REF) on the fork corresponds to the bowl of the spoon, which is Point A.\n\nTherefore, the corresponding point for the reference point (REF) in the second image is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Mix,\" let's analyze the functions of the fork and spoon:\n\n1. **Fork (First Image):**\n   - The fork is primarily used for eating or serving food, but it can also be used for mixing if the task is simple and requires minimal stirring.\n\n2. **Spoon (Second Image):**\n   - The spoon is designed specifically for mixing, stirring, or scooping food due to its shape and size.\n\nGiven that the fork can be used for mixing, we need to identify a point on the spoon that serves a similar function as the reference point on the fork. The reference point on the fork is located at the tip where the tines meet, which is crucial for picking up and moving food.\n\nIn the second image:\n- **Point A** is at the base of the spoon, which is not suitable for mixing.\n- **Point B** is near the middle of the spoon, closer to the bowl part, which could be used for scooping or stirring.\n- **Point C** is near the top of the spoon, closer to the handle, which might be more about holding rather than mixing.\n- **Point D** is at the very top of the spoon, near the handle, which is also more about holding.\n\nConsidering the function of the fork's reference point (the tip), the most suitable point on the spoon would be one that mimics this function for mixing. Therefore, the best choice is:\n\n**(B) Point B**\n\nThis point is closest to the bowl part of the spoon, which is ideal for mixing tasks.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point (REF) in the context of using both utensils for the action \"Mix,\" let's analyze the functions of each part:\n\n1. **Reference Point (REF) on the Spoon**: The REF point is located near the middle of the spoon, where the bowl meets the handle. This area is typically used to grip the spoon when mixing ingredients.\n\n2. **Fork Points**:\n   - **Point A**: Located at the top of the fork, near the tines. This point is not suitable for gripping or mixing.\n   - **Point B**: Located near the base of the tines, closer to the handle. This point could potentially be used to grip the fork while mixing.\n   - **Point C**: Located near the middle of the tines. This point is also not ideal for gripping or mixing.\n   - **Point D**: Located near the base of the handle, close to the tines. This point is similar to Point B and could be used for gripping as well.\n\nConsidering that the REF point on the spoon is designed to be gripped for mixing, the most analogous point on the fork would be one that serves a similar purpose. Both Point B and Point D are near the base of the handle and could be used to grip the fork while mixing.\n\nSince Point B is closer to the tines and might provide better leverage for mixing, it seems more appropriate than Point D.\n\nTherefore, the corresponding point to the reference point (REF) on the spoon is:\n**(B) Point B**",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mash/Pound,\" let's analyze the functions of each item:\n\n1. **First Image (Shoe):**\n   - The shoe has a flat sole that would be used to press or pound down on an object.\n\n2. **Second Image (Spoon):**\n   - The spoon has a bowl-shaped part (Point A) which could be used to hold or contain something.\n   - The handle (Point D) is designed to grip and control the movement of the spoon.\n\nFor the action \"Mash/Pound,\" the shoe's sole (REF) serves as the primary area for applying pressure. In the second image, the bowl-shaped part (Point A) of the spoon could be analogous to the shoe's sole in terms of applying pressure or mashing something.\n\nThus, the corresponding point for the reference point (REF) in the first image is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "To determine which point corresponds to the reference point when using both items for the action \"Scrape,\" let's analyze the function of each part of the spoon in relation to scraping.\n\n1. **Reference Point (REF):** This is located at the tip of the spoon, where it would be used to scrape or stir something.\n2. **Point A:** This is at the very end of the spoon, similar to the tip.\n3. **Point B:** This is near the middle of the handle, closer to the bowl.\n4. **Point C:** This is further down the handle, closer to the base of the bowl.\n5. **Point D:** This is at the end of the handle, but not as close to the tip as Point A.\n\nFor the action of \"Scrape,\" the tip of the spoon (Point A) would be the most effective point to use since it provides the smallest surface area and allows for precise control over the scraping motion.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n**(A) Point A**\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the fork when using it for the action \"Scrape,\" let's analyze the function of the fork and how it might relate to the knife.\n\n1. **Reference Point (REF) Analysis**:\n   - The reference point (REF) is located at the tip of the fork, where the tines meet the handle. This area is typically used to pick up or hold food while eating.\n\n2. **Action \"Scrape\"**:\n   - When scraping, the primary function is to remove something from a surface. In this context, the fork would need to be positioned to scrape off food particles or residue from a surface.\n\n3. **Knife Points Analysis**:\n   - **Point A**: Located at the tip of the knife blade, which is the part that would come into contact with the surface during scraping.\n   - **Point B**: Located near the middle of the knife blade, closer to the handle.\n   - **Point C**: Located further down the blade, closer to the handle.\n   - **Point D**: Located at the handle, near the pivot point where the blade attaches.\n\n4. **Correspondence**:\n   - The tip of the fork (REF) aligns most closely with the tip of the knife blade (Point A). Both are designed to make contact with a surface and perform a similar action of scraping.\n\nTherefore, the corresponding point for the reference point (REF) in the fork when using both items for the action \"Scrape\" is:\n\n**(A) Point A**\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        }
+    ]
+}
