@@ -173,7 +173,7 @@ if __name__ == '__main__':
         if args.model_path == 'Qwen/Qwen2.5-VL-7B-Instruct':
             qwen_model = QwenModel(model=args.model_path, weight_ensembling_ratio=args.weight_ensembling_ratio)
         else:
-            qwen_model = QwenModel(model='../../checkpoints/' + args.model_path, weight_ensembling_ratio=args.weight_ensembling_ratio)
+            qwen_model = QwenModel(model=args.model_path, weight_ensembling_ratio=args.weight_ensembling_ratio)
         model_generate_funcs.update({model_name: qwen_model.query})
 
     model_generate_func = model_generate_funcs[model_name]

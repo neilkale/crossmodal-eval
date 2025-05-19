@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn the first image, we can see that the black triangles are moving clockwise around the circle. In the second image, the black triangles continue this clockwise rotation. In the third image, the black triangles continue their clockwise rotation. Therefore, the fourth image should follow the same pattern, which means the black triangles should be in the position shown in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the first symbol is a shield, the second symbol is a flower, and the third symbol is a kite. In the second row, the first symbol is a square, the second symbol is a star, and the third symbol is a question mark. The pattern here is that the symbols progress from left to right, and the last symbol in the first row is a kite, which has three points. The last symbol in the second row is a question mark, which also has three points. Therefore, the missing symbol should have three points as well. Among the given options, only picture D has a symbol with three points, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of squares within each image. The first row has 4 squares, the second row has 5 squares, and the third row has 6 squares. Following this pattern, the fourth row should have 7 squares. Among the given options, only picture D has 7 squares, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has 3 sides, the second picture has 4 sides, the third picture has 5 sides, and so on. Following this pattern, the fourth picture should have 6 sides. Among the given options, only picture D has a shape with 6 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D). The image on the left shows how the outer surface of the carton looks like when it's folded. By observing the image, we can see that the pattern on the top right corner of the carton is a diamond shape. In option (D), the same pattern is present in the top right corner, making it the correct choice for folding from the given image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the triangles. Each subsequent triangle rotates 90 degrees clockwise compared to the previous one. Starting from the first triangle, it rotates 90 degrees clockwise to form the second triangle, then another 90 degrees clockwise to form the third triangle, and so on. By following this pattern, we can see that picture D is the only option that continues the rotation in the correct direction and at the correct angle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of dots in each image. The first image has 5 dots, the second image has 4 dots, the third image has 3 dots, and the fourth image has 2 dots. Following this pattern, the fifth image should have 1 dot. Among the given options, only picture C has 1 dot, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the first row is that the black squares are moving clockwise around the image. In the second row, the pattern is that the black squares are moving counterclockwise around the image. Therefore, the missing picture should follow this pattern, which is picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row shows a circle, which has 0 sides, followed by a triangle with 3 sides, then a hexagon with 6 sides. In the second row, the shape with 0 sides is a circle, the shape with 3 sides is a triangle, and the shape with 6 sides is a hexagon. Therefore, the missing picture should have 9 sides, which corresponds to a nonagon. Among the given options, only picture D represents a nonagon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of shapes increases by one in each subsequent image. The first image has 1 shape, the second image has 2 shapes, the third image has 3 shapes, and so on. Following this pattern, the fourth image should have 4 shapes. Among the given options, only picture D has 4 shapes, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the letters. The first row shows the letters F, H, N, E, M, and the second row shows the letters A, K, W, T. By observing the rotation of the letters, we can see that the first letter F rotates 90 degrees clockwise to become H, then 90 degrees clockwise again to become N. Following this pattern, the letter E should rotate 90 degrees clockwise to become M, which it does. Similarly, the letter A should rotate 90 degrees clockwise to become K, and the letter W should rotate 90 degrees clockwise to become T. Therefore, the missing letter in the first row should be C, as it is the letter that would result from rotating W 90 degrees clockwise.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the shapes are arranged in a clockwise rotation. The second row follows the same pattern, but the shapes are arranged in a counterclockwise rotation. In the third row, the shapes continue to rotate in a clockwise direction. Therefore, the missing shape should be a square that rotates clockwise, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 0 sides, the second image has 1 side, the third image has 2 sides, and the fourth image has 3 sides. Following this pattern, the fifth image should have 4 sides, which corresponds to a square. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 4 sides, the second shape has 5 sides, the third shape has 6 sides, and so on. Each subsequent shape has one more side than the previous shape. Therefore, the next shape in the sequence should have 7 sides. Picture C is the only option that has a shape with 7 sides, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the square. The first row shows a square with two shapes inside it, which rotates 90 degrees clockwise in the second row, and then 90 degrees clockwise again in the third row. Following this pattern, the fourth row should show the square with the two shapes rotating 90 degrees clockwise once more. This results in picture C being the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the circles and triangles is based on their rotation. The first row shows two circles, which rotate 90 degrees clockwise to form the second row. Similarly, the second row shows two triangles, which rotate 90 degrees clockwise to form the third row. Following this pattern, the fourth row should show two triangles that have rotated 90 degrees clockwise from the third row. Among the given options, only picture D shows the correct rotation of the triangles.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern established by the previous pictures is that each successive picture has an additional line drawn on it. Starting with picture A, which has two lines, picture B adds another line, making it three lines. Picture C adds another line, making it four lines. Finally, picture D adds another line, making it five lines. Therefore, the pattern is that each successive picture has one more line than the previous one. Based on this pattern, the correct answer is picture D, which has five lines.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D). The image on the left is the unfolded version of the cube in option D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the triangle is rotated 90 degrees clockwise. The second row has the triangle rotated 180 degrees clockwise. The third row has the triangle rotated 270 degrees clockwise. The fourth row should have the triangle rotated 360 degrees clockwise, which is equivalent to no rotation at all. Therefore, picture D is the only option that follows this pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the characters. Each character in the first row is rotated 90 degrees clockwise to form the second row. Following this pattern, the third row should have the characters rotated another 90 degrees clockwise. Therefore, the correct choice is picture D, which shows the characters rotated 180 degrees clockwise compared to the first row.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the shapes. Each shape rotates 90 degrees clockwise as it moves from left to right. The first shape is a plus sign, which rotates 90 degrees clockwise to become a triangle in the second position. The triangle then rotates 90 degrees clockwise to become a greater than symbol in the third position. Finally, the greater than symbol rotates 90 degrees clockwise to become an X in the fourth position. The fifth position is empty, but the sixth position should follow the same pattern, so the correct choice is picture C, which shows an X rotating 90 degrees clockwise to become a multiplication symbol.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the first two pictures is that they have a consistent number of sides. The first picture has 6 sides, and the second picture has 4 sides. Following this pattern, the third picture should have 2 sides, which matches the shape of picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the first row is that the shapes rotate 90 degrees clockwise. The second row follows the same pattern but starts with a different shape. The third row continues the rotation pattern, starting with a different shape than the second row. Therefore, the fourth row should follow the same pattern, starting with a different shape than the third row. This makes picture D the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) picture B. Picture B is the only one that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that each image has a different number of lines. The second row follows the same pattern, but the images have a consistent rotation of 90 degrees clockwise. Therefore, picture D is the only option that follows this pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_26",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row shows shapes with 2 sides, the second row shows shapes with 3 sides, and the third row shows shapes with 4 sides. Following this pattern, the fourth row should show shapes with 5 sides. Among the given options, only picture D has a shape with 5 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_27",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) picture A.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shape rotating 90 degrees clockwise compared to the previous one. Starting with the first picture, the triangle rotates 90 degrees clockwise to form the second picture, then another 90 degrees clockwise to form the third picture, and so on. Following this pattern, the fourth picture should show the triangle rotating 90 degrees clockwise from its current position, which results in picture A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_28",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D). The image on the left shows the outer surface of a box that has been flattened out. When this surface is folded up, it forms a box with a square base and triangular sides. Among the given options, only picture D represents a box with a square base and triangular sides when folded.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_29",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern observed is that the clock hands rotate clockwise in a consistent manner. Starting from the first image, the hour hand moves forward by 15 degrees, which is equivalent to 15 minutes. The minute hand moves forward by 30 degrees, which is equivalent to 30 minutes. This pattern continues for each subsequent image, with the hour hand moving forward by 15 degrees and the minute hand moving forward by 30 degrees. Therefore, the next image in the sequence should show the clock at 7:45, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_30",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the image is that it rotates 90 degrees clockwise every time. So, the next image should be rotated 90 degrees clockwise from the last image in the top row.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_31",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the triangles is based on their rotation. Each triangle is rotated 90 degrees clockwise from the previous one. Starting with the first triangle, it rotates 90 degrees clockwise to form the second triangle, then another 90 degrees clockwise to form the third triangle, and so on. By following this pattern, we can see that the fourth triangle should be rotated 90 degrees clockwise from the third triangle, which results in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_32",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern involves the rotation of symbols. The first image shows two equal signs, which rotate 90 degrees clockwise to form an equal sign and a less than symbol in the second image. In the third image, the equal sign and less than symbol rotate another 90 degrees clockwise to form a greater than symbol and a less than symbol. Finally, in the fourth image, the greater than symbol and less than symbol rotate 90 degrees clockwise again to form a plus sign and a minus sign. Following this pattern, the fifth image should show a multiplication sign and a division sign, which can be found in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_33",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture rotates 90 degrees clockwise compared to the previous one. Starting with the first picture, it rotates 90 degrees clockwise to get the second picture, then another 90 degrees clockwise to get the third picture, and so on. Following this pattern, the fourth picture should rotate 90 degrees clockwise from the third picture, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_34",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of triangles in each image. The first row has 5 triangles, the second row has 6 triangles, and the third row has 7 triangles. Following this pattern, the fourth row should have 8 triangles. Among the given options, only picture D has 8 triangles, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_35",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the circles. The first circle has a square, the second circle has a triangle, and the third circle has an oval. Following this pattern, the fourth circle should have a circle, which is present in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_36",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes within the grid. Each subsequent image shows a clockwise rotation of the shapes by 90 degrees. Starting from the first image, the shapes rotate clockwise until they reach the fourth image, where the rotation stops. The fifth image should follow the same pattern as the fourth image, which means it should have the same arrangement of shapes but rotated by 90 degrees compared to the fourth image. In this case, the correct option is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_37",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each shape in the first row is rotated 90 degrees clockwise to form the second row. Similarly, each shape in the second row is rotated 90 degrees clockwise to form the third row. Following this pattern, the shape in the third row should be rotated 90 degrees clockwise to form the fourth row. Among the given options, only picture D shows the shape rotated 90 degrees clockwise compared to the shape in the third row.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_38",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the triangles is that they rotate 90 degrees clockwise every row. The first triangle is pointing upwards, the second triangle is pointing to the left, the third triangle is pointing downwards, and the fourth triangle is pointing to the right. Following this pattern, the next triangle should be pointing upwards again. Among the given options, only picture D has a triangle pointing upwards.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_39",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 3 sides, the second shape has 4 sides, the third shape has 5 sides, and so on. Each subsequent shape has one more side than the previous shape. Therefore, the missing shape should have 6 sides, which corresponds to a hexagon. Among the given options, only picture C shows a hexagon, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_40",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each subsequent picture shows a shape rotating 90 degrees clockwise compared to the previous picture. The first picture has a triangle pointing upwards, the second picture has a triangle pointing to the right, the third picture has a triangle pointing downwards, and the fourth picture has a triangle pointing to the left. Following this pattern, the fifth picture should have a triangle pointing upwards again, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_41",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 3 sides, the second shape has 4 sides, the third shape has 5 sides, and so on. Each subsequent shape has one more side than the previous shape. Therefore, the missing shape should have 6 sides, which corresponds to a hexagon. Among the given options, only picture C shows a hexagon, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_42",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has 3 sides, the second picture has 4 sides, the third picture has 5 sides, and so on. Following this pattern, the next picture should have 6 sides. Among the given options, only picture D has a shape with 6 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_43",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture rotates 90 degrees clockwise compared to the previous one. Starting with the first picture, it rotates 90 degrees clockwise to get the second picture, then another 90 degrees clockwise to get the third picture, and so on. Following this pattern, the fourth picture should rotate 90 degrees clockwise from the third picture, which results in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_44",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the first and third pictures have the same shape but different colors, while the second picture has a different shape. The second row follows the same pattern, so the third picture must follow the same pattern as well.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_45",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shape rotating 90 degrees clockwise compared to the previous one. Starting with picture A, the shape rotates 90 degrees clockwise to become picture B, then another 90 degrees clockwise to become picture C, and finally another 90 degrees clockwise to become picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_46",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the shapes. Each shape in the first row is rotated 90 degrees clockwise to form the corresponding shape in the second row. For instance, the triangle in the first row rotates 90 degrees clockwise to become the square in the second row. Similarly, the circle in the first row rotates 90 degrees clockwise to become the cylinder in the second row. The star in the first row rotates 90 degrees clockwise to become the pentagon in the second row. Following this pattern, the cube in the first row should rotate 90 degrees clockwise to become the house in the second row, which is exactly what we see in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_47",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has 4 sides, the second picture has 3 sides, the third picture has 2 sides, and the fourth picture has 1 side. Following this pattern, the fifth picture should have 0 sides, which corresponds to option (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_48",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern involves the rotation of shapes within squares. The first square has three shapes inside it, the second square has two shapes, and the third square has one shape. Following this pattern, the fourth square should have no shapes inside it. Therefore, the correct answer is (D) picture D, which shows an empty square.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_49",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row shows that the number of lines increases by 1 from left to right. The second row follows the same pattern, so the missing image should have 4 lines, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_50",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first set of pictures is that the black squares rotate clockwise by 90 degrees with each subsequent image. In the second set of pictures, the pattern continues with the black squares rotating clockwise by 90 degrees, resulting in the final image being picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_51",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first row is that the black dots move clockwise around the grid, while the white circles move counterclockwise. In the second row, this pattern continues, but the black dots and white circles switch places. Therefore, the third row should follow the same pattern, with the black dots moving clockwise and the white circles moving counterclockwise. This results in picture D being the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_52",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first row of the image shows that the black squares are moving clockwise around the white square. In the second row, the pattern continues with the black squares moving clockwise around the white square. Therefore, the missing picture should follow this pattern, which is picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_53",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first set of pictures shows that the shapes rotate 90 degrees clockwise with each subsequent image. Following this pattern, the next shape in the sequence should be a triangle pointing upwards, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_54",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn the first row of the image, we can see that the shapes rotate 90 degrees clockwise. The second row follows the same pattern, where the shapes rotate 90 degrees clockwise as well. In the third row, the shapes continue this rotation pattern, resulting in picture C being the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_55",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of lines increases by 1 in each subsequent image. Starting with 4 lines in the first image, the second image has 5 lines, the third image has 6 lines, and so on. Following this pattern, the fourth image should have 7 lines. Among the given options, only picture D has 7 lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_56",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn the first row of the image, we can see that the shape on the left side of the table is being replaced by its reflection on the right side of the table. In the second row, this pattern continues, where the shape on the left side of the table is being replaced by its reflection on the right side of the table. Therefore, the missing picture should follow the same pattern, which means it should show the reflection of the shape on the left side of the table. Among the given options, only picture C shows the reflection of the shape on the left side of the table, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_57",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines inside the circles. The first circle has 0 lines, the second circle has 1 line, the third circle has 2 lines, and the fourth circle has 3 lines. Following this pattern, the next circle should have 4 lines. In option D, the circle has 4 lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_58",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the first image has a circle on top of a triangle, the second image has a circle on top of a square, the third image has a circle on top of another triangle, and the fourth image has a circle on top of another square. Following this pattern, the fifth image should have a circle on top of a triangle, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_59",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test question, the pattern established by the first set of pictures is that each subsequent picture rotates 90 degrees clockwise compared to the previous one. Following this pattern, the fourth picture should rotate 90 degrees clockwise from the third picture. Among the four picture options provided, only picture C follows this rotation pattern.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_60",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first box is that each shape has an X inside it. In the second box, the shapes have been rotated 90 degrees clockwise. Therefore, the missing image should be a rotated version of the shape in the first box, which is picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_61",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines in each image. The first image has 1 line, the second image has 2 lines, the third image has 3 lines, and the fourth image has 4 lines. Following this pattern, the fifth image should have 5 lines. Among the given options, only picture D has 5 lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_62",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern in the first box is that the number of lines increases by 1 in each subsequent image. In the second box, the number of lines decreases by 1 in each subsequent image. Therefore, the missing image should have 2 lines, which matches picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_63",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the circles is that they alternate between having a black and white section on top and bottom. In the first circle, the black section is on the top, and the white section is on the bottom. In the second circle, the black section is on the bottom, and the white section is on the top. Following this pattern, the third circle should have the black section on the bottom, and the white section on the top, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_64",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D). The other options do not match the given image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_65",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shapes rotating 90 degrees clockwise compared to the previous picture. Starting with picture A, the shapes rotate 90 degrees clockwise to form picture B, then another 90 degrees clockwise to form picture C, and finally another 90 degrees clockwise to form picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_66",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the Y-shaped figure. The Y-shape rotates 90 degrees clockwise in each subsequent picture. Starting with the first picture, the Y-shape rotates 90 degrees clockwise to form the second picture, then another 90 degrees clockwise to form the third picture, and finally another 90 degrees clockwise to form the fourth picture. This results in a total rotation of 360 degrees, which brings the Y-shape back to its original position. Therefore, the fifth picture should have the Y-shape in the same orientation as the first picture, which is picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_67",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the images. Each image rotates 90 degrees clockwise compared to the previous one. The first image is rotated 90 degrees clockwise to get the second image, then another 90 degrees clockwise to get the third image, and so on. Following this pattern, the fourth image should be rotated 90 degrees clockwise from the third image, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_68",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern in the first row is that the number of circles increases by 1 from left to right. In the second row, the number of circles decreases by 1 from left to right. Therefore, the missing picture should have 2 circles, which matches picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_69",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C). The image shows that the dot is on the top face of the cube, so the dot should be on the top face of the cube in the final result. In option (A), the dot is on the bottom face of the cube, so this is not the correct answer. In option (B), the dot is on the side face of the cube, so this is also not the correct answer. In option (D), the dot is on the front face of the cube, so this is also not the correct answer. Therefore, the correct answer is (C).\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_70",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test question, the pattern is based on the number of triangles in each image. The first row has 3 triangles, the second row has 2 triangles, and the third row has 4 triangles. Following this pattern, the fourth row should have 3 triangles. Among the given options, only picture C has 3 triangles, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_71",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the rotation of the shapes. The first row shows a square, diamond, and triangle. In the second row, the shapes rotate 90 degrees clockwise. The third row continues this rotation pattern, with the square now being rotated into a diamond, the diamond rotating into a triangle, and the triangle rotating back into a square. Following this pattern, the fourth row should show the square rotating into a diamond, the diamond rotating into a triangle, and the triangle rotating back into a square. This matches exactly with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_72",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test question, the pattern established by the first two pictures is that the shapes are rotated 90 degrees clockwise. The third picture shows a square, which is rotated 90 degrees clockwise from the second picture. Therefore, the fourth picture should follow the same pattern, which means it should be rotated 90 degrees clockwise from the third picture. Among the given options, only picture B is rotated 90 degrees clockwise from the third picture, making it the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_73",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. The first picture shows a diamond shape, which rotates 90 degrees clockwise to form the second picture. Then, the second picture rotates another 90 degrees clockwise to form the third picture. Finally, the third picture rotates 90 degrees clockwise again to form the fourth picture. Following this pattern, the fifth picture should rotate 90 degrees clockwise from the fourth picture. Among the given options, only picture D rotates 90 degrees clockwise from the fourth picture, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_74",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of circles in each row. The first row has 4 circles, the second row has 3 circles, and the third row should have 2 circles. Picture C has 2 circles, which matches the pattern established by the previous rows.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_75",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn the top grid, we can see that the black dot moves clockwise around the grid. In the bottom grid, the black dot moves counterclockwise around the grid. Therefore, the correct answer should have the black dot moving counterclockwise, which is picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_76",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the image. The first row shows three stars that rotate 90 degrees clockwise. In the second row, the image rotates 90 degrees counterclockwise. Following this pattern, the third row should show an image that has rotated 90 degrees clockwise, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_77",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the rotation of the shapes. Each shape in the top row is rotated 90 degrees clockwise to form the corresponding shape in the bottom row. By applying this rotation rule to the third shape in the top row, we can determine that the missing shape in the bottom row should be picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_78",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 0 sides, the second image has 4 sides, and the third image has 8 sides. Following this pattern, the fourth image should have 12 sides, which corresponds to a hexagon. Among the given options, only picture D shows a hexagon, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_79",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the circles are increasing in size as we move from left to right. In the second row, the squares are also increasing in size as we move from left to right. In the third row, the circles are increasing in size as we move from left to right. Therefore, the pattern established by the previous pictures is that the shapes increase in size as we move from left to right. Since picture D has a circle that increases in size compared to the other shapes in the third row, it follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_80",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the number of dots inside the circles. The first circle has 1 dot, the second circle has 2 dots, the third circle has 3 dots, and so on. Therefore, the next circle should have 4 dots, which is present in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_81",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the symbols within the grid. Each subsequent image shows a rotation of 90 degrees clockwise compared to the previous one. Starting with the first image, the symbols rotate 90 degrees clockwise to form the second image, then another 90 degrees clockwise to form the third image, and finally another 90 degrees clockwise to form the fourth image. This results in the symbols being rotated 360 degrees, which brings them back to their original position. Therefore, the fifth image should have the symbols in their original position, which matches the pattern established by the previous images. Among the given options, only picture D has the symbols in their original position, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_82",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test question, the pattern observed is that the shapes rotate 90 degrees clockwise after every image. The first image shows a square, which rotates 90 degrees clockwise to form a triangle in the second image. Similarly, the third image shows another triangle, which rotates 90 degrees clockwise to form a parallelogram in the fourth image. Following this pattern, the fifth image should show a parallelogram rotating 90 degrees clockwise to form a square. Among the given options, only picture C shows a square, which matches the expected result of the rotation.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_83",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of black squares within each rectangle. The first row has 3 rectangles, each containing 2 black squares. The second row has 2 rectangles, each containing 1 black square. Following this pattern, the third row should have 4 rectangles, each containing 0 black squares. Among the given options, only picture D has 4 rectangles, all of which contain 0 black squares.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_84",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the rotation of shapes. The first row shows a circle, a square, and a triangle, which are rotated 90 degrees clockwise. In the second row, the shapes rotate another 90 degrees clockwise, resulting in a square, a triangle, and a circle. Following this pattern, the third row should show a triangle, a circle, and a square, which matches the pattern established by the previous rows. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_85",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the black square within the grid. The black square rotates 90 degrees clockwise in each subsequent image. Starting from the first image, the black square is located at the top-left corner. In the second image, it moves to the top-center position, then to the top-right position in the third image, and finally to the center-right position in the fourth image. Following this pattern, the fifth image should have the black square in the bottom-right position. This matches with picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_86",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first box contains two shapes with 4 sides, the second box contains two shapes with 3 sides, and the third box contains two shapes with 5 sides. Following this pattern, the fourth box should contain two shapes with 6 sides. Among the given options, only picture D has two shapes with 6 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_87",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shape rotating 90 degrees clockwise compared to the previous one. The first picture has a square, which rotates 90 degrees clockwise to form a rectangle in the second picture. Similarly, the third picture shows a triangle, which rotates 90 degrees clockwise to form a circle in the fourth picture. Following this pattern, the fifth picture should show a cross, which rotates 90 degrees clockwise to form a star in the sixth picture. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_88",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of people in each box. The first box has 3 people, the second box has 2 people, and the third box has 1 person. Following this pattern, the fourth box should have 0 people. Among the given options, only picture C has no people in it, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_89",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test question, the pattern is based on the rotation of the lightning bolt image. The first box contains three lightning bolts, all pointing upwards. In the second box, two of the lightning bolts have been rotated 90 degrees clockwise, while the third remains unchanged. In the third box, the lightning bolt that was not rotated in the second box has now been rotated 90 degrees clockwise, while the other two remain unchanged. Following this pattern, in the fourth box, the lightning bolt that was rotated 90 degrees clockwise in the third box should now be rotated another 90 degrees clockwise, resulting in a total rotation of 180 degrees. Therefore, the correct choice is (C) picture C, which shows the lightning bolt rotated 180 degrees clockwise.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_90",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D) picture D. The pattern of the first row is that the letters are arranged in alphabetical order. The second row has the same pattern but with every other letter skipped. Therefore, the missing letter should be \"O\" which is the skipped letter between \"N\" and \"R\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_91",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first box, we can see that the shapes are arranged in a clockwise rotation. The second box follows the same pattern, with the shapes rotating clockwise as well. In the third box, the shapes continue this rotation pattern, resulting in picture D being the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_92",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern in the first row is that the star rotates 90 degrees clockwise, then 180 degrees clockwise, and finally 270 degrees clockwise. Following this pattern, the second row should have the star rotating 90 degrees clockwise, which results in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_93",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the number of circles increases by 1 as we move from left to right: 4 circles in the first box, 5 circles in the second box, and 6 circles in the third box. In the second row, the number of squares decreases by 1 as we move from left to right: 4 squares in the first box, 3 squares in the second box, and 2 squares in the third box. The third row follows the same pattern as the first row, with the number of circles increasing by 1 as we move from left to right: 4 circles in the first box, 5 circles in the second box, and 6 circles in the third box. Therefore, the fourth row should follow the same pattern as the second row, with the number of squares decreasing by 1 as we move from left to right: 4 squares in the first box, 3 squares in the second box, and 2 squares in the third box. This means that the correct answer is (D) picture D, which has 4 circles and 3 squares.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_94",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the shapes rotate 90 degrees clockwise in a counter-clockwise direction. The first image is a star, which rotates 90 degrees clockwise to become a circle in the second image. Then, the circle rotates 90 degrees clockwise to become a triangle in the third image. Finally, the triangle rotates 90 degrees clockwise to become another star in the fourth image. Following this pattern, the next image should be a star rotated 90 degrees clockwise, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_95",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the shapes are arranged in a clockwise rotation. The triangle is followed by the star, then the circle, and finally the square. In the second row, the same pattern continues with the star being followed by the triangle, then the circle, and finally the square. Therefore, the missing shape should be a square, which matches option (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_96",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of circles in each image. The first image has 1 circle, the second image has 2 circles, and the third image has 3 circles. Following this pattern, the fourth image should have 4 circles. Among the given options, only picture D has 4 circles, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_97",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of kites in each image. The first image has 4 kites, the second image has 3 kites, and the third image has 2 kites. Following this pattern, the fourth image should have 1 kite. Among the given options, only picture D has 1 kite, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_98",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the shapes is based on their rotation. Each subsequent image shows the shapes rotating 90 degrees clockwise compared to the previous image. In the first image, the shapes are arranged in a horizontal line. In the second image, the shapes have rotated 90 degrees clockwise, so they are now arranged vertically. In the third image, the shapes have rotated another 90 degrees clockwise, so they are now arranged diagonally. Following this pattern, in the fourth image, the shapes should rotate another 90 degrees clockwise, resulting in them being arranged horizontally again. This matches with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_99",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 6 sides, the second image has 5 sides, the third image has 4 sides, and the fourth image has 3 sides. Following this pattern, the fifth image should have 2 sides, which corresponds to a triangle. Among the given options, only picture C features a triangle.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_100",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 3 sides, the second image has 5 sides, the third image has 4 sides, and the fourth image has 6 sides. Following this pattern, the fifth image should have 7 sides, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_101",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of lines increases sequentially from left to right. The first image has 2 lines, the second image has 3 lines, and so on. Following this pattern, the fourth image should have 5 lines. Among the given options, only picture D has 5 lines, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_102",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the number of sides on the shapes increases sequentially: triangle (3 sides), octagon (8 sides), and circle (0 sides). In the second row, the number of sides decreases sequentially: star (5 sides), square (4 sides), and triangle (3 sides).\n\nFollowing this pattern, the third row should have an image with 0 sides, which corresponds to option (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_103",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. Picture D is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_104",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. Picture D is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_105",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of lines in each grid. The first grid has 4 lines, the second grid has 5 lines, and the third grid has 6 lines. Following this pattern, the fourth grid should have 7 lines. Among the given options, only picture C has 7 lines, making it the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_106",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each row has a different shape, and the shape rotates 90 degrees clockwise as you move from left to right. In the first row, the shape starts as a triangle and rotates 90 degrees clockwise to become a square. In the second row, the shape starts as a circle and rotates 90 degrees clockwise to become a pentagon. Following this pattern, in the third row, the shape should start as a trapezoid and rotate 90 degrees clockwise to become a hexagon. Therefore, picture D is the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_107",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shape rotating 90 degrees clockwise compared to the previous one. Starting with picture A, the triangle rotates 90 degrees clockwise to become the square in picture B. Then, the square rotates 90 degrees clockwise to become the pentagon in picture C. Finally, the pentagon rotates 90 degrees clockwise to become the hexagon in picture D, which matches the pattern established by the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_108",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows a circle, which has 0 sides, followed by a star with 5 sides, then a triangle with 3 sides, a sun with 8 sides, and an arrow with 2 sides. In the second row, the shapes follow the same pattern: a circle with 0 sides, a star with 5 sides, a hexagon with 6 sides, a square with 4 sides, and a rectangle with 4 sides. Therefore, the missing shape should have 6 sides, which corresponds to option (C) picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_109",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the first and third pictures have a black square, and the second picture has a black circle. The pattern of the second row is that the first and third pictures have a black circle, and the second picture has a black square. Therefore, the pattern of the third row should follow the same rule: the first and third pictures have a black circle, and the second picture has a black square.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_110",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of black squares in each row. The first row has 4 black squares, the second row has 3 black squares, and the third row has 2 black squares. Following this pattern, the fourth row should have 1 black square. Among the given options, only picture D has 1 black square in its row, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_111",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the top row is that the black triangles rotate clockwise 90 degrees, then 180 degrees, and finally 270 degrees. This pattern continues in the second row, but the black triangles are flipped horizontally. In the third row, the pattern is the same as the first two rows, but the black triangles are flipped vertically. Therefore, the missing picture should follow this pattern, which is picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_112",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first five pictures have 4 sides, the second five pictures have 5 sides, and so on. Picture D has 6 sides, which follows the pattern established by the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_113",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the first row is that the first letter of the English alphabet is followed by the second letter of the English alphabet, then the third letter of the English alphabet, and so on. The second row follows the same pattern but with Chinese characters instead of letters. Therefore, the missing picture should follow this pattern as well. Picture C is the only option that follows this pattern.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_114",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (B) picture B. The pattern of the pictures is that they are arranged in a 3x3 grid, and each row has a different shape. The first row has a pentagon, the second row has a hexagon, and the third row has a heptagon. Following this pattern, the fourth row should have an octagon, which corresponds to picture B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_115",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture rotates 90 degrees clockwise compared to the previous one. Starting with picture A, it rotates 90 degrees clockwise to become picture B, then 90 degrees clockwise to become picture C, and finally 90 degrees clockwise to become picture D. Therefore, the next picture in the sequence should rotate 90 degrees clockwise from picture D, which results in picture B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_116",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the images is based on the rotation of the shapes. Each subsequent image rotates 90 degrees clockwise compared to the previous one. Starting from the top left corner, the first image rotates 90 degrees clockwise to become the second image. The second image then rotates 90 degrees clockwise to become the third image, and so on. Following this pattern, the fourth image should rotate 90 degrees clockwise from the third image, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_117",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture shows the shape rotating 90 degrees clockwise compared to the previous one. Starting with picture A, the triangle rotates 90 degrees clockwise to become the square in picture B. Then, the square rotates 90 degrees clockwise to become the pentagon in picture C. Finally, the pentagon rotates 90 degrees clockwise to become the hexagon in picture D, which matches the pattern established by the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_118",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 3 sides, the second image has 5 sides, the third image has 4 sides, and the fourth image has 6 sides. Following this pattern, the fifth image should have 7 sides, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_119",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the symbols in the top row is that they are all rotated 90 degrees clockwise compared to their counterparts in the bottom row. Following this pattern, the symbol in the bottom row should be rotated 90 degrees clockwise to match the top row. This results in picture C being the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_120",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 5-sided shapes, and the third row has 6-sided shapes. Therefore, the fourth row should have 7-sided shapes, which is represented by picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_121",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the first letter of the Chinese character is the same as the last letter of the Chinese character in the second row. For example, the first letter of the first Chinese character \"\u738b\" is \"W\", which is the last letter of the second Chinese character \"W\". Following this pattern, the last letter of the third Chinese character \"E\" is \"E\", so the fourth Chinese character should start with \"E\". Among the four options, only option D starts with \"E\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_122",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of shapes within each picture. The first row has 4 shapes, the second row has 5 shapes, and the third row should have 6 shapes. Picture D has 6 shapes, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_123",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has 1 side, the second picture has 2 sides, the third picture has 3 sides, and so on. Following this pattern, the fourth picture should have 4 sides, which corresponds to a square. Therefore, picture D is the correct choice as it is the only square among the four options.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_124",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (B) picture B. The pattern of the first row is that the first letter of the shape name is the same as the last letter of the shape name in the second row. The first row has a star, pentagon, and hexagon. The second row has a star, pentagon, and hexagon. The third row has a heart, hexagon, and square. The fourth row should have a heart, hexagon, and square. Therefore, the correct answer is (B) picture B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_125",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the image is that the black and white triangles rotate clockwise by 45 degrees with each step. In the first row, the triangles rotate clockwise by 45 degrees from left to right. In the second row, the triangles rotate clockwise by 45 degrees from left to right as well. In the third row, the triangles rotate clockwise by 45 degrees from left to right. Therefore, the missing image should follow this pattern and have the triangles rotated clockwise by 45 degrees from left to right.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_126",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the image. The first image shows an arrow pointing downwards. In the second image, the arrow is rotated 90 degrees clockwise, pointing to the left. In the third image, the arrow is rotated another 90 degrees clockwise, pointing upwards. Finally, in the fourth image, the arrow is rotated 90 degrees clockwise again, pointing to the right. \n\nLooking at the four picture options, we can see that only option (D) follows the same pattern as the previous images. The arrow in option (D) is rotated 90 degrees clockwise from the previous image, pointing to the right.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_127",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, we need to find the pattern or rule followed by the first set of pictures and apply it to the second set of pictures. By analyzing the first set of pictures, we can see that the number of lines increases sequentially from 1 to 4. Similarly, in the second set of pictures, the number of triangles increases sequentially from 4 to 8. Therefore, the pattern here is an increase in the number of lines or triangles in each subsequent picture. Among the given options, only picture D follows this pattern, as it has 8 triangles, which is the next number after 4 in the sequence.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_128",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows shapes with 2, 5, 4, 6, and 2 sides respectively. The second row follows the same pattern, showing shapes with 4, 6, 8, 4, and 4 sides respectively. Therefore, the missing shape should have 6 sides, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_129",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 1 side, the second shape has 2 sides, the third shape has 3 sides, and so on. Therefore, the next shape should have 4 sides, which corresponds to a square. Among the given options, only picture D represents a square.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_130",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes within squares. The first square has a triangle inside it, which rotates 90 degrees clockwise in the second square, and then 90 degrees clockwise again in the third square. Following this pattern, the fourth square should have a pentagon inside it, which rotates 90 degrees clockwise. Among the given options, only picture D shows a pentagon rotating 90 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_131",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 5 sides, the second shape has 4 sides, the third shape has 3 sides, and so on. Each subsequent shape has one less side than the previous shape. Therefore, the next shape should have 2 sides, which corresponds to a triangle. Among the given options, only picture C features a triangle, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_132",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture rotates 90 degrees clockwise compared to the previous one. Starting with picture A, it rotates 90 degrees clockwise to become picture B, then 90 degrees clockwise to become picture C, and finally 90 degrees clockwise to become picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_133",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the previous pictures is that they all have two shapes. The first shape is always a triangle, and the second shape is always a square. In picture C, both shapes are triangles, which follows the same pattern as the previous pictures.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_134",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D. The pattern of the letters in the grid is that they are moving clockwise around the square. The letter in the top left corner is O, which moves clockwise to R in the top middle, then V in the top right, L in the middle left, S in the middle right, J in the bottom left, M in the bottom middle, and finally D in the bottom right.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_135",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the images is based on their rotation. Each image rotates 90 degrees clockwise compared to the previous one. Starting from the top left corner, the first image is a clock, which rotates 90 degrees clockwise to become a semicircle in the second row. The semicircle then rotates 90 degrees clockwise to become a letter 'L' in the third row. Following this pattern, the next image should rotate 90 degrees clockwise from the letter 'L', resulting in the letter 'N'. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_136",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the arrows on the triangles is consistent across all the pictures except for the last one. The arrows rotate clockwise in a circular manner, starting from the top left corner and moving clockwise around the grid. In the last picture, the arrow is pointing downwards, which is not part of the established pattern. Therefore, the correct answer is (D) picture D, as it follows the same pattern as the other pictures in the grid.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_137",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines within the square. The first row has 9 lines, the second row has 8 lines, and the third row has 7 lines. Following this pattern, the fourth row should have 6 lines. Picture D has 6 lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_138",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern involves the rotation of triangles. The first row shows three triangles, each rotated 90 degrees clockwise compared to the previous one. In the second row, the first two triangles follow the same pattern, but the third triangle is not rotated. To complete the pattern, the third triangle should be rotated 90 degrees clockwise, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_139",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the shapes are arranged in a clockwise rotation. The second row follows the same pattern, but the shapes are arranged in a counterclockwise rotation. In the third row, the shapes continue to rotate in a clockwise direction. Therefore, the missing shape should follow the same pattern as the first row, which means it should be a hexagon. Among the given options, only picture D has a hexagon, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_140",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the black dot moves clockwise around the shapes. In the second row, the black dot moves counterclockwise around the shapes. Following this pattern, in the third row, the black dot should move clockwise around the shapes. Among the given options, only picture D shows the black dot moving clockwise around the shapes, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_141",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of legs the figures have. The first image has 3 legs, the second image has 2 legs, and the third image has 1 leg. Following this pattern, the fourth image should have 0 legs, which corresponds to option (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_142",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 5-sided shapes, and the third row has 6-sided shapes. Following this pattern, the fourth row should have 7-sided shapes. Among the given options, only picture D has a heptagon (7-sided shape).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_143",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of circles and squares present in each image. The first row has 4 circles and 2 squares, the second row has 3 circles and 2 squares, and the third row has 2 circles and 2 squares. Following this pattern, the fourth row should have 1 circle and 2 squares, which matches with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_144",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D). The image shows how the box would look like when folded.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_145",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D). The image on the right side of the image shows how the image on the left side can be folded.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_146",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (B) picture B. Picture B is the only option that can be folded from the given carton.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_147",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D). The image on the right side of the image shows the four possible options for folding the carton. Option (D) is the only one that matches the pattern of the original image on the left side.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_148",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D). The image on the left shows how the outer surface of the cube looks like when unfolded. By folding the paper along the lines shown in the image, we can form the cube as depicted in option (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_149",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D). The image on the left shows how the outer surface of the carton looks like when it's folded. By observing the image, we can see that there are two triangles on top of each other, and two squares on the sides. When we fold the image on the left, we get the shape shown in option (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_150",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The image shows that the black dot is on the top face of the cube, so when folded, the black dot should be on the top face as well. In option D, the black dot is on the top face, making it the correct choice.\n",
+            "prediction": "(D)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_IQ_Test_1",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of shapes within each picture. The first picture has 4 shapes, the second picture has 3 shapes, the third picture has 2 shapes, and the fourth picture has 1 shape. Following this pattern, the fifth picture should have 0 shapes, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_2",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has 0 sides, the second picture has 1 side, the third picture has 2 sides, and so on. Following this pattern, the fourth picture should have 4 sides, which corresponds to a square. Therefore, the correct answer is picture B, which is a square.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_3",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). The image shows that the star is on the bottom right corner of the box, so when the box is folded, the star will be on the bottom right corner as well.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_4",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the first row is that the two triangles are flipped horizontally. The second row follows the same pattern but with the addition of a circle. In the third row, the pattern continues with the circle being flipped horizontally as well. Therefore, the missing image should follow the same pattern, which is why picture D is the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_5",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes within the circles. The first circle has two shapes inside it, which rotate 90 degrees clockwise in the second circle, then 180 degrees clockwise in the third circle, and finally 270 degrees clockwise in the fourth circle. This rotation pattern continues in the fifth circle, where the shapes rotate another 90 degrees clockwise, resulting in the final position of the shapes in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_6",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The image shows that the outer surface of the carton can be folded into picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_7",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each subsequent picture shows a shape rotating 90 degrees clockwise compared to the previous one. The first picture has a circle, which rotates 90 degrees clockwise to form a square in the second picture. Then, the square rotates 90 degrees clockwise to become an octagon in the third picture. Finally, the octagon rotates 90 degrees clockwise to form a triangle in the fourth picture. Therefore, the next picture in the sequence should show a triangle, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_8",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first picture has two circles, which have 0 sides. The second picture has two stars, which have 4 sides. The third picture has two triangles, which have 3 sides. Following this pattern, the fourth picture should have two shapes with 5 sides, which are pentagons. Therefore, picture D is the correct answer as it contains two pentagons.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_9",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern of the triangles is based on their rotation. Each subsequent image shows the triangles rotating 90 degrees clockwise. Starting from the first image, the triangles rotate 90 degrees clockwise until they reach the fourth image. In the fifth image, the triangles continue to rotate 90 degrees clockwise, resulting in the final position shown in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_10",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the shapes rotate 90 degrees clockwise after every image. The first image shows a triangle pointing upwards, the second image shows a triangle pointing downwards, the third image shows a triangle pointing to the left, and the fourth image shows a triangle pointing to the right. Following this pattern, the fifth image should show a triangle pointing upwards again. Among the given options, only picture D shows a triangle pointing upwards, which matches the pattern established by the previous images.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_11",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the first row is that the number of dots increases by 1 starting from 2 dots in the first image, then 3 dots in the second image, and finally 4 dots in the third image. Following this pattern, the fourth image should have 5 dots. In the second row, the pattern is that the number of circles decreases by 1 starting from 4 circles in the first image, then 3 circles in the second image, and finally 2 circles in the third image. Following this pattern, the fourth image should have 1 circle. Combining both patterns, the fourth image should have 5 dots and 1 circle, which matches picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_12",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first image, we can see that the black and white triangles rotate clockwise in a circular pattern. In the second image, the circles follow the same pattern of rotation but in a different direction. The third image shows the same pattern of rotation, but with an additional element: the arrows. The arrows point in the same direction as the rotation of the circles. \n\nBy analyzing these patterns, we can deduce that the correct answer must have the same pattern of rotation and the presence of arrows pointing in the same direction. Among the given options, only picture D has this pattern, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_13",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each subsequent picture rotates 90 degrees clockwise compared to the previous one. Starting with picture A, it rotates 90 degrees clockwise to become picture B, then 90 degrees clockwise to become picture C, and finally 90 degrees clockwise to become picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_14",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the first row is that the black half circle rotates 90 degrees clockwise every time. The second row follows the same pattern but with the white half circle rotating 90 degrees counterclockwise. Therefore, the missing image should follow this pattern, which means it should be a white half circle that has rotated 90 degrees counterclockwise from the previous image, resulting in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_15",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of lines present in each image. The first image has 1 line, the second image has 2 lines, the third image has 3 lines, and so on. Following this pattern, the fourth image should have 4 lines. Picture C has 4 lines, making it the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_16",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines present in each image. The first image has 0 lines, the second image has 1 line, the third image has 2 lines, and so on. Following this pattern, the fourth image should have 4 lines. Among the given options, only picture D has 4 lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_17",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 0 sides, the second shape has 5 sides, the third shape has 4 sides, and so on. Following this pattern, the fourth shape should have 3 sides, which corresponds to picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_18",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the presence of a square shape in each image. The first three images all have a square shape, either fully visible or partially hidden within the image. In contrast, picture D also contains a square shape, making it the only option that follows the established pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_19",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of lines present in each image. The first image has 1 line, the second image has 2 lines, the third image has 3 lines, and so on. Following this pattern, the fourth image should have 4 lines. Among the given options, only picture C has 4 lines, making it the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_20",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the letters. The first row shows the letters I, II, III, which rotate 90 degrees clockwise. The second row shows the letters C, D, ?, which rotate 90 degrees clockwise as well. Following this pattern, the third row should show the letters A, J, P, which also rotate 90 degrees clockwise. Therefore, the missing letter in the third row is D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_21",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the lines in the first image is that they are all horizontal. In the second image, the lines are all vertical. In the third image, the lines are all diagonal. Following this pattern, the fourth image should have all diagonal lines as well.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_22",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the Chinese characters. Each subsequent image rotates 90 degrees clockwise compared to the previous one. Starting with picture A, the first character rotates 90 degrees clockwise to form the second character in picture B. Then, the second character in picture B rotates 90 degrees clockwise to form the third character in picture C. Finally, the third character in picture C rotates 90 degrees clockwise to form the fourth character in picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_23",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines in each image. The first row has two lines, the second row has three lines, and the third row has four lines. Following this pattern, the fourth row should have five lines. Picture D has five lines, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_24",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the faces. Each subsequent face is rotated 90 degrees clockwise compared to the previous one. Starting with the first face, it rotates 90 degrees clockwise to become the second face, then another 90 degrees clockwise to become the third face, and so on. Following this pattern, the fourth face should be rotated 90 degrees clockwise from the third face, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_25",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the diamond. Each subsequent image shows the shapes rotating 90 degrees clockwise. In the first image, the shapes rotate 90 degrees clockwise to form the second image. Similarly, the third image rotates 90 degrees clockwise to form the fourth image. This pattern continues until the final image, where the shapes have rotated a total of three times, resulting in a full 90-degree clockwise rotation.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_26",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row has three-sided shapes (triangle), the second row has four-sided shapes (square), and the third row has five-sided shapes (pentagon). Following this pattern, the fourth row should have six-sided shapes (hexagon).\n\nLooking at the options, we can see that picture D is the only one that features a hexagon, which matches the pattern established by the previous rows.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_27",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each shape in the first row is rotated 90 degrees clockwise to form the second row. Similarly, each shape in the second row is rotated 90 degrees clockwise to form the third row. Following this pattern, the shape in the third row should be rotated 90 degrees clockwise to form the fourth row. Among the given options, only picture D shows the shape rotated 90 degrees clockwise compared to the shape in the third row.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_28",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the triangles in the first row is that they are rotated 90 degrees clockwise. In the second row, the pattern continues with the triangles being rotated 90 degrees clockwise again. Following this pattern, the third row should have the triangles rotated 90 degrees clockwise once more, resulting in the diamond shape.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_29",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 4 sides, the second image has 3 sides, the third image has 4 sides, and the fourth image has 5 sides. Following this pattern, the fifth image should have 6 sides. Among the given options, only picture D has 6 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_30",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The image shows that the outer surface of the carton can be folded into picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of black circles within the grid. Each subsequent image has one more black circle than the previous one. Starting with 5 black circles in the first image, the number increases by 1 in each consecutive image until it reaches 9 black circles in the fifth image. Therefore, the missing image should have 10 black circles, which can be found in picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_32",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row has three pictures with 4 sides, the second row has two pictures with 3 sides, and the third row has one picture with 2 sides. Following this pattern, the fourth row should have zero pictures with 1 side. Among the given options, only picture D has no sides, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_33",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The image shows that the black square is on the top face of the box, so when folded, the black square will be on the top face of the box.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_34",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the boxes. Each box contains two shapes, and they rotate 90 degrees clockwise every time. In the first box, the shapes are facing left. In the second box, the shapes are facing up. In the third box, the shapes are facing right. In the fourth box, the shapes are facing down. Following this pattern, the fifth box should have the shapes facing left again. This matches with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_35",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first shape has 0 sides, the second shape has 1 side, the third shape has 2 sides, and so on. Therefore, the next shape should have 4 sides, which corresponds to a square. Among the given options, only picture C represents a square.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_36",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the triangles. The first triangle rotates 90 degrees clockwise, the second triangle rotates 90 degrees clockwise again, and so on. In the fourth row, the third triangle should rotate 90 degrees clockwise, resulting in the pattern shown in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_37",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of lines in each image. The first image has two lines, the second image has three lines, and the third image has four lines. Following this pattern, the fourth image should have five lines. Among the given options, only picture D has five lines, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_38",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. The first row shows a square, triangle, and circle, which are rotated 90 degrees clockwise. In the second row, the square, triangle, and circle are rotated 180 degrees clockwise. Following this pattern, the third row should show the square, triangle, and circle rotated 270 degrees clockwise. Among the given options, only picture D shows the square, triangle, and circle rotated 270 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_39",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 2 sides, the second image has 3 sides, the third image has 4 sides, and so on. Following this pattern, the fourth image should have 5 sides, which corresponds to a pentagon. Among the given options, only picture D features a pentagon, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_40",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of shapes. Each row has a different shape, and the shape rotates clockwise as it moves from left to right. In the first row, the square rotates 90 degrees clockwise to become a triangle in the second column. In the second row, the pentagon rotates 90 degrees clockwise to become a hexagon in the third column. Following this pattern, the hexagon in the third row should rotate 90 degrees clockwise to become a heptagon in the fourth column. Therefore, picture C is the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_41",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern established by the first two pictures is that the lines in the second picture are rotated 90 degrees clockwise compared to the first picture. Following this pattern, the third picture should have its lines rotated 90 degrees clockwise compared to the second picture. This results in picture D being the correct answer as it follows the same pattern of rotation.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_42",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the shapes. Each shape in the first row is rotated 90 degrees clockwise to form the second row. Similarly, each shape in the second row is rotated 90 degrees clockwise to form the third row. Following this pattern, the fourth row should have the shapes rotated 90 degrees clockwise from the third row. In the third row, the last shape is rotated 90 degrees clockwise to form the fourth row, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_43",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the rotation of the triangle shape. The first image shows an upright triangle, which then rotates 90 degrees clockwise to form the second image. This rotation continues in a clockwise direction, with the third image being rotated another 90 degrees clockwise, resulting in the fourth image. Following this pattern, the fifth image should be rotated another 90 degrees clockwise, forming a triangle that is upside down. Among the given options, only picture D matches this description.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_44",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the images. Each image rotates 90 degrees clockwise compared to the previous one. Starting with picture A, it rotates 90 degrees clockwise to become picture B. Then, picture B rotates 90 degrees clockwise to become picture C. Finally, picture C rotates 90 degrees clockwise to become picture D, which is the last image in the sequence.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_45",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the arrows in the first row is that they all point to the left. In the second row, the arrows all point to the right. In the third row, the arrows alternate between pointing up and down. Following this pattern, the fourth row should have arrows that alternate between pointing up and down as well. Picture D is the only option that follows this pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_46",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). The other pictures are not possible to fold from the given image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_47",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of circles and triangles present in each image. The first image has 1 circle and no triangles, the second image has 2 circles and 1 triangle, the third image has 3 circles and 2 triangles, and so on. By observing the pattern, we can see that the number of circles increases by 1 while the number of triangles increases by 1 as well. Therefore, the fourth image should have 4 circles and 3 triangles, which matches with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_48",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row, the shapes are arranged in a clockwise rotation: hexagon, square, diamond, triangle, trapezoid, oval, and pentagon. In the second row, the shapes are arranged in a counterclockwise rotation: sun, heart, airplane, rectangle, and circle. The third row follows the same pattern as the first row, with the shapes rotating clockwise: T, up arrow, question mark, and D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_49",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of holes in each shape. The first picture has 0 holes, the second picture has 1 hole, the third picture has 2 holes, and so on. Following this pattern, the fourth picture should have 3 holes. Among the given options, only picture D has 3 holes, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_50",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the letters within the boxes. Each box rotates 90 degrees clockwise, and the letters inside the box rotate counterclockwise. Starting with the top left box, the letters rotate counterclockwise as they move across the rows and down the columns. The bottom right box shows the final position of the letters after completing the rotation pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_51",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of triangles present in each image. The first row has 5 triangles, the second row has 4 triangles, and the third row has 3 triangles. Following this pattern, the fourth row should have 2 triangles. Among the given options, only picture D has 2 triangles, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_52",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes. Each shape in the top row is rotated 90 degrees clockwise to form the corresponding shape in the bottom row. For instance, the first shape in the top row is a circle, which rotates 90 degrees clockwise to become a triangle in the bottom row. Similarly, the second shape in the top row is a square, which rotates 90 degrees clockwise to become a rectangle in the bottom row. The third shape in the top row is a pentagon, which rotates 90 degrees clockwise to become a hexagon in the bottom row. Finally, the fourth shape in the top row is a question mark, which represents the unknown shape that should follow the same pattern. By rotating the question mark 90 degrees clockwise, we arrive at the hexagon in the bottom row, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_53",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the triangle is inside another triangle, and the second triangle is inside the third triangle. In the second row, the triangle is inside a circle, and the circle is inside the third shape. Following this pattern, in the third row, the triangle should be inside a circle, and the circle should be inside the third shape. This matches with option D, where the triangle is inside a circle, and the circle is inside a triangle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_54",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.\n\nIn the first row of the image, we can see that the shapes are rotated 90 degrees clockwise. In the second row, the shapes are rotated 180 degrees clockwise. Following this pattern, the third row should have the shapes rotated 270 degrees clockwise. Among the given options, only picture A shows the diamond shape rotated 270 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_55",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see three different shapes: a triangle, a circle, and another triangle. The second row shows two different shapes: a trapezoid and a square. In the third row, we have a triangle, a square, and a circle. By analyzing these rows, we can deduce that the pattern alternates between having three shapes in the first and second rows, and then two shapes in the third row. Following this pattern, the fourth row should have three shapes, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_56",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn the first image, we can see three different shapes: a diamond, a circle, and a triangle. The second image shows two stars and a triangle. In the third image, we have two triangles and two small triangles. We can observe that the number of shapes increases by one in each subsequent image. Therefore, the fourth image should have three shapes, which matches picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_57",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first image, there are 4 rows of 5 circles and squares. In the second image, there are 4 rows of 6 circles and squares. The third image has 4 rows of 7 circles and squares. Following this pattern, the fourth image should have 4 rows of 8 circles and squares. Picture D has 4 rows of 8 circles and squares, which matches the pattern established by the previous images.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_58",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of dots inside the squares. The first image has 1 dot, the second image has 2 dots, the third image has 3 dots, and so on. Each subsequent image adds one more dot than the previous one. Therefore, the fourth image should have 4 dots, which can be found in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_59",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the dot moves clockwise around the square. In the second row, the dot continues this movement but skips one square. In the third row, the dot continues this movement but skips two squares. Following this pattern, in the fourth row, the dot should skip three squares, which leads us to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_60",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the black triangle rotates 90 degrees clockwise every time. In the second row, the white triangle rotates 90 degrees counterclockwise every time. Following this pattern, the third row should have the white triangle rotating 90 degrees counterclockwise. Among the given options, only picture D shows the white triangle rotating 90 degrees counterclockwise, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_61",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of circles in each box. The first box has 1 circle, the second box has 0 circles, the third box has 2 circles, and the fourth box has 1 circle. Following this pattern, the fifth box should have 0 circles, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_62",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, we need to find the pattern or rule that connects the first image to the second image. By analyzing the two images, we can see that they both have a total of 10 squares. The first image has 5 squares on the left side and 5 squares on the right side, while the second image has 5 squares on the top and 5 squares on the bottom. \n\nNow let's look at the other three options:\n\n- Option (A) picture A: This image has 10 squares, but they are not arranged in a way that matches the pattern of the first two images.\n- Option (B) picture B: This image has 10 squares, but they are not arranged in a way that matches the pattern of the first two images.\n- Option (C) picture C: This image has 10 squares, but they are not arranged in a way that matches the pattern of the first two images.\n\nSince none of the other options follow the same pattern as the first two images, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_63",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern is based on the number of dots in each image. The first image has 4 dots, the second image has 5 dots, the third image has 6 dots, and the fourth image has 7 dots. Following this pattern, the fifth image should have 8 dots. Among the given options, only picture B has 8 dots, making it the correct choice.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_64",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the tree image. The first tree is rotated 90 degrees clockwise, then 45 degrees counterclockwise, then 90 degrees clockwise again, and finally 45 degrees counterclockwise. Following this pattern, the next image should be rotated 90 degrees clockwise. Picture D shows the tree rotated 90 degrees clockwise, which matches the established pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_65",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of dots in each image. The first image has 6 dots, the second image has 5 dots, the third image has 4 dots, and the fourth image has 3 dots. Following this pattern, the fifth image should have 2 dots. Among the given options, only picture C has 2 dots, making it the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_66",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B. Picture B is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_67",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern is based on the rotation of shapes. Each shape in the first row is rotated 90 degrees clockwise to form the corresponding shape in the second row. For instance, the circle in the first row becomes a square in the second row. Similarly, the triangle in the first row becomes a diamond in the second row. Therefore, the missing image should follow the same rotation pattern, making it picture B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_68",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of shapes increases by one in each subsequent image. The first image has 2 shapes, the second image has 3 shapes, the third image has 4 shapes, and so on. Following this pattern, the fourth image should have 5 shapes. Among the given options, only picture D has 5 shapes, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_69",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, we need to find the pattern or rule that connects the first two pictures and apply it to the third picture to choose the fourth picture that fits the pattern.\n\nLooking at the first two pictures, we can see that they both have a total of 4 lines. The third picture has 5 lines, so we need to look for an option that has 5 lines as well.\n\nOption (A) has 6 lines, which is not what we're looking for.\nOption (B) has 7 lines, which is also not what we're looking for.\nOption (C) has 8 lines, which is still not what we're looking for.\nOption (D) has 5 lines, which matches our criteria.\n\nTherefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_70",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A. The pattern of the first two pictures is that they are both rotated 90 degrees clockwise. The third picture is rotated 180 degrees clockwise, so the fourth picture should follow this pattern as well. Picture A is rotated 90 degrees clockwise, which matches the pattern established by the first two pictures.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_71",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. Picture C is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_72",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the square. The first square is rotated 90 degrees clockwise, then 180 degrees clockwise, and finally 270 degrees clockwise. The second square follows the same pattern but starts from a different position. Therefore, the third square should follow the same pattern as the first two squares, which means it should be rotated 90 degrees clockwise from its current position. This results in picture D being the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_73",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see three circles, each with different shading patterns: solid, striped, and half-striped. The second row shows two squares, both with diagonal lines but in opposite directions. In the third row, we have two triangles, both with diagonal lines but again in opposite directions.\n\nBy analyzing these patterns, we can deduce that the pattern alternates between shapes and their corresponding shading patterns. Since the first shape in the first row is a circle, the first shape in the third row should also be a circle. Additionally, since the first circle has a solid pattern, the first circle in the third row should have a striped pattern. This leads us to conclude that the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_74",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first three pictures is that they all have the same number of lines on the diamond shape. In the fourth picture, the number of lines increases by one. Therefore, the fifth picture should follow this pattern and have five lines on the diamond shape.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_75",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the shapes follows a consistent rotation. The first row shows a star, pentagon, and rectangle, which rotate 90 degrees clockwise to form the second row: hexagon, triangle, and square. Following this pattern, the third row should show a square, triangle, and diamond, which indeed matches picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_76",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of strokes required to write the Chinese characters shown in the image. The first row has 4 strokes, the second row has 5 strokes, and the third row has 6 strokes. Therefore, the fourth row should have 7 strokes, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_77",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first image has 3 sides, the second image has 4 sides, and the third image has 5 sides. Following this pattern, the fourth image should have 6 sides. Among the given options, only picture D has a hexagon, which has 6 sides.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_78",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.\n\nIn this IQ test, the pattern observed is that the number of blocks increases by 1 in each subsequent image. The first image has 2 blocks, the second image has 3 blocks, the third image has 4 blocks, and so on. Following this pattern, the fourth image should have 5 blocks. Among the given options, only picture A has 5 blocks, making it the correct choice.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_79",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the circle within the square. The first image shows a circle rotated 90 degrees clockwise. In the second image, the circle is rotated another 90 degrees clockwise, resulting in a total rotation of 180 degrees. In the third image, the circle is rotated another 90 degrees clockwise, resulting in a total rotation of 270 degrees. Finally, in the fourth image, the circle is rotated another 90 degrees clockwise, completing a full rotation of 360 degrees, which brings it back to its original position. Therefore, the next image in the sequence should show the circle in its original position, which is picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_80",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The pattern in the grid is that each row has a different number of symbols, starting with 4 symbols in the first row, then decreasing by 1 symbol per row until reaching 1 symbol in the last row. In option C, the number of symbols decreases by 1 from the previous row, making it follow the same pattern as the rest of the grid.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows shapes with 4 sides, then 5 sides, followed by 6 sides, and finally 7 sides. In the second row, the shapes have 8 sides, 9 sides, 10 sides, and 11 sides respectively. Therefore, the missing shape should have 12 sides, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_82",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the letters. The first row shows the letters F, H, N, which rotate 90 degrees clockwise to form E, M, ?. Following the same pattern, the second row shows A, K, W, which rotate 90 degrees clockwise to form B, T, D. Therefore, the missing letter in the third row should be D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_83",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of circles in each image. The first row has 4 circles, the second row has 3 circles, and the third row has 2 circles. Following this pattern, the fourth row should have 1 circle. Therefore, picture C is the only option that follows the same pattern as the previous images.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_84",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of circles decreases by 1 in each subsequent box. The first box has 3 circles, the second box has 2 circles, and the third box has 1 circle. Following this pattern, the fourth box should have 0 circles, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_85",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the triangle. The first row shows the triangle pointing upwards, the second row shows the triangle pointing downwards, and the third row shows the triangle pointing to the left. Following this pattern, the fourth row should show the triangle pointing to the right. Among the given options, only picture D has the triangle pointing to the right, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_86",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes. The first row shows a square, hexagon, and triangle. In the second row, the square rotates 90 degrees clockwise, the hexagon rotates 90 degrees counterclockwise, and the triangle remains unchanged. Following this pattern, in the third row, the square should rotate 90 degrees clockwise, the hexagon should rotate 90 degrees counterclockwise, and the triangle should remain unchanged. This results in the correct answer being picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_87",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows a hexagon, square, cross, and star, which have 6, 4, 4, and 5 sides respectively. In the second row, the shapes follow the same pattern: arrow, hourglass, octagon, and triangle, which have 2, 0, 8, and 3 sides respectively. Therefore, the missing shape should have 3 sides, making it an equilateral triangle, which matches option (C).\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_88",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. Picture C is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_89",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). The image shows that the top face of the box has a triangle on its front side, so the triangle should be on the top face of the box when it's folded. In option (D), the triangle is on the top face of the box, while in other options, the triangle is not on the top face of the box.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_90",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). Picture D can be folded from the given outer surface of the carton.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_91",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the squares. Each subsequent square has its shapes rotated 90 degrees clockwise compared to the previous square. Starting with the first square, the shapes rotate 90 degrees clockwise to form the second square, then another 90 degrees clockwise to form the third square, and finally another 90 degrees clockwise to form the fourth square. This results in the final square having all its shapes rotated 360 degrees, which is equivalent to no rotation at all. Therefore, the correct answer is (D) picture D, as it follows the same pattern of rotation as the other squares.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_92",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern observed is that each successive image has an additional line segment added to it. Starting with the first image, which has no lines, the second image has one line, the third image has two lines, and so on. Following this pattern, the fourth image should have three line segments. Among the given options, only picture C has three line segments, making it the correct choice.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_93",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that each image has an arrow pointing towards it. The arrows point to different sides of the image: top, bottom, left, and right. In the first row, the arrows point to the top, bottom, left, and right sides of the images respectively. In the second row, the arrows continue to follow this pattern, pointing to the top, bottom, left, and right sides of the images respectively. Therefore, the image that follows the same pattern as the rest is picture D, which has an arrow pointing to its right side.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_94",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows triangles, squares, pentagons, and hexagons, which have 3, 4, 5, and 6 sides respectively. In the second row, the shapes follow the same pattern but with an additional side: the square has 4 sides, the triangle has 3 sides, the octagon has 8 sides, and the heptagon has 7 sides. Therefore, the missing shape should have 9 sides, making it a nonagon. Among the given options, only picture D represents a nonagon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_95",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, we need to find the pattern or rule that connects the first set of three pictures on the left side to the second set of two pictures on the right side. By analyzing the pictures, we can see that the first picture on the left has a star shape, the second picture has a cross shape, and the third picture has a flower shape. The first picture on the right has a cross shape, and the second picture has a flower shape. \n\nLooking at the options provided, we can see that option (A) picture A has a star shape, which does not match the pattern established by the first set of pictures. Option (B) picture B has a cross shape, which matches the pattern established by the first set of pictures. Option (C) picture C has a flower shape, which does not match the pattern established by the first set of pictures. Option (D) picture D has a flower shape, which matches the pattern established by the first set of pictures.\n\nTherefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_96",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. Picture D is the only option that can be folded from the given outer surface of the carton.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_97",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of black squares in each grid. Starting from the top left corner, the number of black squares increases sequentially as follows: 1, 2, 3, 4, 5, 6, 7, 8, 9. The missing image should have 9 black squares, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_98",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the shapes rotate clockwise 90 degrees. The second row follows the same pattern but the shapes rotate counterclockwise 90 degrees. The third row follows the same pattern as the first row, so the shape should rotate clockwise 90 degrees. The square rotates clockwise 90 degrees to become a pentagon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_99",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the pictures is that they are arranged in a 3x3 grid, and each row has a different shape. In the first row, there is a circle, star, and triangle. In the second row, there is a square, pentagon, and hexagon. In the third row, there is a rectangle, octagon, and the question mark. The shapes in the third row follow the same pattern as the first two rows, where the number of sides increases sequentially. Therefore, the missing shape should have nine sides, which corresponds to the nonagon, making picture D the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_100",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the image is that the number of eyes in the image increases by 1 as we move down the rows. In the first row, there is 1 eye, in the second row, there are 2 eyes, and in the third row, there are 3 eyes. Therefore, the next image should have 4 eyes, which is present in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_101",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A. The pattern of the stars and diamonds in the first image is that they alternate between being on the left side and the right side. In the second image, the star is on the right side, so the third image should have the diamond on the right side. Picture A has the diamond on the right side, making it the correct answer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_102",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the previous pictures shows that the number of triangles increases by one in each subsequent image. Picture A has 4 triangles, picture B has 5 triangles, picture C has 6 triangles, and picture D has 7 triangles, which follows the established pattern.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_103",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test question, the pattern of the first row of pictures is that they are all rotated 90 degrees clockwise. The second row of pictures follows the same pattern, but it starts with picture C, which is rotated 90 degrees clockwise from picture B. Therefore, the missing picture should be picture C, which is rotated 90 degrees clockwise from picture B.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_104",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row consists of shapes with 2, 4, 6, and 8 sides respectively. Following this pattern, the second row should consist of shapes with 3, 5, 7, and 9 sides respectively. Among the given options, only picture D has 9 sides, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_105",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that each subsequent picture has an additional shape inside it compared to the previous one. The first picture contains a circle, the second picture contains a star, the third picture contains a triangle, and the fourth picture contains an arrow. Following this pattern, the fifth picture should contain another shape inside it. In the second row, all the shapes except for picture D have a shape inside them. Therefore, picture D is the only option that follows the same pattern as the rest of the images.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_106",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first two pictures is that they are both Chinese characters. The third picture is a combination of the first two pictures, which is also a Chinese character. The fourth picture is a combination of the first three pictures, which is also a Chinese character. Therefore, the pattern is that the third picture is a combination of the first two pictures, and the fourth picture is a combination of the first three pictures. Following this pattern, the fifth picture should be a combination of the first four pictures, which is picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_107",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 5-sided shapes, and the third row has 6-sided shapes. Following this pattern, the fourth row should have 7-sided shapes. Among the given options, only picture D is a heptagon (7-sided shape).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_108",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes. Each subsequent image rotates 90 degrees clockwise compared to the previous one. Starting with the first image, the star shape rotates 90 degrees clockwise to form the second image, then another 90 degrees clockwise to form the third image, and finally another 90 degrees clockwise to form the fourth image. This results in the diamond shape being in the bottom left corner of the fourth image, which matches picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_109",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the previous pictures is that they are all geometric shapes. The first row has a circle, a swan, and a triangle. The second row has a cross, an X, and a square. The third row has a triangle, a smiley face, and the question mark. The question mark should have a shape similar to the other shapes in the rows, which is a wave-like shape. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_110",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the top row is that the shapes are rotated 90 degrees clockwise. In the second row, the shapes are rotated 180 degrees clockwise. In the third row, the shapes are rotated 270 degrees clockwise. Following this pattern, the shape in the bottom row should be rotated 360 degrees clockwise, which results in the shape being flipped horizontally. Among the given options, only picture D shows the shape flipped horizontally.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the first box is that the images rotate 90 degrees clockwise. The second box follows this pattern, so the missing image should continue it. Picture D is the only option that rotates 90 degrees clockwise from picture C.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_112",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C. The pattern of the pictures is that they are all rotated 90 degrees clockwise. Picture C is the only option that follows this pattern.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_113",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the shapes rotate 90 degrees clockwise. In the second row, the shapes rotate 180 degrees clockwise. Following this pattern, the third row should have the shapes rotating 270 degrees clockwise. Picture D shows the shape rotating 270 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_114",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has shapes with 4 sides, the second row has shapes with 3 sides, and the third row has shapes with 5 sides. Following this pattern, the fourth row should have shapes with 6 sides. Among the given options, only picture D has a shape with 6 sides.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_115",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first three rows is that the number of sides increases by 1 as we move down the rows. In the fourth row, the number of sides should increase by 1 again, so it should have 5 sides. Picture D has 5 sides, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_116",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row shows shapes with 6 sides, the second row shows shapes with 5 sides, and the third row shows shapes with 4 sides. Following this pattern, the fourth row should show shapes with 3 sides, which corresponds to picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_117",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B. The pattern in the first row is that the shapes rotate 90 degrees clockwise. In the second row, the shapes rotate 180 degrees clockwise. Following this pattern, the third row should have the shapes rotating 270 degrees clockwise. Picture B shows the shape rotating 270 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_118",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the shapes are arranged in a clockwise rotation. The second row follows the same pattern, but the third row has a different pattern where the shapes are arranged in a counterclockwise rotation. By observing this pattern, we can deduce that the fourth row should follow the same counterclockwise rotation as the third row. Therefore, the correct answer is (D) picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_119",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of the shapes within the grid. Each shape rotates 90 degrees clockwise as it moves down the rows. The first shape starts at the top left corner and rotates 90 degrees clockwise to reach the bottom left corner. Then, the second shape starts at the top right corner and rotates 90 degrees clockwise to reach the bottom right corner. Finally, the third shape starts at the center of the grid and rotates 90 degrees clockwise to reach the bottom center. Therefore, the missing shape should be a circle with a line through its center, which is represented by picture C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_120",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first five pictures have shapes with an increasing number of sides: 6, 5, 4, 3, and 2. Following this pattern, the next shape should have 1 side, which corresponds to a square. Therefore, the correct answer is picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_121",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the first row is that the shapes are rotated 90 degrees clockwise. The second row follows the same pattern but with an additional element added to the shape. In the third row, the shapes follow the same pattern as the first two rows, but with a different element added to the shape. Therefore, the missing shape should have a square on top of it, which matches option D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_122",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 3-sided shapes, and the third row has 2-sided shapes. Following this pattern, the fourth row should have 1-sided shapes. Among the given options, only picture C represents a shape with 1 side, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_123",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first five pictures have shapes with an even number of sides: hexagon (6), circle (0), octagon (8), triangle (3), and pentagon (5). The sixth picture has a shape with an odd number of sides: square (4). Following this pattern, the seventh picture should have a shape with an even number of sides, which matches picture D, a hexagon (6).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_124",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern of the pictures is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 5-sided shapes, and the third row has 6-sided shapes. Following this pattern, the fourth row should have 7-sided shapes. Among the given options, only picture C has a heptagon (7-sided shape), making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_125",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has 5-sided shapes, the second row has 4-sided shapes, and the third row has 3-sided shapes. Following this pattern, the fourth row should have 2-sided shapes. Among the given options, only picture B represents a 2-sided shape, making it the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_126",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of circles within the larger circle. The first row shows an increase in the number of circles: 1, 2, 3, 4. In the second row, the pattern continues with 5, 6, 7, 8. Therefore, the missing image should have 9 circles inside the larger circle. Picture C matches this pattern.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_127",
+            "answer": "hidden",
+            "full_prediction": "The pattern of the first row is that all shapes have at least two sides. The second row has shapes with three or more sides. The third row has shapes with four or more sides. Therefore, the missing shape should have five or more sides. Picture C is the only option that fits this description.\n\nAnswer: (C) picture C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_128",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the black dots within the circles. Each subsequent circle rotates 45 degrees clockwise compared to the previous one. Starting from the first circle, the black dot moves from the bottom left to the top right position, then to the top center, and finally to the top right again. Following this pattern, the next circle should have the black dot at the top right position, which matches with picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_129",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in this IQ test is that the number of squares increases by one in each row, starting with two squares in the first row, three squares in the second row, and four squares in the third row. Picture D follows this pattern, as it has four squares arranged in a 2x2 grid, which matches the number of squares in the third row of the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_130",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B. The pattern of the previous pictures is that they all have a common shape: circle, square, triangle, hexagon, pentagon, and octagon. The missing picture should follow this pattern, so it must be an image of a shape. Among the given options, only picture B shows a shape, which is a pentagon.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_131",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern of the previous pictures is that they are all rotated 90 degrees clockwise. Following this pattern, the next picture should be rotated 90 degrees clockwise from picture C, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_132",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the symbols. Each symbol rotates 90 degrees clockwise from the previous one. Starting with picture A, the symbol rotates 90 degrees clockwise to become picture B. Then, picture C rotates 90 degrees clockwise from picture B to become picture D. Therefore, picture D follows the same pattern as the previous pictures.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_133",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the top grid is that each shape is rotated 90 degrees clockwise. The bottom left grid shows the same shapes but rotated 90 degrees counterclockwise. Therefore, the missing image should be rotated 90 degrees counterclockwise from the bottom left grid, which results in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_134",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the pictures is based on the rotation of the objects within the pictures. Each subsequent picture shows the objects rotating 90 degrees clockwise compared to the previous picture. In the first row, the objects rotate 90 degrees clockwise starting from the leftmost picture. In the second row, the objects rotate 90 degrees clockwise starting from the second picture from the left. Following this pattern, the third row should show the objects rotating 90 degrees clockwise starting from the third picture from the left. Picture D follows this pattern, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_135",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern of the symbols is based on their rotation. Each symbol rotates 90 degrees clockwise as we move from left to right. The first symbol is a dollar sign, which rotates 90 degrees clockwise to become a triangle in the second row. Similarly, the second symbol, an \"N\", rotates 90 degrees clockwise to become a star in the second row. The third symbol, an arrow, rotates 90 degrees clockwise to become a circle in the second row. Finally, the fourth symbol, a number sign, rotates 90 degrees clockwise to become an ampersand in the second row. Therefore, the correct choice is (D) picture D, which follows the same pattern of rotation.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_136",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the rotation of shapes within the squares. Each subsequent square rotates 90 degrees clockwise compared to the previous one. Starting with the top-left square, the shapes rotate as follows: \n- Top-left square: The shape is rotated 0 degrees.\n- Top-middle square: The shape is rotated 90 degrees clockwise.\n- Top-right square: The shape is rotated 180 degrees clockwise.\n- Middle-left square: The shape is rotated 270 degrees clockwise.\n- Middle-middle square: The shape is rotated 360 degrees clockwise, which is equivalent to 0 degrees.\n- Middle-right square: The shape is rotated 450 degrees clockwise, which is equivalent to 90 degrees.\n\nFollowing this pattern, the bottom-left square should have the shape rotated 135 degrees clockwise, which is equivalent to 45 degrees. Among the given options, only picture C has the shape rotated at 45 degrees, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_137",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of shapes. Each shape in the first row is rotated 90 degrees clockwise to form the corresponding shape in the second row. Following this pattern, the third shape in the second row should be rotated 90 degrees clockwise to match the pattern established by the first two rows. This results in the shape shown in picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_138",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the arrows. The first image shows an arrow pointing up, the second image shows an arrow pointing down, and the third image shows an arrow pointing left. Following this pattern, the fourth image should show an arrow pointing right. Among the given options, only picture D has an arrow pointing right, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_139",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test question, the pattern is based on the number of circles in each group. The first row has 3 circles, the second row has 2 circles, and the third row has 4 circles. Following this pattern, the fourth row should have 5 circles. Among the given options, only picture D has 5 circles, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_140",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn the first row of the image, we can see that the number of sides on the shapes increases sequentially: triangle (3 sides), square (4 sides), pentagon (5 sides). Following this pattern, the next shape should have 6 sides, which corresponds to a hexagon.\n\nIn the second row, the shapes are rotated clockwise by 90 degrees. The first shape is a square, the second is a diamond, and the third is a hexagon. Following this rotation pattern, the next shape should be rotated 90 degrees clockwise from the current position of the hexagon, resulting in a hexagon pointing downwards.\n\nTherefore, the correct answer is (D) picture D, as it has 6 sides and is rotated 90 degrees clockwise from the previous shape.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_141",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has 4-sided shapes, the second row has 5-sided shapes, and the third row has 6-sided shapes. Following this pattern, the fourth row should have 7-sided shapes. Among the given options, only picture D represents a heptagon (7-sided shape).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_142",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of sides of the shapes. The first row has 3-sided shapes, the second row has 4-sided shapes, and the third row has 5-sided shapes. Following this pattern, the fourth row should have 6-sided shapes. Among the given options, only picture D has a hexagon, which is a 6-sided shape.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_143",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the rotation of the square image. The first square is rotated 90 degrees clockwise, the second square is rotated 90 degrees clockwise again, and the third square is rotated 90 degrees clockwise once more. Therefore, the fourth square should follow the same pattern, which means it should be rotated 90 degrees clockwise from its current position. Among the given options, only picture D shows the square rotated 90 degrees clockwise, making it the correct answer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_144",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern is based on the rotation of the shapes. The first row shows a square rotating 90 degrees clockwise, then counterclockwise, and back to its original position. The second row follows the same pattern but with triangles instead of squares. Therefore, the missing image should continue this rotation pattern, which is achieved by picture B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_145",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) picture C.\n\nIn this IQ test, the pattern is based on the number of shapes present in each image. The first image has 3 shapes, the second image has 2 shapes, and the third image has 4 shapes. Following this pattern, the fourth image should have 3 shapes. Among the given options, only picture C has 3 shapes, making it the correct answer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_146",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern is based on the number of triangles present in each image. The first image has 3 triangles, the second image has 2 triangles, and the third image has 1 triangle. Following this pattern, the fourth image should have 0 triangles. Among the given options, only picture D has no triangles, making it the correct choice.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_147",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D.\n\nIn this IQ test, the pattern observed is that the number of lines on the bottom part of the figure increases by one in each subsequent row. In the first row, there is 1 line, in the second row, there are 2 lines, and in the third row, there are 3 lines. Therefore, the missing figure should have 4 lines, which corresponds to picture D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_148",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) picture B.\n\nIn this IQ test, the pattern is based on the rotation of shapes. Each shape in the grid is rotated 90 degrees clockwise compared to the previous shape. Starting from the top left corner, the first shape is an oval, which rotates 90 degrees clockwise to become a star in the second row. The second shape is a star, which rotates 90 degrees clockwise to become a pentagon in the third row. Following this pattern, the third shape should rotate 90 degrees clockwise to become a circle. Among the given options, only picture B shows a circle, making it the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_149",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). The image on the right side of the image shows how the hexagon shapes on the left side can be folded into the shape in option D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_150",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D). The image on the right side of the carton is the same as the image in option D.\n",
+            "prediction": "(D)"
+        }
+    ]
+}

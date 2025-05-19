@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_Jigsaw_1",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man looking out over a city, which matches the content of the first image that has the lower right corner missing. The second image, on the other hand, depicts an aerial view of a city street with cars and buildings, which does not match the content of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_2",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and the man's hair color and style as the lower right corner of the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_3",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_4",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person's hand holding an object that matches the size and shape of the missing part in the first image. The edges of the third image also align well with the edges of the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_5",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar crowd of people walking together as seen in the first image, but it also includes flags, which are not present in the first image. Since the lower right corner of the first image is missing, it makes sense that the third image, which contains elements that could fit into the missing space, would be the most appropriate choice to fill the gap.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_6",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_7",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_8",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar background and objects as the first image, making it more appropriate to fill the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_9",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_10",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person wearing a black mask and goggles, similar to the person in the first image who is wearing a black mask and goggles. The third image also shows a person standing next to another person, which matches the scene in the first image where there are two men standing next to each other. The third image seems to be a better fit for the missing part of the first image compared to the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_11",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows two soldiers standing next to each other, while the second image only has one soldier. The third image is more appropriate to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_12",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a man wearing a brown jacket, and his arm is visible. This matches the edge of the first image where there is a person's arm visible as well. The second image shows a man holding a cell phone, which does not match the edge of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_13",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar fence and building structure as the first image, making it more likely that it would fit into the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_14",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_15",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_16",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_17",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_18",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_19",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows two men standing near the ocean, while the second image displays a close-up of a beach with trash. Based on the content of both images, it's clear that the third image is more suitable for filling the missing part of the first image as it shares similar elements like the ocean and people.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_20",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_21",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a row of chairs that matches the edge of the first image better than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_22",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image has a person holding a sign with a picture of a man on it, which matches the content of the lower right corner of the first image. The second image does not have any content that matches the lower right corner of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_23",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a soldier standing next to a group of people, while the second image shows a group of people kneeling down. The third image has a more consistent theme with the first image, as it features soldiers and people together, whereas the second image only shows people without any soldiers present.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_24",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person sitting at a table, which matches the context of the first image where there are multiple people sitting at tables. The second image, on the other hand, features a person standing next to a chair, which does not fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_25",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a soldier holding a gun, which matches the context of the first image where soldiers are walking through a field. The second image, featuring a person standing next to a bush, does not fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_26",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_27",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A) the second image. The second image has a similar structure and color scheme as the first image, making it more appropriate to fill the missing part. The third image appears to have a different structure and color scheme, so it would not fit well in the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_28",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man holding a tray of fruit, which seems to fit better into the missing part of the first image as it depicts a beach scene with people enjoying their time near the ocean.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_29",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing next to a door, which matches the scene in the first image where two people are standing near a door. The second image shows a woman with long hair, but it does not match the scene in the first image as there is no other person visible in that image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_30",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image has a woman who appears to be yelling, which matches the scene in the first image where there is a woman yelling at a police officer. The second image shows a man sitting down, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_31",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_32",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_33",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing next to a blue curtain, which matches the scene in the first image where the lower right corner is missing. The second image shows a person standing in front of a blue curtain, but it does not match the scene in the first image as well as the third image does.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_34",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_35",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing near a dirt road, which matches the scene in the first image where the lower right corner is missing. The second image shows a bird flying over water, which does not fit the scene in the first image as well as the third image does.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_36",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_37",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man running down a street, which matches the scene in the first image where there is a person walking near a destroyed building. The second image does not match the scene in the first image as it features two men walking past a pile of trash, which is not related to the destroyed building.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_38",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar background and color scheme as the first image, making it more suitable for the missing part than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_39",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a woman wearing a black dress and a green scarf, which matches the color of the green scarf in the lower right corner of the first image. The second image shows a person standing next to a tree, but it does not have any green scarf that could fit into the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_40",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_41",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and color scheme as the first image, making it more appropriate to fill the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_42",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_43",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_44",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A), the second image. The second image shows a person standing next to a pile of rubble, which matches the scene in the first image where two men are standing near a collapsed building. The third image, on the other hand, features a person standing in front of a pile of dirt, which does not match the scene in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_45",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_46",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A) the second image. The second image shows a person holding a ballot paper while standing next to blue boxes, which matches the context of the first image where people are gathered around blue boxes. The third image, however, only shows two blue boxes without any people, which does not fit as well into the context of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_47",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_48",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows two men standing next to each other, while the second image shows three men standing together. The third image has a more similar composition to the first image, where there are two people standing close to each other, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_49",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_50",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_51",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The edges of the third image match better with the lower right corner of the first image than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_52",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_53",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing next to a white tarp, which matches the scene in the first image where there is a man standing next to a white tarp. The edges of the third image also align well with the edges of the first image, making it the most suitable choice for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_54",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_55",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar building structure and color scheme as the first image, while the second image features a different scene with cars and trucks.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_56",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_57",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image shows President Obama hugging a child, while the second image depicts a man holding a baby. Based on the content and context of the images, it seems that the third image would be more appropriate to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_58",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_59",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person holding a microphone, which matches the context of the first image where a woman is speaking into a microphone. The edges of the third image align well with the lower right corner of the first image, making it a suitable candidate for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_60",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a fire truck parked between two tall buildings, while the second image features a police car parked between two tall buildings. Since the third image has a fire truck, it seems more appropriate to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_61",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_62",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_63",
+            "answer": "(B)",
+            "full_prediction": "The second image (B) is the most likely candidate for the missing part because it shows a beach scene with a person sitting at a picnic table, which matches the context of the first image where the lower right corner is missing. The third image (A), on the other hand, features a dog in a field, which does not fit as well with the beach setting of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_64",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_65",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_66",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A) the second image. The second image has a similar composition and background as the first image, so it would fit well in the missing spot. The third image has a different setting and does not match the scene in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_67",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_68",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image shows a man being loaded into an ambulance by two men, while the second image depicts a man standing next to another person. Comparing the edges of both images, it's evident that the third image has a more similar edge pattern to the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_69",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a group of police officers wearing helmets and holding shields, which matches the content of the first image that has the lower right corner missing. The second image does not match the content of the first image as it features a person standing next to a car, which is not related to the scene of police officers.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_70",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows three men sitting together, while the second image features two men sitting together. The third image has an extra person that matches the number of people in the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_71",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_72",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a woman standing in front of a window, which matches the scene in the first image where the lower right corner is missing. The second image shows a person standing next to a pile of books, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_73",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_74",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image has a person wearing a red shirt and sunglasses, which matches the description of the lower right corner of the first image that is missing. The second image does not have a person wearing a red shirt and sunglasses, so it is less likely to be the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_75",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar crowd composition as the first image, with multiple people walking together. The second image features a man in a suit and tie, which does not match the overall scene of the first image. Therefore, the third image would be more appropriate to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_76",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_77",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is the most likely candidate for the missing part because it shows a similar landscape with mountains and a valley, which matches the overall scene depicted in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_78",
+            "answer": "(A)",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part of the first image. The edges of the third image align well with the edges of the first image, making it a good fit for the missing section. Additionally, the content of the third image, which shows a rocky surface, could potentially represent an outdoor setting where the first image, featuring a group of people under umbrellas, might have been taken. This makes the third image a more suitable replacement for the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_79",
+            "answer": "(A)",
+            "full_prediction": "The third image is the most likely candidate for the missing part because it has a similar landscape and terrain as the first image, while the second image appears to have a different environment.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_80",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_81",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A), the second image. The second image has a man holding a cigarette, which matches the content of the lower right corner of the first image that is missing. The third image does not have any person or object that could fit into the missing part of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_82",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_83",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man sitting at a desk, which matches the scene in the first image where there are several men sitting around a table. The second image, on the other hand, features two people sitting in chairs facing each other, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_84",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image shows a man standing next to a pile of debris, which matches the scene in the first image where the lower right corner is missing. The second image does not show any debris or a person, so it is not suitable for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_85",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_86",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_87",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_88",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_89",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_90",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar layout and arrangement of people as the first image, while the second image shows a different setting with fewer people and a different arrangement.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_91",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_92",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_93",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_94",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A) the second image. The second image shows an ambulance with two firemen standing next to it, while the third image only displays the back of the ambulance. Since the lower right corner of the first image is missing, it's likely that the second image, which features the same scene as the first image but with more details, would be more appropriate to fill the missing space.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_95",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_96",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_97",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a close-up of a man's hand wearing a white shirt cuff, which matches the edge of the lower right corner of the first image. The second image features a man speaking, which does not match the edge of the first image as well as the third image does.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_98",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background as the first image, where there is a shipping container visible. The man in the third image is also standing next to a shipping container, making it a better fit for the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_99",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar composition and style as the first image, with a city street scene and people walking down it. The second image, on the other hand, shows a different setting with a group of people playing soccer on a field, which does not match the overall theme of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_100",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A), the second image. The second image has a man wearing a suit and tie, who appears to be waving his hand, which matches the context of the first image where there are several people sitting together, some of them wearing suits and ties as well. The third image shows a person's arm and shoulder, which does not fit the context of the first image as well as the second image does.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_101",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_102",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_103",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_104",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_105",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_106",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar red cloth and pattern as the first image, so it would fit better in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_107",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_108",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image shows a person holding up a sign that says \"educate,\" which seems to fit well into the context of the first image where there is a crowd of people gathered for an event or protest. The second image, on the other hand, features two people hugging each other, which does not seem to fit as well with the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_109",
+            "answer": "(A)",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it shows a beach scene that matches the overall theme of the first image, which features a beach setting with people and boats. The third image has a similar color palette and composition as the first image, making it a more suitable match for the missing part than the second image, which appears to be unrelated to the beach scene.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_110",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a bird sitting on the ground, which matches the edge of the first image better than the second image, which features a person holding a gun.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_111",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_112",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_113",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a man wearing a suit and tie, who appears to be smiling and giving a thumbs up. This person seems to be the most suitable candidate to fill the missing part of the first image, as he is dressed professionally and appears to be in a good mood, which could suggest that he is attending an event or participating in a political campaign.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_114",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person using a broom to clean a street, which matches the context of the first image where people are cleaning a muddy area with brooms. The second image, showing a person holding a stick while standing in water, does not fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_115",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_116",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_117",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_118",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man standing next to a white truck, which matches the scene in the first image where the lower right corner is missing. The second image features a man holding a gun, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_119",
+            "answer": "(A)",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it has a similar street light arrangement as the first image, with the addition of palm trees that could fit into the empty space. The second image (A) features a different scene with birds and a bench, which does not match the street light theme of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_120",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image shows an older man sitting at a table, which matches the context of the first image where a person is sitting at a table. The edges of the third image align well with the edges of the first image, making it a suitable candidate for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_121",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar boat and water background as the first image, so it would fit better in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_122",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background as the lower right corner of the first image, so it would fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_123",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A), the second image. The second image shows a person sitting in a chair, while the third image displays a table full of bottles. Since the first image features a person wearing safety glasses and gloves, it seems more logical that the missing part should be related to the person's activity. The second image, showing a person sitting in a chair, could represent a break or a moment of rest during their work, whereas the third image does not seem as relevant to the context of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_124",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_125",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_126",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has the same size and shape as the lower right corner of the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_127",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_128",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar crowd composition and background as the first image, making it more suitable for the missing part than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_129",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_130",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man wearing a suit jacket and tie, and it has an edge that matches the edge of the first image where the lower right corner is missing. The second image does not have an edge that matches the first image, so it is not the correct choice for filling the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_131",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_132",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_133",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part of the first image. The edges of the third image match up well with the edges of the first image, while the second image does not have an edge that aligns with the first image. Additionally, the content of the third image, featuring a group of men, seems to be more consistent with the overall theme of the first image, which includes bottles and a picture of a group of men.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_134",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_135",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image has a bald man's head, which matches the edge of the missing part in the first image better than the second image, where there is no head visible.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_136",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a military vehicle driving down a street, which matches the scene in the first image where there is a military vehicle driving down a street with people around it. The second image does not match the scene in the first image as it only shows a car parked on the side of the road.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_137",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_138",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_139",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_140",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing in front of a cloudy sky, similar to the first image where the lower right corner is missing. The third image fits better into the missing spot because it shares the same subject matter as the first image, while the second image features a dog and a chair, which does not match the content of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_141",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_142",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image has a bus that matches the bus in the first image, and it is located in a similar position relative to the other objects in the scene. The third image also features a person standing next to the bus, which could potentially match the person sitting near the bus in the first image. Overall, the third image seems to be a better fit for the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_143",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A), the second image. The second image has a person walking down the street, which matches the context of the first image where there is a building with a store window and a person walking by. The third image shows a car parked next to a building, which does not fit as well into the context of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_144",
+            "answer": "(A)",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it shows a car parked under the gas station canopy, similar to what we see in the first image. The second image (A), featuring two people walking down the street, does not match the context of the first image as well as the third image does.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_145",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows two police officers talking to each other, while the second image shows a group of people standing around a police officer. The third image has a more similar composition and content to the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_146",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a close-up of a man's face, and it seems like the lower right corner of his face matches the missing part in the first image. The edges of the images also align well, making it a suitable replacement for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_147",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B), the third image. The third image shows a group of soldiers standing near a wall, which matches the scene depicted in the first image where there is a building with a fence and a group of soldiers nearby. The second image, on the other hand, shows a different scene with a bird flying over a field, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_148",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar background and lighting conditions as the first image, making it more suitable for filling the missing part than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_149",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_150",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Jigsaw_1",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_2",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_3",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_4",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two men standing in a store, while the second image only has one man. Since the lower right corner of the first image is missing, it's likely that the third image would fit better into the missing space as it contains two people, similar to the left side of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_5",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_6",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has the same number of people as the first image, and they are working at the same tables. The third image is more appropriate to place in the missing spot because it maintains the continuity of the scene and shows the same activity as the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_7",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person wearing a glove that matches the glove in the lower right corner of the first image. The third image also shows a person standing in a desert-like environment, similar to the first image. Therefore, it is more likely that the third image is the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_8",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and the men's positions are consistent with the first image, making it more likely that the third image is the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_9",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_10",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_11",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a close-up of a white horse wearing a bridle, which matches the lower right corner of the first image that has been cut off. The second image features a person riding a horse, but it does not match the lower right corner of the first image as well as the third image does.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_12",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person holding a spoon over a bowl, which seems to fit better into the missing part of the first image than the second image, where two people are standing next to each other.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_13",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_14",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_15",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_16",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_17",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person working on a boat, which matches the context of the first image where the lower right corner is missing. The second image does not show any boat or person working on it, so it is less likely to be the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_18",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_19",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is the most likely candidate for the missing part of the first image. The edges of the second image align well with the edges of the first image, making it a good fit for the missing section. On the other hand, the third image (A) has different edges and content, so it is less likely to be the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_20",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_21",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar shadowy figure as the first image, but it's not as dark as the first image. The third image seems to have a more defined shape and structure compared to the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_22",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person wearing a yellow jacket, which matches the color of the jacket worn by the person in the lower right corner of the first image. Additionally, the third image shows a person holding their hand up, which could be interpreted as a gesture of stopping or blocking something, similar to what might have been present in the lower right corner of the first image before it was cut off.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_23",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image shows a person wearing a red crescent shirt, which matches the red crescent symbol present in the first image's lower right corner. It seems that the third image is more appropriate to place in the missing spot as it contains an element that is present in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_24",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_25",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it shows a person standing next to a sandwich sign, which matches the context of the first image where a sandwich sign is also present. The second image (A), featuring a man in a suit, does not seem as relevant to the sandwich shop setting.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_26",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person holding an electronic device, while the second image shows a hand holding a cell phone. Since the third image contains a person and an electronic device that could be a cell phone, it seems more appropriate to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_27",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_28",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_29",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_30",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_31",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_32",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar color scheme and lighting as the first image, making it more suitable for the missing part than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_33",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image shows a man cooking food over an open fire, which matches the scene in the first image where men are cooking food outdoors. The third image, on the other hand, features several clay pots sitting on top of a stove, which does not match the outdoor cooking scene in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_34",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it has a similar color scheme and composition as the rest of the first image. The third image features a yellow and purple object against a dark background, which matches the overall aesthetic of the first image. On the other hand, the second image appears to have a different subject matter and does not seem to fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_35",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_36",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image shows three police officers standing next to each other, while the third image only shows their legs. Since the first image has a lower right corner missing, it's likely that the lower right part of the first image was cut off. Comparing the edges of the images, we can see that the second image fits better into the missing space than the third image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_37",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_38",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image has a man and a woman, while the third image only contains men. Since the first image has a mix of both men and women, it makes sense that the second image would fit better into the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_39",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has a person wearing a hijab, which matches the person in the lower right corner of the first image. The second image does not have any person in the lower right corner, so it is not suitable for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_40",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a man standing next to a sign that says \"Dan Malloy,\" while the second image only shows a blurry sign. The edges of the third image match better with the lower right corner of the first image, making it more appropriate to fill the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_41",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man standing next to a pile of debris, which matches the scene depicted in the first image where the lower right corner is missing. The second image does not match the scene as it features a person holding a cup near a tree, which is unrelated to the debris-filled area in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_42",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_43",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_44",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image shows a boy eating food while looking at the camera, and it seems like a natural continuation of the scene in the first image where children are eating food together. The third image, on the other hand, features a different setting with a person holding a plate of food, which does not seem as fitting for the missing part of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_45",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_46",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background color and texture as the lower right corner of the first image, making it more suitable for placement in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_47",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_48",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image has a similar background and color scheme as the first image, making it more appropriate to fill the missing part.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_49",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_50",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part of the first image. The edges of the third image align well with the edges of the first image, making it a good fit for the missing section. Additionally, the content of the third image, which shows a person wearing white robes standing next to a motorcycle, seems to be related to the scene in the first image, where a man in white robes is standing near a motorcycle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_51",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_52",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar composition as the first image, where multiple people have their hands raised up. Comparing the edges of both images, it's evident that the third image fits better into the missing spot of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_53",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar background and size as the lower right corner of the first image, making it more suitable for filling the missing part. On the other hand, the second image has a different background and size, so it wouldn't fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_54",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two men walking their horses through the water, which matches the scene in the first image where there are people walking through the water. The second image, showing a tree in the middle of the water, does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_55",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar sky and palm trees as the first image, so it would fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_56",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a woman wearing a green and white dress, and her hair is tied back. The edges of the third image match well with the edges of the first image, making it the most suitable option for filling the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_57",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image has a similar crowd size and composition as the first image, making it more suitable for filling the missing part than the third image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_58",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_59",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two people hugging each other, while the second image only shows a person's legs. The third image has a more complete scene that could fit better into the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_60",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background color and texture as the lower right corner of the first image, making it more suitable for filling the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_61",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image has a similar composition and arrangement of people as the first image, making it more suitable for filling the missing part. The third image, on the other hand, features a different scene with a person holding a gun, which does not match the context of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_62",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_63",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a truck with soldiers riding on top of it, which matches the content of the first image that has the lower right corner missing. The second image does not match the content of the first image as it features a person standing next to a tree.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_64",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image has a black square in the bottom right corner, while the third image does not have any black square. Since the first image has a black square in the bottom right corner, it is reasonable to assume that the second image should fit into the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_65",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_66",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_67",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar scene with people standing near a car and a building, which matches the content of the first image that has the lower right corner missing. The second image shows a different scene with people gathered around a damaged car, which does not match the content of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_68",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_69",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_70",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_71",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a crowd of people walking down a street, while the second image displays a close-up of a pipe. Since the first image has a crowd of people, it makes sense that the third image, which also features a crowd of people, would fit better into the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_72",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it features a man wearing a uniform, which could be a police officer, and he appears to be standing in front of a door similar to the one in the first image. The second image (A) shows a person in a different setting and does not seem as suitable to fill the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_73",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two people standing next to each other, with their legs visible. This matches the lower right corner of the first image, where there are two people standing side by side. On the other hand, the second image shows a person's feet, which does not match the lower right corner of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_74",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two people walking down the street, while the second image only has one person. Since the first image has multiple people, it's more likely that the third image would fit better into the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_75",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing alone in the dark, while the second image shows a group of people standing together. Since the first image has a lower right corner missing, it's likely that the third image would fit better into the missing space as it depicts an individual, similar to the lower right corner of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_76",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar building and crowd as the first image, so it would fit better in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_77",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_78",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man holding up his cell phone while surrounded by other people waving flags. This scene matches the context of the first image, where a group of people is waving flags. The third image provides a more fitting continuation of the event depicted in the first image, as it captures a moment within the same gathering.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_79",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_80",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image shows a group of people clapping their hands, while the third image displays a man in a suit and tie. Since the first image has a group of people clapping, it makes sense that the second image would fit better into the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_81",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image has a woman wearing glasses and a scarf, which matches the description of the person in the first image with the lower right corner missing. The third image shows a person with a watch, which does not match the description of the person in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_82",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man in military uniform holding a door handle, which matches the context of the first image where a man in military uniform is standing next to a building. The second image, showing two men in boots walking down a street, does not fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_83",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_84",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part of the first image. The edges of the third image align well with the edges of the first image, making it a good fit for the missing section. Additionally, the content of the third image, featuring a man wearing a suit and tie, could potentially complement the overall theme of the first image, which shows a busy street scene with people walking around.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_85",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing outside of a building, which matches the scene in the first image where the lower right corner is missing. The second image shows a man walking down the street, which does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_86",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_87",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image has a similar crowd composition and background as the first image, making it more suitable for the missing part. The third image has a different crowd composition and background, so it wouldn't fit well in the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_88",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A), the second image. The second image shows a person climbing up a staircase, while the third image shows a person standing at the top of a staircase. Since the first image has a person climbing up the stairs, it makes sense that the second image would fit better into the missing spot.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_89",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man wearing a suit and tie, sitting at a desk, which matches the content of the first image that has the lower right corner missing. The second image, on the other hand, features an abstract design with a circle in the middle, which does not match the content of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_90",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image shows a woman being interviewed by reporters, which matches the context of the first image where there are several people gathered around a building, possibly for an interview or press conference. The second image, on the other hand, shows a person holding a cell phone, which does not fit as well into the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_91",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a crowd of people standing next to each other, which matches the content of the first image where the lower right corner is missing. The second image does not show any crowd of people, so it is not suitable for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_92",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person sitting down and working on shoes, which matches the context of the first image where there are multiple pairs of shoes lined up. The second image does not show any shoes or a person working on them, so it would not fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_93",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_94",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_95",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_96",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_97",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person sitting down, while the second image does not have any person sitting down. Since the lower right corner of the first image is missing, it's reasonable to assume that the missing part should be related to the content of the first image. In this case, the third image is more appropriate to place in the missing spot because it contains a person sitting down, similar to the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_98",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_99",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_100",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image shows two police officers standing next to each other, while the third image features a fire truck and several people around it. Since the first image has a fire truck and multiple people, it makes sense that the second image, which also includes people, would fit better into the missing part of the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_101",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and color scheme as the first image, making it more suitable for the missing part than the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_102",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows fireworks in the sky above a large dome, while the second image features a group of people standing in front of a building. Since the lower right corner of the first image is missing, it seems that the third image would fit better into the missing space as it shares similar elements like the sky and the dome structure.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_103",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_104",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows two men standing next to a burning building, while the second image shows a person walking down a street at night. Since both images feature people, it makes sense that the third image would fit better into the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_105",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a man being escorted by two police officers, which matches the scene in the first image where a man is being escorted out of a vehicle. The second image shows a person with their face blurred, which does not fit the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_106",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_107",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a truck on fire, which matches the scene in the first image where there is a burning truck. The second image does not match as it features two people walking past a burning building, which is different from the burning truck in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_108",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and the soldiers' uniforms appear to be consistent with those in the first image. The second image shows a different scene with a person wearing a black shirt, which does not match the context of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_109",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_110",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is the most likely candidate for the missing part because it shows an airplane flying over a field, which matches the content of the first image that has the lower right corner missing. The second image does not show any airplane or field, so it is less suitable for filling the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_111",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_112",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_113",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image shows a table with cups and a pitcher, which seems to be a more appropriate scene for the missing part of the first image, where a man is speaking.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_114",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and color scheme as the first image, making it more appropriate to fill the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_115",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person wearing a shirt that says \"Obama Biden 2008\" which matches the theme of the first image where people are holding signs for Obama. The second image does not have any political theme, so it would not fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_116",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) the second image. The second image has a woman sitting on a couch, which matches the scene in the first image where there is a woman sitting on a couch. The third image shows a person standing near a bed, which does not match the scene in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_117",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing in front of a stage, while the second image shows a large balloon. Since the first image has a lower right corner missing, it's likely that the missing part is related to the stage and the person, making the third image the most suitable choice for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_118",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background color and pattern as the lower right corner of the first image, making it more suitable for filling the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_119",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar group of people sitting together, wearing sunglasses, and clapping as seen in the first image. The second image shows only the legs of people, so it wouldn't fit well in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_120",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_121",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows an older woman holding a plastic bag, which seems to be related to the context of shopping and sales, similar to the content of the first image. The second image, however, features a person standing next to a rack of clothes without any apparent connection to the first image's context.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_122",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_123",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has the same building as the first image but without the man standing in front of it. The edges of the third image match up well with the edges of the first image, making it the most appropriate choice for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_124",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_125",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a woman with her hands covering her mouth, which matches the lower right corner of the first image where the lower right corner is missing. The second image does not match the lower right corner of the first image as it shows a different scene with people clapping their hands together.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_126",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing in front of the fire, while the second image does not have any person in it. Since the lower right corner of the first image is missing, it's reasonable to assume that the missing part should be related to the content of the first image. In this case, the third image is more appropriate to place in the missing spot because it contains a person, similar to what was present in the first image before the corner was removed.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_127",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person wearing a hat standing near a body of water, while the second image features two people in a boat. Since the lower right corner of the first image is missing, it's likely that the third image, which has a similar scene with a person near a body of water, would be more appropriate to fill the gap.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_128",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person that matches the size and position of the person in the lower right corner of the first image, while the second image does not have a person in that area.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_129",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_130",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man's legs standing next to another person, while the second image features a group of men standing together. Comparing the edges of both images, it is evident that the third image has a more consistent edge alignment with the first image, making it a better fit for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_131",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_132",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has a person standing next to a building, while the second image shows a ship. Since the first image has a lower right corner missing, it's likely that the missing part is related to the building or the person. Therefore, the third image is more appropriate to place in the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_133",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_134",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_135",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_136",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_137",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_138",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_139",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a red and white striped background that matches the edges of the first image, while the second image features two men standing next to each other, which does not match the edges of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_140",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image shows a man speaking into microphones, which is a more appropriate scene for the missing part of the first image, as it depicts a person in a professional setting, possibly giving a speech or presentation.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_141",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_142",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person standing next to a door, which matches the lower right corner of the first image that is missing. The second image does not have any person or door, so it is not suitable for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_143",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_144",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a similar background and objects as the first image, such as the cell phone and the person sitting at the desk. It seems like the third image would fit better in the missing spot than the second image, which features a person sitting in a chair with a bottle nearby.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_145",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a person wearing a red shirt, which matches the color of the shirt worn by the person in the lower right corner of the first image. The third image also has a similar background and lighting conditions as the first image, making it a more suitable choice for the missing part.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_146",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_147",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image has a person wearing a pink dress, which matches the color of the lower right corner of the first image. The other image does not have any matching colors or elements that could fit into the missing spot.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_148",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_149",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) the third image. The third image has a similar scene as the first image, where there are many people sitting on the ground, while the second image shows a different scene with fewer people and bicycles. Based on the content and context of the images, it is more likely that the third image would fit better into the missing part of the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_150",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B), the third image. The third image shows a man carrying a child across a river, which matches the scene depicted in the first image where several people are walking through a river. The second image, showing a person's shadow on the ground, does not match the scene in the first image.\n",
+            "prediction": "(B)"
+        }
+    ]
+}

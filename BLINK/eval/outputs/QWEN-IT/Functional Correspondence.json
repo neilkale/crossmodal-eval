@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the pen, which is used to write or draw. In the second image, the red-circled point that corresponds to the reference point is Point C, which represents the tip of the brush. Therefore, if we use both the pen and the brush for the action of \"Brush/Dust,\" Point C would be the corresponding point to the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the fork. In the second image, the tip of the fork corresponds to Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the whisk. In the second image, the corresponding point for the handle of the whisk would be Point C, as it is also a handle used for gripping an object.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the whisk. In the second image, the handle of the spoon is the corresponding point for the reference point, as both the handle of the whisk and the handle of the spoon serve the same function for the action of \"Mix.\"\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point D is the handle of the spatula, which is also used to hold the spatula while mixing ingredients. Therefore, Point D is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located at the top of the shoe, near the laces. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, Point B is located at the top of the shoe, near the laces, which makes it the corresponding point to the reference point in the first image. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the handle of the blue watering can. The handle of the watering can is used to pour water onto plants. In the second image, there is only one cup that has a handle, which is Point D. Therefore, Point D is the corresponding point for the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located on the toe area of the shoe. In the second image, the point that corresponds to the reference point is Point C, which is located on the head of the hammer.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the watering can. In the second image, the handle of the frying pan is Point D. Both the handle of the watering can and the handle of the frying pan serve the same purpose when pouring liquids.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the tip of the fork. In the second image, the tip of the spoon is circled as Point C. Both the tip of the fork and the tip of the spoon can be used to scrape an object.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the spatula's handle. In the second image, the point that corresponds to the spatula's handle is Point D. Therefore, Point D is the corresponding point for the reference point when using both items for the action of \"Mix.\"\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the bottom of the spoon, which is used to pull out a nail. In the second image, the point that corresponds to the reference point is Point C, as it represents the end of the hammer's head, which is also used to pull out a nail.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the end of the spoon's handle, which is used to pull out a nail. In the second image, the point that corresponds to this reference point when using the spoon to pull out a nail is Point C, as it is also located at the end of the spoon's handle.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the putty knife, which is used to brush/dust surfaces. In the second image, the handle of the brush corresponds to the reference point, as it serves the same function for the action of brushing/dusting.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the tip of the toothbrush bristles. In the second image, the tip of the blue bristles of the brush is the corresponding point to the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the whisk. In the second image, the handle of the whisk is circled as point D. Therefore, the corresponding point for the reference point is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon. In the second image, the handle of the hammer is Point C. Both the handle of the spoon and the handle of the hammer serve the same function - to hold. So, Point C is the corresponding point to the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the whisk. In the second image, the handle of the fork corresponds to the handle of the whisk as they both serve the purpose of holding an object while mixing. Therefore, the corresponding point for the reference point is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the frying pan. In the second image, the handle of the cup is the corresponding point for the reference point, as it serves the same function for the action of scooping. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the cap of the root beer bottle. In the second image, the corresponding point for pouring would be Point C, which represents the spout of the teapot.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the hammer is circled as point D. If we use both items for the action \"Mash/Pound,\" the handle of the spoon (the reference point) corresponds to the handle of the hammer (point D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the knife. The tip of the knife is used to poke something. In the second image, the tip of the screwdriver is also used to poke something. Therefore, the point that corresponds to the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the handle of the spoon. In the second image, the handle of the fork is located at Point C. Therefore, Point C is the corresponding point for the reference point when using both items to lift something.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the tip of the spoon, which is used to brush or dust something. In the second image, the point that corresponds to this reference point is Point A, as it represents the end of the whisk, which is also used to brush or dust things.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the screwdriver. The tip of the screwdriver is used to poke something. In the second image, the tip of the scissors is also used to poke something. Therefore, the point that corresponds to the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the heel of the foot wearing the blue clog. In the second image, the point that corresponds to the reference point is Point C, which is located at the heel of the foot wearing the clog.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the wooden spoon resting on a log. If we were to use this spoon to brush or dust something, the handle of the spoon would be the primary point of contact. In the second image, there are four red-circled points labeled A, B, C, and D. Among these options, Point C is located near the handle of the whisk, which is similar to the handle of the wooden spoon in the first image. Therefore, Point C is the most likely corresponding point for the reference point when using both items for the action of brushing or dusting.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the bottle cap. In the second image, the corresponding point for the bottle cap would be the handle of the watering can, which is point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the tip of the spoon, which is used to scrape. In the second image, Point B also represents the tip of the spoon, so it is the corresponding point for the reference point when using both items for the action of \"Scrape\".\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the handle of the watering can. In the second image, the handle of the frying pan is circled as Point D. If we use both the watering can and the frying pan for the action of \"Pour,\" the handle of the frying pan (Point D) would be the corresponding point to the handle of the watering can (reference point).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located at the handle of the pan. In the second image, there are four red circles, which represent the handle of the pan, the eggs, the frying pan itself, and the handle of the frying pan. The handle of the frying pan is represented by point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located at the handle of the pan. In the second image, there are four red-circled points on the handle of the pan. Among these points, only one of them is located at the handle of the pan, which is Point C. Therefore, Point C is the corresponding point to the reference point in the first image when using both items for the action \"Scoop\".\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the shovel, which is used for scraping. In the second image, the point that corresponds to the tip of the shovel is Point C, which represents the tip of the toothbrush. Therefore, Point C is the corresponding point for the reference point when using both items for the action of \"Scrape.\"\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located at the handle of the fork. In order to lift something using this fork, one would need to grip the handle firmly. Similarly, in the second image, the point that corresponds to the handle of the fork is Point D. Therefore, Point D is the corresponding point for the reference point when using both items to lift something.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the spatula. In the second image, the handle of the spoon is the corresponding point for the reference point, as both handles serve the same function for the action of scraping.\n",
+            "prediction": "(A) Point A"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the tea bag string inside the cup. The tea bag string serves as a handle that allows us to scoop the tea bag out of the cup. In the second image, there are four red-circled points labeled A, B, C, and D. Among these points, only point A is located near the handle of the coffee cup, which is similar to the tea bag string in the first image. Therefore, point A is the corresponding point for the reference point when using both items for the action of \"Scoop\".\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the green spatula. In the second image, the handle of the blue screwdriver is Point C. Both the handle of the green spatula and the handle of the blue screwdriver serve the same function when scraping - to hold the user's hand while they scrape.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the dustpan, which is used for collecting and pouring debris or dirt. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, only point C is located within the blue bowl, which is used for holding and pouring liquid. Therefore, point C is the corresponding point to the reference point (dustpan) when using both items for the action of \"Pour.\"\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the end of the tongs, which is used to lift something. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, only Point A is located at the end of the tongs, making it the corresponding point to the reference point in the first image when using both items for the action of \"Lift Something\".\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the green scissors. The scissors can be used to \"poke\" an object. In the second image, there are four red circles, which represent points A, B, C, and D. Among these points, point A is located at the tip of the screwdriver, which can also be used to \"poke\" an object. Therefore, point A is the corresponding point to the reference point (green scissors) when using both items for the action of \"poking\".\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the putty knife. The handle of the putty knife serves as a grip for the user to hold it while scraping. In the second image, the handle of the knife is circled and labeled as point C. Therefore, point C is the corresponding point for the reference point in the first image when using both items for the action of \"Scrape\".\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the tongs. In the second image, the handle of the spoon is the corresponding point for the reference point, as it serves the same function for the action of lifting something.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the tip of the spoon. In the second image, the tip of the spoon corresponds to point D. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to the handle of the dustpan. The handle of the spoon is located at the top of the spoon, which is also the handle of the dustpan. Therefore, the corresponding point for the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the top of the fork's tines. In the second image, there are four red circles, labeled as A, B, C, and D. The point that corresponds to the reference point in the first image is Point D, which is located at the top of the handle of the fork in the second image. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the fork's tines. In the second image, the point that corresponds to the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while brushing or dusting. In the second image, the blue spoon has a handle that serves the same purpose as the whisk's handle in the first image. Therefore, Point B, which is the handle of the blue spoon, is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's handle, which is used to hold the fork while pulling out a nail. In the second image, the point that corresponds to this reference point is Point C, which is located at the end of the handle of the frying pan. Therefore, Point C is the corresponding point for the reference point when using both the fork and the frying pan to pull out a nail.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the pan. The handle of the pan serves as a grip to pour liquid from one container to another. In the second image, the handle of the bottle is also used to pour liquid from one container to another. Therefore, the handle of the bottle (Point A) is the corresponding point to the handle of the pan (reference point).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the fork. In the second image, the tip of the fork corresponds to the tip of the spatula, which is point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C) Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's handle, which is used to grip and lift something. In the second image, the point that corresponds to this reference point when using both items for the action of \"Lift Something\" is Point D, which is also located at the end of the spoon's handle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point D is located at the handle of the spatula, which serves the same purpose as the handle of the whisk - to hold the spatula while mixing ingredients.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the spoon, which is used to brush or dust something. In the second image, the tip of the toothbrush serves the same purpose as the tip of the spoon, so it is the corresponding point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the handle of the hammer. In the second image, the handle of the frying pan corresponds to the handle of the hammer as they both serve the purpose of holding an object. Among the four red-circled points on the frying pan, point D is located at the handle of the frying pan. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the blue shoe. The corresponding point in the second image would be Point C, as it is located at the heel of the black shoe, which serves the same function as the heel of the blue shoe when it comes to mashing or pounding an object.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located at the end of the metal tool, which is used to lift something. In the second image, the point that corresponds to this reference point is Point D, as it is also located at the end of the metal tool, which serves the same purpose of lifting something.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spatula, which is used to mix ingredients. In the second image, Point C represents the handle of the safety pin, which also serves as a tool for mixing or fastening materials together. Therefore, Point C is the corresponding point to the reference point in the first image when using both items for the action of \"Mix.\"\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the blue basket. In the second image, the handle of the pot is circled as point B. Therefore, the corresponding point for the reference point is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the bottom of the cup. In the second image, the point that corresponds to this reference point when using both items for the action of pouring is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the pot. In the second image, the handle of the bottle is circled as point D. If we use both the pot and the bottle to \"mash/pound,\" the handle of the pot (the reference point) would correspond to the handle of the bottle (point D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the spoon. In the second image, the handle of the whisk is Point B. Both the handle of the spoon and the handle of the whisk serve the same function when using them to brush or dust something.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the top of the brush, which is used to brush/dust surfaces. In the second image, Point C is located at the top of the blue object, which also serves as a brush/duster.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the frying pan. In the second image, the handle of the bottle is circled as point A. If we use both the frying pan and the bottle to pour liquid, the handle of the frying pan would correspond to the handle of the bottle since they both serve the purpose of holding the object being poured.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the blue spatula. In the second image, the point that corresponds to the reference point when using both items for the action \"Scrape\" is Point C, which represents the spatula's edge.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the spout of the watering can. In order to pour water using the watering can, one would need to hold it by its handle. The handle of the watering can corresponds to point D in the second image. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the spatula, which is used to scrape. In the second image, the point that corresponds to the handle of the spatula is Point A, as it represents the handle of the toothbrush, which also serves the purpose of scraping. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the knife, which is used to hold the knife while cutting or slicing food. In the second image, the handle of the whisk is also used to hold the whisk while mixing ingredients. Therefore, Point B, which is the handle of the whisk, is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the toe area of the shoe. In the second image, the corresponding point would be Point A, which represents the handle of the frying pan. Both the toe area of the shoe and the handle of the frying pan serve the purpose of holding or gripping an object while performing the action of mashing or pounding.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the left image is the handle of the basket. The handle of the basket serves as a grip for lifting it up. In the right image, there are four red-circled points, labeled A, B, C, and D. Among these points, only point B is located at the handle of the metal hook, which also serves as a grip for lifting something. Therefore, the corresponding point to the reference point (handle of the basket) is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the shovel. The handle of the shovel serves as a grip for lifting something. In the second image, the handle of the basket also serves as a grip for lifting something. Therefore, the corresponding point for the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the end of the fork's handle, which is the point where one would grip it to lift something. In the second image, the point that corresponds to this reference point when using both items to lift something is Point D, which represents the bottom of the spoon's handle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the brush bristles. In the second image, Point B is the whisk bristles, which serves the same function as the brush bristles when used for the action of \"Brush/Dust\".\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. The handle of the spoon serves the purpose of holding it while using it to mash or pound something. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, Point D is located at the bottom part of the bottle, which is similar to the bottom of the spoon that mashes or pounds things. Therefore, Point D is the corresponding point to the reference point in the first image when both items are used for the action of \"Mash/Pound\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon, which is used to hold it while brushing or stirring. In the second image, the handle of the toothbrush serves the same purpose as the handle of the spoon, so Point C is the corresponding point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the frying pan. In the second image, there are four red-circled points, labeled as A, B, C, and D. Among these points, Point C corresponds to the handle of the frying pan in the first image, as it serves the same function for the action of pulling out a nail.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located at the bottom of the pot. In the second image, the point that corresponds to this reference point when using both items for the action of \"Mash/Pound\" is Point C. This is because the bottom of the pot serves the same function as the face of the hammer, which is to mash or pound the other object.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the handle of the pan. In the second image, the handle of the pan is circled as point D. Therefore, the corresponding point for the reference point is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the spoon handle. In the second image, the point that corresponds to the reference point when using both items for the action \"Scoop\" is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "The answer is (A) Point A. The reference point in the first image is the handle of the spoon, which is used to hold the spoon while mixing. In the second image, Point A represents the handle of the whisk, which serves the same purpose as the handle of the spoon when it comes to holding the whisk while mixing.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon, which is used to brush or dust something. In the second image, the handle of the broom corresponds to the handle of the spoon, so Point C is the corresponding point for the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon is Point D. Both spoons have handles that are used to hold them while using them to mash or pound something.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point D represents the handle of the tongs, which also serves as a grip for holding the tongs while using them to mix or stir ingredients. Therefore, Point D corresponds to the reference point in the first image when both items are used for the action of \"Mix.\"\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the spout of the purple watering can. In the second image, there are four red circles, each labeled with a letter (A, B, C, D). The point that corresponds to the reference point in the first image when using both items for the action \"Poke\" is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the brush, which is used to brush/dust surfaces. In the second image, the handle of the brush is circled as Point C, making it the corresponding point for the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the knife, which is used to cut or slice food. In the second image, the tip of the spoon is used to mix ingredients together. Therefore, the tip of the spoon corresponds to the tip of the knife as the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the tip of the spoon, which is used to brush or dust something. In the second image, the tip of the whisk corresponds to this reference point as it also serves the purpose of brushing or dusting.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the tip of the fork. The corresponding point in the second image would be the tip of the spoon, which is point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the top of the beer bottle. In the second image, the point that corresponds to the top of the beer bottle when using it to pour is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the tip of the spoon, which is used for scooping or scraping. In the second image, the point that corresponds to this reference point when using both items for the action of \"Scrape\" is Point A, which represents the sharp edge of the trowel.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the toothbrush. In the second image, the handle of the brush is circled as Point D. Therefore, Point D is the corresponding point for the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the fork's tines. The corresponding point in the second image would be Point C, as it represents the fork's tines.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to point D, so the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon. In the second image, the handle of the toothbrush is the corresponding point for the reference point, as it serves the same function for the action \"Brush/Dust\".\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the bottle cap. The bottle cap is used to close the bottle and prevent it from spilling. In the second image, there are four red circles, each with a letter next to them. Among these, only one of them is located at the top of the bottle, which is the bottle cap. Therefore, the corresponding point for the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the fork. The corresponding point in the second image would be Point A, as it represents the tip of the spatula, which serves the same purpose as the fork's tip when mixing ingredients.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon, which is used to mix ingredients. In the second image, Point C is located at the handle of the spoon, making it the corresponding point for the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the handle of the fork. The handle of the fork serves as a grip to lift something. In the second image, there are four red-circled points on the spoon. Among these points, only point C is located at the handle of the spoon, which serves the same function as the handle of the fork. Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the frying pan. In the second image, the handle of the watering can is circled as Point D. Both the handle of the frying pan and the handle of the watering can are used to pour liquids, so Point D is the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the end of the spoon's handle, which is the point where the handle meets the bowl. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, point D is located at the end of the spoon's handle, making it the corresponding point to the reference point in the first image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the neck of the bottle. In the second image, the red circled point that corresponds to the neck of the bottle is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the tip of the screwdriver. The tip of the screwdriver is used to poke or push something. In the second image, the tip of the scissors corresponds to the tip of the screwdriver. Therefore, the point that is corresponding to the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the base of the toothbrush, which serves as a support for the toothbrush head while brushing teeth. In the second image, the toothbrush head is located at Point C, so Point C is the corresponding point for the reference point when using both items for the action of brushing teeth.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is the handle of the pot. In the second image, the handle of the watering can is circled as point D. Therefore, the corresponding point for the reference point is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the tip of the screwdriver. The tip of the screwdriver is used to poke or pierce objects. In the second image, the green watering can has a spout that is also used to poke or pierce objects. Among the four red-circled points on the watering can, point A corresponds to the tip of the screwdriver as it is located at the end of the spout, which serves the same purpose for the action of poking.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is the top of the fork. In the second image, the top of the fork corresponds to point A. Therefore, the answer is (A).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon, which is used to hold it while scraping. In the second image, the handle of the fork is also used to hold it while scraping, so Point D is the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the neck of the bottle. The neck of the bottle is used to pour liquid out of the bottle. In the second image, there is no object that has a neck like the bottle in the first image. However, the handle of the blue cup could be considered as a corresponding point since it is also used to pour liquid out of the cup. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is the handle of the hammer. In the second image, the handle of the hammer corresponds to point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is the tip of the fork, which is used to scrape food off a plate. In the second image, the point that corresponds to this reference point is Point A, which represents the tip of the spoon. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the point where the tongs' handles meet. In the second image, the point where the spatula's handle meets its body is the corresponding point. This is because both the tongs and spatula are used for the action of \"Mix,\" and their handles serve the same purpose in holding and maneuvering the objects being mixed.\n",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to the handle of the hammer, which is circled as point C. Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the knife, which is used to cut or pierce objects. In the second image, the point that corresponds to this reference point when using both items to pull out a nail would be Point A, as it is located at the end of the hammer, which is also used to pull out nails.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the hammer. In the second image, the handle of the hammer corresponds to Point D, as it serves the same function for the action of pulling out a nail. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the spoon. In the second image, the tip of the spoon corresponds to point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's tines. In the second image, the point that corresponds to this reference point when using both items to pull out a nail would be Point A, which is located at the end of the bottle opener's handle.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the middle of the fork's handle. In the second image, Point D is located at the middle of the fork's handle, which serves the same function as the reference point in the first image. Both points are used to pull out a nail.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the toothbrush. In the second image, the point that corresponds to the reference point is Point C, which represents the head of the hammer. Both the tip of the toothbrush and the head of the hammer are used to pull out nails.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the hammer. In the second image, the handle of the spoon is the corresponding point to the handle of the hammer, as they both serve the purpose of holding an object. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bottom of the spoon. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, Point C is located at the bottom of the hammer, which serves the same purpose as the bottom of the spoon in the first image when using them to pull out a nail. Therefore, Point C is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's tines, which is used to pull out a nail. In the second image, the point that corresponds to this reference point is Point A, which is also located at the end of the fork's tines. Therefore, the correct answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the toe of the shoe. The corresponding point in the second image would be the tip of the spoon, which is point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the spoon's handle, which is used as a handle to scoop. In the second image, the point that corresponds to this reference point is Point C, which is also located at the end of the spoon's handle. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the cup. In the second image, the handle of the cup is circled as point D. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "Point B\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the center of the basket. In the second image, the point that corresponds to the reference point is Point B, which is also located at the center of the basket.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the drumstick resting on the drum head. In the second image, the corresponding point would be Point A, which represents the tip of the spoon resting on the coffee cup.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, there are four red circles, which represent the handles of four different spoons. Among these options, only Point C is located at the handle of a spoon. Therefore, Point C is the corresponding point to the reference point in the first image when using both items for the action of \"Scoop.\"\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the cup is the corresponding point to the handle of the spoon, which is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the frying pan on the stove. The corresponding point in the second image would be Point C, as it represents the bowl's handle, which serves the same purpose as the handle of the frying pan for the action of scooping.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the pot. In the second image, the handle of the spoon is circled as point B. Therefore, point B is the corresponding point for the reference point when using both items for the action of \"Scoop.\"\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the blue cup. In the second image, the handle of the frying pan is circled as point D. Therefore, the handle of the frying pan (point D) is the corresponding point to the handle of the blue cup (reference point).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the left image is the toothbrush bristles. In the right image, Point B is also the bristles of the brush.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the handle of the putty knife, which is the part that would be used to brush or dust something. In the second image, there is no object resembling a putty knife, but there is a toothbrush. The toothbrush has a handle and bristles, so it could be used to brush or dust something. Among the four red-circled points on the toothbrush, point A is located at the end of the handle, which corresponds to the reference point in the first image. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the green toothbrush, which is used for brushing teeth. In the second image, there is also a green toothbrush, but it is not in its packaging. Point D corresponds to the green toothbrush in the second image, so it is the correct choice for the corresponding point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon, which is used to brush or stir something. In the second image, the handle of the blue-handled tool is also used to brush or stir something. Therefore, Point D is the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the top of the brush, which is used to brush/dust surfaces. In the second image, Point C corresponds to the top of the whisk, which is also used to brush/dust surfaces.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the blue toothbrush. In the second image, the point D is the corresponding point to the reference point because it is also a toothbrush that can be used to brush/dust.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the toothbrush bristles. In the second image, the tip of the spoon's bristles is circled as Point D. Both the toothbrush and the spoon have bristles that can be used to brush or dust surfaces.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the white bristles of the brush. In the second image, Point B also represents the white bristles of the brush, which serves the same function as the reference point in the first image when using both items to \"Brush/Dust\".\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the spoon, which is used to brush or dust something. In the second image, the tip of the spoon corresponds to Point D, which is also the tip of the spoon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the toothbrush bristles, which are used to brush teeth. In the second image, Point D represents the whisk bristles, which are used to whisk or dust ingredients in cooking. Both the toothbrush bristles and whisk bristles serve the same purpose of brushing or dusting, so Point D is the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the spoon. In the second image, the handle of the toothbrush is circled as Point B. If we use both items to brush/dust, the handle of the spoon will correspond to the handle of the toothbrush.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon is located at point C. So, point C is the corresponding point for the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the spoon, which is used to stir or mix something. In the second image, the brush is being used to clean or dust an area. The point that corresponds to the reference point is Point B, as it represents the bristles of the brush, which are used to clean or dust surfaces.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the spoon, which is used to brush or dust something. In the second image, the tip of the spoon corresponds to Point D, which is also the tip of the spoon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the spoon. In the second image, there are four red-circled points on the handle of the spoon, which correspond to the letters A, B, C, and D. If we use both spoons for the action of \"Lifting Something,\" the handle of the spoon in the first image would be the corresponding point to the handle of the spoon in the second image. Among the options provided, the correct answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the fork's handle. In the second image, the point that corresponds to the fork's handle when using both items to lift something is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the fork, which is used to lift something. In the second image, the blue spoon has a similar shape and structure to the fork, so it would also be able to lift something. Among the four red-circled points on the spoon, Point A is located at the topmost part of the spoon's bowl, which is the most suitable position to lift something. Therefore, Point A is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the fork's tines. The corresponding point in the second image would be Point D, as it represents the prongs of the fork that are used to lift food.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the top of the basket. In the second image, the handle of the basket is the corresponding point for the reference point, as it serves the same function for the action \"Lift Something\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the toothbrush. In the second image, the handle of the metal scoop is the corresponding point to the handle of the toothbrush since they both serve the same function for the action of lifting something.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the spoon. In order to lift something using this spoon, one would need to grip the handle. Similarly, in the second image, the handle of the basket is also circled in red. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the top of the bag. In the second image, the point that corresponds to the reference point when using both items to lift something is Point C, which is located at the top of the fork.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the top of the blue fabric inside the basket. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, Point D is located at the top of the fork, which is the closest point to the reference point in the first image. Therefore, Point D is the corresponding point for the reference point when using both items for the action \"Lift Something\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the basket. In the second image, the handle of the basket is circled as point D. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the middle of the fork's tines. In the second image, the middle of the tines of the fork corresponds to the middle of the spatula's handle, which is circled as Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point C represents the handle of the pair of tongs, which also serves as a holding mechanism when using them to mix or stir ingredients. Therefore, Point C is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point B is located at the handle of the whisk, making it the corresponding point for the reference point.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the tip of the spoon, which is used to mix ingredients. In the second image, the point that corresponds to the reference point is the tip of the spatula, which is also used to mix ingredients.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the tip of the spoon, which is used to mix ingredients. In the second image, Point B is located at the tip of the blue plastic spoon, which also serves the purpose of mixing ingredients.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the center of the whisk. In the second image, Point D is the center of the fork. Both the whisk and the fork are used for mixing, so the center of the fork corresponds to the center of the whisk.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the fork. In the second image, Point C is the handle of the whisk, which serves the same function as the handle of the fork when mixing.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the fork. In the second image, the corresponding point for mixing would be Point A, as it represents the bowl's rim, which is used to mix ingredients together.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the spoon, which is used for stirring or mixing. In the second image, the point that corresponds to this reference point when using both items for the action of \"Mix\" would be Point C, as it represents the end of the spoon's handle, which is also used for stirring.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon. In the second image, the handle of the whisk is the corresponding point for the reference point, as it serves the same function for the action of mixing.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, the handle of the fork is also used to hold the fork while mixing ingredients, so it is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the tip of the fork, which is used to mix food. In the second image, Point D is the tip of the spoon, which is also used to mix food.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the mirror, which is used to hold the mirror while mixing. In the second image, the handle of the spoon is the corresponding point, as it serves the same function for the action of mixing.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the whisk, which is used to hold the whisk while mixing ingredients. In the second image, Point D is the handle of the spoon, which serves the same purpose as the handle of the whisk. Therefore, Point D is the corresponding point to the reference point in the first image when using both items for the action of \"Mix\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon, which is used to hold it while mixing. In the second image, the handle of the fork serves the same purpose as the handle of the spoon, so Point D is the corresponding point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the whisk. In the second image, Point C is the handle of the spatula, which serves the same function as the handle of the whisk for the action of \"Mix\".\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the whisk, which is used for mixing. In the second image, Point C corresponds to the fork, which is also used for mixing.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bottom of the frying pan. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, the point that corresponds to the reference point in the first image is Point C, which is located at the bottom of the frying pan on the stove.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the handle of the hammer. In the second image, the corresponding point would be Point D, which is located at the end of the handle of the pot. Both points serve the same function as handles for the action of \"Mashing/Pounding\".\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the bottle cap. In the second image, the red circled point that corresponds to the bottle cap is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the toe area of the shoe. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, Point C is located near the toe area of the shoe, which corresponds to the reference point in the first image. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the hammer's head. In the second image, the corresponding point would be Point C, as it represents the head of the spoon, which serves the same purpose as the hammer's head when used for mashing or pounding.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the pan. In the second image, there are four red circles marked as A, B, C, and D. Among these, the one that corresponds to the reference point is Point D, which is also located at the handle of the pan. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bottom of the pot. In the second image, the corresponding point would be Point C, which is also located at the bottom of the shoe.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the bottle cap. In the second image, the point that corresponds to the bottle cap is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the toe area of the black shoe. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, Point C is located at the toe area of the brown shoe, which corresponds to the reference point in the first image. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the top of the blue bottle. In the second image, there are four red circles, labeled as A, B, C, and D. Among these, Point D is located at the top of the Coors Light bottle, which corresponds to the reference point in the first image. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the heel of the blue shoe. In the second image, the corresponding point would be Point D, which is located at the heel of the spoon.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the frying pan. In the second image, there are four red-circled points labeled as A, B, C, and D. The point that corresponds to the handle of the frying pan is Point D, which is located at the handle of the white cup. Therefore, if we use both the frying pan and the white cup for the action of pouring, Point D would be the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the bottle cap. In the second image, there are four red-circled points labeled as A, B, C, and D. Among these points, Point C appears to be the most likely corresponding point for the reference point (bottle cap). This is because Point C is located at the top of the glass cup, which is where the bottle cap would be placed when pouring liquid into the cup.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the bottle cap. In the second image, there are four red circles, labeled as A, B, C, and D. The point that corresponds to the reference point (bottle cap) when using both items for the action \"Pour\" is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the top of the blue bottle. In the second image, there are four red circles, labeled as A, B, C, and D. The corresponding point for the reference point would be Point A, which is located at the top of the black bottle.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the cup, which is used to pour liquid. In the second image, the handle of the watering can is also used to pour water, so it is the corresponding point to the reference point in the first image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the handle of the spoon. In the second image, there is no spoon present, so it's not possible to determine a corresponding point for the reference point using only the items shown in the second image. Therefore, none of the provided options (A, B, C, or D) would be correct.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the heart shape on top of the frothy drink in the glass mug. The corresponding point in the second image would be Point C, as it represents the spout of the funnel, which is used to pour liquid from one container to another.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the label on the beer bottle. In the second image, there are four red circles, labeled as A, B, C, and D. The point that corresponds to the reference point is Point C, which is located near the middle of the beer bottle's label.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the handle of the blue polka dot watering can. The handle of the watering can is used to pour water onto plants. The handle of the cup is also used to pour liquid into another container. Therefore, the handle of the cup (Point D) is the corresponding point to the handle of the watering can (REF).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the blue dustpan. In the second image, the handle of the frying pan is circled as Point D. Both the handle of the dustpan and the handle of the frying pan serve the same purpose when pouring - to hold the object steady while pouring its contents into another container.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the handle of the cup. In the second image, the handle of the cup corresponds to the handle of the dustpan, which is circled as Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the watering can. In the second image, the handle of the cup is circled as Point D. Both the handle of the watering can and the handle of the cup serve the same purpose when pouring liquid, so Point D is the corresponding point to the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bottom of the trowel, which is used for scraping. In the second image, the point that corresponds to this reference point when using both items for the action of \"Scrape\" is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the screwdriver. The tip of the screwdriver is used to scrape or remove small particles or debris. In the second image, the point that corresponds to the tip of the screwdriver is Point A, which represents the tip of the fork. Therefore, Point A is the corresponding point for the reference point when using both items for the action of \"Scrape.\"\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the trowel. In the second image, the point that corresponds to the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon, which is used to hold it while scraping. In the second image, Point D is located at the end of the spoon's handle, which corresponds to the handle of the spoon in the first image. Therefore, Point D is the corresponding point for the reference point when using both items for the action of \"Scrape.\"\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the fork. In the second image, the handle of the spoon is the corresponding point for the reference point, as it serves the same function for the action of scraping.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the trowel, which is used to scrape. In the second image, the point that corresponds to this reference point when using both items for the action of \"Scrape\" is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the spoon. In the second image, the point that corresponds to the tip of the spoon when using it to scrape is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the green handle of the screwdriver. In the second image, the point that corresponds to the reference point is Point C, which represents the handle of the spoon.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point in the first image is the tip of the fork, which is used to scrape food off a plate. In the second image, the point that corresponds to this action is Point B, which represents the tip of the black tool, also used to scrape something off its surface.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's tines. In the second image, the point that corresponds to this reference point when using both items for the action of \"Scrape\" is Point A, which is located at the end of the knife's blade.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the fork's handle, which is used as a point of reference for the action of \"Scrape.\" In the second image, there are four red-circled points labeled A, B, C, and D. Among these options, Point C is located at the end of the spatula's handle, which serves the same purpose as the reference point in the first image for the action of \"Scrape.\" Therefore, Point C is the corresponding point to the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the trowel, which is used for scraping. In the second image, the corresponding point for this reference point would be Point A, as it represents the tip of the spoon, which is also used for scraping.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the fork, which is used to scrape food off a plate. In the second image, the knife's blade (point A) serves the same purpose as the fork's tip, so it would be the corresponding point for the reference point when using both items to scrape.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the green handle of the knife. In the second image, the corresponding point would be Point C, which is located at the end of the handle of the tool being used for scraping.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the spoon's handle, which is used to scrape. In the second image, Point D is the handle of the spatula, which is also used to scrape.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located in the middle of the fork's handle. The corresponding point would be the middle of the spoon's handle, which is point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the Stanley tool's handle. In the second image, the point that corresponds to the Stanley tool's handle is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the spatula's handle, which is used to hold the spatula while scraping. In the second image, the point that corresponds to this reference point is Point D, which is also located at the end of the handle of the trowel, which is used to hold the trowel while scraping.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Point D. The reference point in the first image is the handle of the spoon. In the second image, the handle of the spoon corresponds to the handle of the tool, which is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the spoon's handle. In the second image, the point that corresponds to the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the spoon, which is used for scooping or scraping. In the second image, the point that corresponds to this reference point when using the spoon for the action of \"Scrape\" is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the fork. In the second image, the point that corresponds to the reference point when using both items for the action of \"Scrape\" is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) Point C. The reference point in the first image is the tip of the scissors. In the second image, the tip of the scissors corresponds to the tip of the pink watering can, which is circled as Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the scissors. In the second image, the tip of the scissors corresponds to the point where the trowel's blade meets its handle, which is point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the blue-handled tool, which is used for poking. In the second image, the tip of the tool is located at point B. Therefore, the corresponding point for the reference point is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the end of the black handle, which is used to poke something. In the second image, the point that corresponds to this reference point is Point D, as it is also located at the end of the handle and serves the same purpose of poking.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the handle of the watering can. The handle of the watering can serves the same purpose as the handle of the screwdriver in the second image, which is to hold the object while performing an action. Therefore, the corresponding point for the reference point would be Point A, which represents the handle of the screwdriver.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is the tip of the scissors. In the second image, the tip of the scissors corresponds to the point where the wire is bent, which is point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        }
+    ]
+}

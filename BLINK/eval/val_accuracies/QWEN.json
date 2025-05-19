@@ -1,7 +1,7 @@
 {
     "Visual_Similarity": 0.837037037037037,
     "Counting": 0.6583333333333333,
-    "Relative_Depth": 0.12903225806451613,
+    "Relative_Depth": 0.6693548387096774,
     "Jigsaw": 0.6733333333333333,
     "Art_Style": 0.5641025641025641,
     "Functional_Correspondence": 0.2692307692307692,
@@ -13,5 +13,5 @@
     "Relative_Reflectance": 0.3358208955223881,
     "Forensic_Detection": 0.4393939393939394,
     "IQ_Test": 0.24666666666666667,
-    "Total": 0.510066270917071
+    "Total": 0.548660740963154
 }

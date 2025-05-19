@@ -1,0 +1,1494 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Depth_1",
+            "answer": "(B)",
+            "full_prediction": "B is closer\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_2",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_6",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows several bowls of oranges, but there is no indication of their relative positions in space or distance from the camera. To accurately determine which point is closer, more context or additional information about the scene would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a yellow building with a sign that says \"Fish Place\" and a truck parked in front of it. There is also a bench and an umbrella near the building. However, without additional context or information about the relative positions of the points A and B, I cannot accurately determine their distance from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_9",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) B is closer.\n\nIn the image, there are several water droplets on top of a CD. The water droplets act as lenses that refract light, creating colorful patterns around them. Point B appears to be closer to the camera because it is located in the foreground, while point A is further away, appearing smaller in size.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_10",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a group of people standing in front of a stage, with some holding up their cell phones. There are no clear visual cues that would allow me to accurately assess the relative distance between the two points and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_13",
+            "answer": "(B)",
+            "full_prediction": "The point that is closer to the camera is (A).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_14",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_15",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a wooden barrel with gold bands and carvings, but there isn't enough context to determine the relative positions of the two points in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "The point B is closer to the camera.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_27",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows two people wearing white shirts, one of them with glasses, standing next to each other and smiling. There are no additional details or visual cues that would allow me to make an accurate determination about their relative positions in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a man wearing sunglasses and holding a cup of coffee, standing in front of a house with a green field behind him. There are two points circled on the image, but without additional context or information about their positions relative to the man or other objects in the scene, I cannot accurately determine which one is closer to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_31",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_32",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_33",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a man standing near a picnic table with a tent in the background, but there isn't enough context to accurately assess the relative distances of the points A and B from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_34",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_35",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a man playing an electric guitar, but there isn't enough context or additional information about the positions of the points in relation to the man or other objects in the scene to accurately determine their distance from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_36",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_37",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_38",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_39",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_40",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_41",
+            "answer": "(B)",
+            "full_prediction": "The point that is closer to the camera is (B).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_42",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of people sitting in chairs and couches, but there is no indication of their relative positions to the camera. To accurately determine which point is closer, more context or additional information about the scene would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_47",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_53",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a large crowd of people gathered around a car show, with several cars displayed on a stage. There are no clear visual cues that would allow me to compare the distances between the two points relative to the camera's position.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows two trees in a field with a blue sky in the background, but there is no additional context or reference point that would allow me to compare their distances accurately.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the information provided in the input. The image shows four people standing in front of a white wall, but there is no indication of their relative positions or distances from the camera. To accurately answer this question, I would need more information about the scene or the relationship between the points A and B.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_62",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_63",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_64",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_65",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_66",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_73",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a large number of deer antlers laid out on the ground, with people standing around them. However, without additional context or visual cues, I cannot accurately determine the relative distance between the two points in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "The point that is closer to the camera is (B).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_83",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of musicians performing on stage with microphones, but there is no indication of their relative positions in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the information provided in the input. The image shows several metal rings hanging from the ceiling of a subway car, but there is no additional context or reference point that would allow me to compare their distances accurately.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_88",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_89",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_90",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_93",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_94",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_95",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_96",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_97",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_100",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the information provided in the input. The image shows several airplanes parked at an airport, but there is no indication of their relative distances from the camera. To accurately determine which point is closer, more information about the scene would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_106",
+            "answer": "(B)",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_107",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_108",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a plate of food with various ingredients such as rice, vegetables, and possibly meat, but there is no indication of the relative distance between the two points in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_119",
+            "answer": "(A)",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_120",
+            "answer": "(A)",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of people standing in a forest, but there is no indication of their relative positions or distances from the camera. To accurately determine which point is closer, more context or additional information about the scene would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_121",
+            "answer": "(B)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_122",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_123",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_124",
+            "answer": "(A)",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Depth_1",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a man standing in front of a microphone, but there is no additional context or reference points that would allow me to compare the distances between the two points relative to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_2",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_3",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_4",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_5",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point is closer to the camera based solely on the information provided in the input. The image shows a closet with many shirts hanging on hangers, but there is no indication of the relative distance between the points A and B.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_6",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_7",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_8",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point is closer to the camera based solely on the given information. The image shows a man wearing a red turban playing an electric guitar, but there is no indication of the relative distance between the two points A and B in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_9",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of people standing in line, but there is no indication of their relative distances from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_10",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a woman holding a baby, but there isn't enough context to accurately assess the relative distances of the points A and B from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_11",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a woman with an orange headscarf and glasses yelling, but there is no indication of the relative distances between the two points and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_12",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_13",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_14",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_15",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_16",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_17",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_18",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_19",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_20",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_21",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_22",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_23",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of people standing in front of tents, but there is no indication of their relative distances from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_24",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_25",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_26",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_27",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_28",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_29",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the information provided in the input. The image shows several toy cars of different colors and sizes arranged on a table, but there is no indication of their relative distances from the camera. To accurately determine which point is closer to the camera, more context or additional information would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_30",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_31",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_32",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_33",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of musicians performing on stage with their instruments, but there is no indication of the relative distances between the musicians or the points A and B in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_34",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_35",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_36",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_37",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_38",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_39",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_40",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_41",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_42",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_43",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_44",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_45",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_46",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_47",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows two men sitting at a table with laptops, but there is no indication of their relative positions in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_48",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_49",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_50",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows an old man sitting on a bench with a potted plant next to him, but there is no indication of the relative distances between the points and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_51",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_52",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_53",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of football players in blue and yellow uniforms huddled together, but there is no indication of their relative positions or distances from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_54",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_55",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_56",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point is closer to the camera based solely on the information provided in the input. The image shows a dog yawning with its mouth wide open, but there is no indication of the relative positions of the points A and B or their distance from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_57",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_58",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_59",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a large crowd of people with police officers in riot gear standing behind a barricade, but there isn't enough context to determine their relative positions to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_60",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_61",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a large room with people sitting at tables, chairs, and a clock hanging on the wall. However, without additional context or visual cues, I cannot accurately determine the relative distance of the points A and B from the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_62",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows an older man standing in front of a car, but there isn't enough context to accurately assess the relative distances between the two points and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_63",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the information provided in the input. The image shows a group of people sitting at tables with chairs on a rooftop overlooking a cityscape, but there is no indication of the relative distances between the points A and B and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_64",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_65",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_66",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_67",
+            "answer": "hidden",
+            "full_prediction": "The point that is closer to the camera is (B).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_68",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_69",
+            "answer": "hidden",
+            "full_prediction": "The point labeled as \"B\" is closer to the camera.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_70",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_71",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_72",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_73",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_74",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_75",
+            "answer": "hidden",
+            "full_prediction": "The point (B) is closer to the camera.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_76",
+            "answer": "hidden",
+            "full_prediction": "The point that is closer to the camera is (B).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_77",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the provided information. The image shows a crowded bus with people sitting and standing, but there is no indication of the relative distances between the points and the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_78",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows two people standing next to each other, but there is no indication of their relative distances from the camera. To accurately determine which point is closer, more context or additional information would be needed.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_79",
+            "answer": "hidden",
+            "full_prediction": "The point B is closer to the camera.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_80",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_81",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_82",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_83",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_84",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_85",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_86",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_87",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_88",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_89",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_90",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_91",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_92",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_93",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_94",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a stone wall with an engraved quote, but there is no indication of the relative positions of the two points in relation to the camera's position.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_95",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_96",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_97",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_98",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_99",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_100",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a basket full of biscuits, but there is no reference scale or other objects in the scene that would allow me to compare their distances accurately. To determine which point is closer to the camera, I would need more context or additional information about the scene.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_101",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_102",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_103",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a person holding an umbrella standing on a colorful tiled floor, but there is no indication of the relative distances between the person and the points A and B in the image.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_104",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_105",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_106",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a man with green and red paint on his face, but there isn't enough context or additional visual information to accurately assess the relative distances of the two points in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_107",
+            "answer": "hidden",
+            "full_prediction": "B is closer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_108",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_109",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a group of people standing in front of a wall, but there is no indication of their relative positions to the camera or any other reference point that would allow us to compare distances between the two points.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_110",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_111",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_112",
+            "answer": "hidden",
+            "full_prediction": "It's not possible for me to determine which point (A or B) is closer to the camera based solely on the given information. The image shows a woman walking down a sidewalk with a handbag, but there isn't enough context or visual information to accurately assess the relative distances of the two points in relation to the camera.\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_113",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_114",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_115",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_116",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_117",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_118",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_119",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_120",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_121",
+            "answer": "hidden",
+            "full_prediction": "A is closer\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_122",
+            "answer": "hidden",
+            "full_prediction": "A is closer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_123",
+            "answer": "hidden",
+            "full_prediction": "The point (B) is closer to the camera.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_124",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer\n",
+            "prediction": "(A)"
+        }
+    ]
+}

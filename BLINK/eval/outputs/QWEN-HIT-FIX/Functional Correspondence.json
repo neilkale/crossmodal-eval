@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of each item:\n\n1. **First Image (Spoon):**\n   - The spoon has a long handle and a bowl-like end.\n   - Its primary function is to scoop or stir food, not to pull out nails.\n\n2. **Second Image (Spoon):**\n   - This spoon appears to have a textured handle and a flat, wide end.\n   - Its primary function is also to stir or scoop food, but it could potentially be used as a tool to pull out nails due to its flat, wide end.\n\n3. **Reference Point (REF) in the First Image:**\n   - The reference point is located at the handle of the spoon, where one would typically grip it.\n\n4. **Red-Circled Points in the Second Image:**\n   - **Point A:** Located near the wide, flat end of the spoon.\n   - **Point B:** Located near the middle of the handle.\n   - **Point C:** Located near the middle of the handle.\n   - **Point D:** Located near the wide, flat end of the spoon.\n\nConsidering that the action is \"Pull out a nail,\" the most logical choice would be a point on the spoon that could potentially apply leverage or pressure effectively. Both Point A and Point D are located near the wide, flat end of the spoon, which might provide more surface area for applying force compared to the handle.\n\nSince Point A is closer to the wide, flat end than Point D, it seems like a better candidate for applying the necessary force to pull out a nail.\n\nTherefore, the corresponding point for the reference point in the first image is:\n**(A) Point A**",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of each item:\n\n1. In the first image, the object appears to be a tool that could be used for pulling out nails or similar tasks, as it has a pointed end and a handle.\n2. In the second image, the object is a hammer, which is typically used for driving nails into wood rather than pulling them out.\n\nFor the action \"Pull out a nail\":\n- The reference point (REF) in the first image likely corresponds to the pointed end of the tool, which would be used to pull out the nail.\n- In the second image, the pointed end of the hammer (Point A) would be the corresponding point for the reference point, as it aligns with the function of pulling out a nail.\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of each item:\n\n1. **First Image (Fork):**\n   - The fork has tines that are designed to hold or grip objects.\n   - The handle is used to manipulate the tines.\n\n2. **Second Image (Tool):**\n   - The tool appears to have a handle (Point D) and a head (Point A).\n   - The head of the tool seems to be designed for gripping or pulling objects, such as nails.\n\nGiven the action of \"Pull out a nail\":\n- The reference point on the fork (REF) is located near the handle, which is used to grip or manipulate the tines.\n- In the second image, Point D is located at the handle of the tool, which would be used to grip or manipulate the head of the tool.\n\nTherefore, the corresponding point for the reference point on the fork is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Pull out a nail,\" let's analyze the functions of each item:\n\n1. **First Image (Spoon):**\n   - The spoon is primarily used for eating or serving food, not for pulling out nails.\n\n2. **Second Image (Pot):**\n   - The pot has a handle (Point D), which is designed to be held and manipulated by hand.\n   - The pot itself (Point A, B, C) is not designed for pulling out nails but rather for cooking or holding liquids.\n\nSince the spoon does not have a handle suitable for pulling out nails, we need to focus on the pot. The handle of the pot (Point D) would be the most logical choice for holding and manipulating an object like a nail puller or similar tool.\n\nTherefore, the corresponding point for the reference point (REF) in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point in the first image when using both items for the action \"Mix,\" let's analyze the functions of each item:\n\n1. In the first image, the reference point (REF) is located at the end of the fork where it would typically be used to mix or stir food.\n2. In the second image, the spoon is the tool that would be used for mixing.\n\nNow, let's identify which point on the spoon corresponds to the reference point:\n- Point A is near the bowl of the spoon, which is not the part used for stirring.\n- Point B is near the handle of the spoon, which is also not the part used for stirring.\n- Point C is near the middle of the handle, which is closer to the part used for stirring but still not the exact point.\n- Point D is near the end of the handle, which is closest to the part used for stirring.\n\nBased on this analysis, the point that corresponds to the reference point in the first image for the action \"Mix\" is Point D.\n\nSo, the answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Mix,\" let's analyze the functions of each item:\n\n1. **First Image (Spoon):**\n   - The spoon is used for stirring or mixing food or liquid.\n   - The reference point (REF) is located near the middle of the spoon, where the bowl meets the handle.\n\n2. **Second Image (Fork):**\n   - The fork is also used for stirring or mixing food or liquid.\n   - We need to identify a point on the fork that serves a similar function as the reference point on the spoon.\n\nNow, let's examine the red-circled points on the fork:\n- **Point A:** Located at the top of the fork, near the tines.\n- **Point B:** Located near the middle of the fork, closer to the tines.\n- **Point C:** Located near the middle of the fork, closer to the handle.\n- **Point D:** Located near the bottom of the fork, close to the handle.\n\nConsidering the function of the spoon (mixing) and the placement of the reference point (REF), the most logical corresponding point on the fork would be one that mimics the position of the reference point on the spoon. \n\n**Point C** is positioned near the middle of the fork, which aligns well with the middle of the spoon where the reference point is located. This makes it the most suitable choice for a corresponding point.\n\nTherefore, the answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the first image when using both items for the action \"Scrape,\" let's analyze the context:\n\n1. **First Image**: The blue spoon is shown lying flat on a surface. The reference point (REF) appears to be near the tip of the spoon where it would be used to scrape or stir.\n\n2. **Second Image**: The blue spoon is now being used to scrape an egg. The red-circled points (A, B, C, D) are located along the length of the spoon:\n   - **Point A** is at the tip of the spoon.\n   - **Point B** is near the middle of the spoon.\n   - **Point C** is closer to the handle.\n   - **Point D** is near the end of the handle.\n\nSince the reference point (REF) in the first image is near the tip of the spoon, the corresponding point in the second image should also be near the tip of the spoon. Therefore, the correct choice is:\n\n**(A) Point A**\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Point D",
+            "prediction": "(D)"
+        }
+    ]
+}

@@ -75,8 +75,10 @@ if __name__ == '__main__':
                     # 'llava-v1.5-7b-xtuner', 'llava-v1.5-13b-xtuner', 'cogvlm-chat', 
                     # 'llava_v1.5_7b', 'llava_v1.5_13b', 'llava-v1.6-34b',
                     # 'QwenVLMax', 'GeminiProVision', 'GPT4V', 'OPUS'
-                    'QWEN', 'QWEN-HIT'
+                    'QWEN', 'QWEN-HIT', 'QWEN-HIT-PLUS', 'QWEN-IT'
                     ]
+    for model_name in os.listdir(output_save_folder):
+        model_names.append(model_name)
     # save to a output path with model_name.json, replace with custom model name
     
     subtasks = [

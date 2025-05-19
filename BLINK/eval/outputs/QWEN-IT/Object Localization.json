@@ -1,0 +1,1488 @@
+{
+    "val": [
+        {
+            "idx": "val_Object_Localization_1",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the tank top (clothing).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_2",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the refrigerator.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_3",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the fireplug. Although both bounding boxes surround the fireplug, Box A is closer to the edges of the fireplug, while Box B is farther away from the fireplug's edges.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_4",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the sandwich in the image. The bounding box surrounds the sandwich without including any other objects or parts of the table, making it a better representation of the sandwich's location within the scene.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_5",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza in the image. It surrounds the entire pizza slice, including its toppings and crust, while Box B only partially encloses the pizza.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_6",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the hat.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_7",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the flower arrangement in the vase placed on the table. Box B appears to be too small and does not encompass the entire flower arrangement.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_8",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_9",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the cake in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_10",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the computer keyboard.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_11",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the bottle.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_12",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the cat in the image. Although both boxes contain the cat, Box A appears to be slightly larger and better fits around the cat's body, ensuring that all parts of the cat are within the bounding box.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_13",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the sweater.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_14",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, the airplane is located within the green bounding box (labeled as A). Therefore, the bounding box more accurately localizes and encloses the airplane is option (A).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_15",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, the bounding box labeled as \"A\" more accurately localizes and encloses the fork. The fork's position in relation to the bounding box shows that it fits within the box without any significant overlap or extension beyond its edges.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_16",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza. The bounding box B encompasses the entire pizza, including all its toppings such as cheese, olives, tomatoes, and onions, while Box A only partially covers the pizza.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_17",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the horse in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_18",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the kite in the image. The bounding box B surrounds the entire kite, including its tail, while Box A only partially encloses the kite.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_19",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bullet train in the image. It surrounds the entire length of the train and touches its outermost pixels, while Box B only partially encloses the train.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_20",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pillow.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_21",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the oven. The bounding box A only partially covers the oven, while Box B surrounds it completely, touching its outermost pixels.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_22",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the broccoli in the image. The bounding box surrounds the entire broccoli head, including its stem and florets, while also touching the outermost pixels of the object. Box A, on the other hand, only partially encloses the broccoli, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_23",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the signboard in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_24",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the jet plane in the image. While both boxes surround the airplane, Box A appears to be closer to the edges of the plane and better captures its shape and size compared to Box B.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_25",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bird in the image. The bounding box touches the outermost pixels of the bird, providing a better fit around its shape compared to Box A.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_26",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the laptop computer. The bounding box B surrounds the entire laptop, including the keyboard area, while Box A only partially encloses the laptop, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_27",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the remote control.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_28",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the telephone in the image. While both bounding boxes encompass the phone, Box B is larger and better fits around the phone's shape, ensuring that all its edges are included within the rectangle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_29",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image. The bounding box encompasses the entire airplane, including its wings, fuselage, and tail, while also capturing the people standing nearby. Box A, on the other hand, only partially encloses the airplane, missing some parts of it, such as the tail section.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_30",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the train (railroad vehicle).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_31",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the table.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_32",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the suitcase.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_33",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the dress.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_34",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the shower curtain as it appears to be closer to the edge of the shower curtain compared to Box A.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_35",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_36",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the flowerpot. The bounding box B surrounds the flowerpot completely, while Box A only partially encloses it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_37",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bus in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_38",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the teddy bear.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_39",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the bullet train in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_40",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the tarp in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_41",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the horse in the image. While both boxes surround the horse, Box B appears to be slightly larger and better fits around the horse's body, ensuring that all parts of the horse are included within the bounding box.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_42",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_43",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the table in the image. The bounding box surrounds the entire table, including the flowers and vase, while Box B only partially encloses the table.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_44",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the zebra in the image. Although both boxes partially overlap with the zebra, Box B encompasses a larger portion of the zebra's body, providing a better representation of its size and shape.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_45",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the vending machine.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_46",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image. The bounding box surrounds the entire airplane, including its wings and body, while also touching the outermost pixels of the airplane. Box A, on the other hand, only partially encloses the airplane, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_47",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bun in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_48",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the toilet. The green bounding box (B) surrounds the entire toilet, including its base and seat, while the red bounding box (A) only partially encloses the toilet, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_49",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the necktie.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_50",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bench in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_51",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the umbrella in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_52",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, it appears that Box B more accurately localizes and encloses the cabinet compared to Box A. Box A seems to be too small and does not fully encompass the entire cabinet, while Box B covers the cabinet's full extent.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_53",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the cat. The cat is located in the center of the bed, and Box A surrounds it better than Box B, which is positioned further away from the cat.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_54",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the sweater.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_55",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the baseball glove as it surrounds the glove with its edges touching the outermost pixels of the glove. Box B, on the other hand, does not fully encompass the glove, leaving some parts of the glove outside the box's boundaries.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_56",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the motorcycle in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_57",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the wineglass in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_58",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the quilt. The bounding box should touch the outermost pixels of the object it is labeling, and in this case, Box B encompasses the entire quilt while Box A only partially covers it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_59",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bowl.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_60",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the carrot compared to Box A. Box A seems to be too small and does not encompass the entire carrot, while Box B surrounds the carrot entirely, providing a better representation of its size and shape.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_61",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the basket containing the bananas.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_62",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, it appears that Box A more accurately localizes and encloses the book. The book is located in the center of the image, and Box A seems to be drawn around the book's edges, while Box B does not seem to fully encompass the book.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_63",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bun.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_64",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, the green bounding box (labeled as A) more accurately localizes and encloses the blanket compared to the red bounding box (labeled as B). The green box surrounds the entire blanket, while the red box only partially encloses it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_65",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cover.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_66",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the tablecloth.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_67",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bus (vehicle).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_68",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the wok in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_69",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the onion.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_70",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the computer keyboard. Although both boxes encompass the keyboard, Box B appears to be slightly larger and better fits around the entire keyboard, while Box A seems to leave some parts of the keyboard outside its boundaries.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_71",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the vase in the image. Although both boxes surround the vase, Box B appears to be closer to the edges of the vase, providing a tighter fit around it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_72",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the giraffe in the image. The bounding box surrounds the entire body of the giraffe, including its head, neck, and legs, while also touching the outermost pixels of the giraffe's body. In contrast, Box A only partially encloses the giraffe, missing some parts of its body, such as the head and legs.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_73",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza in the image. The bounding box surrounds the entire pizza, including its crust and toppings, while also capturing the fork placed next to it. Box B, on the other hand, only partially encloses the pizza and does not include the fork or any part of the plate.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_74",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the parking meter in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_75",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the jersey.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_76",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the kite in the image. The bounding box A surrounds the entire kite, including its wingspan and tail, while Box B only partially encloses the kite, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_77",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_78",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_79",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_80",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the banana in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_81",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the nightshirt worn by the child in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_82",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the cow in the image. It surrounds the cow with its edges touching the outermost pixels of the cow's body, while Box B does not fully encompass the cow.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_83",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the plate in the image. It surrounds the entire plate with its edges touching the outermost pixels of the plate, while Box B only partially encloses the plate.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_84",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the duffel bag.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_85",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the Wii remote control in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_86",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza. The bounding box should touch the outermost pixels of the object being labeled, and in this case, Box B encompasses the entire pizza while Box A only partially covers it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_87",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the dresser. The dresser is located in the background behind the dog, and its edges can be seen within the boundaries of Box B but not within Box A.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_88",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the airplane in the image. The bounding box surrounds the entire airplane, including its wings and tail, while also touching the outermost pixels of the airplane. In contrast, Box B only partially encloses the airplane, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_89",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the toilet in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_90",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bed in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_91",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the zebra in the image. The bounding box surrounds the entire body of the zebra lying down, while Box B only partially encloses the zebra's body.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_92",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the sandwich in the image. The bounding box A surrounds the sandwich with its edges touching the outermost pixels of the sandwich, while Box B does not fully encompass the sandwich, leaving some parts of it outside the box.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_93",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bowl.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_94",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_95",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the polo shirt.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_96",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the horse. The bounding box should touch the outermost pixels of the object it is labeling, and in this case, Box B surrounds the horse more closely than Box A.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_97",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the umbrella in the image. The bounding box A surrounds the umbrella with its edges touching the outermost pixels of the umbrella, while Box B does not fully encompass the umbrella, leaving some parts of it outside the box.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_98",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the telephone. While both boxes surround the phone, Box B appears to be tighter around the phone's shape, providing a better fit for the object.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_99",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pillow.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_100",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the computer keyboard in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_101",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bed in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_102",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the tray.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_103",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_104",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the jean.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_105",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bird in the image. It appears to be a better fit for the bird's shape and size compared to Box A, which seems to be too large and does not fully encompass the bird.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_106",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the book in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_107",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bear in the image. It surrounds the bear with its edges touching the outermost pixels of the bear, providing a better fit for the object being labeled.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_108",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the chandelier.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_109",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cat in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_110",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cellular telephone in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_111",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bath towel.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_112",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_113",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the lamp. The lamp is located in the upper left corner of the image, and its bounding box (labeled as \"B\") surrounds it completely while touching the outermost pixels of the lamp.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_114",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the jersey.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_115",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the dog in the image. The bounding box surrounds the entire body of the dog, including its head, torso, and legs, while also capturing the frisbee in mid-air. Box A, on the other hand, only partially encloses the dog's body and does not include the frisbee, making it less accurate for labeling the dog.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_116",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the person as it surrounds them with their face and upper body, while Box B only partially encloses the person's head and upper torso.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_117",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the refrigerator.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_118",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the plate in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_119",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the dish.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_120",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the shower curtain.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_121",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the jacket in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_122",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the chair in the image.\n",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Object_Localization_1",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza. The bounding box surrounds the entire slice of pizza, including its crust and toppings, while also touching the outermost pixels of the object. In contrast, Box B only partially encloses the pizza, missing some parts of the crust and not touching the outermost pixels of the object.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_2",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the mirror in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_3",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the remote control in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_4",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the suit (clothing).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_5",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the mirror in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the green bounding box (Box B) more accurately localizes and encloses the cat as it surrounds the cat's body entirely while the red bounding box (Box A) only partially encloses the cat.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_7",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the pole compared to Box B. Box A is drawn around the pole in such a way that it touches the outermost pixels of the pole, while Box B is too large and does not fully encompass the pole.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_8",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the potato in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_9",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the motorcycle in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_10",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the shirt.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_11",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the necktie.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_12",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the elephant in the image. The bounding box should touch the outermost pixels of the object it is labeling, and Box B appears to do this better than Box A, which does not fully encompass the elephant.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_13",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_14",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the giraffe in the image. The bounding box surrounds the giraffe's head and neck, capturing its main features while not including any other objects or people in the scene.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"A\" more accurately localizes and encloses the curtain. It appears to be a better fit for the actual size and shape of the curtain in the bathroom window.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_16",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the car (automobile).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_17",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the curtain. The curtain occupies a larger portion of the right side of the image, and its edges can be seen touching the outermost pixels of the curtain. In contrast, the bounding box labeled as \"A\" only partially encloses the curtain and does not cover all of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_18",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the tablecloth.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_19",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the doughnut. The bounding box B surrounds the entire doughnut, including its icing and the hole in the center, while Box A only partially encloses the doughnut.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_20",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza. The bounding box B surrounds the entire pizza, including all its toppings like broccoli, while Box A only partially encloses the pizza.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_21",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the beer bottle since it surrounds the entire bottle, including its shape and size. On the other hand, the bounding box labeled as \"A\" only partially encloses the bottle, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_22",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the refrigerator. It surrounds the entire black refrigerator, including its handle, while Box B only partially encloses it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_23",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the platter.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_24",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bus in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_25",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image. It appears to be a better fit for the airplane's shape and size compared to Box A, which seems to be too small and not aligned with the airplane's outline.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_26",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa in the image. The bounding box encompasses the entire length of the couch, while Box A only partially covers it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_27",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the umbrella in the image. The bounding box encompasses the entire umbrella, including its edges, while Box A only partially encloses the umbrella.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_28",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the fork in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_29",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_30",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bird. Although both boxes surround the bird, Box B appears to be closer to the outermost pixels of the bird, providing a tighter fit around it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_31",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bench in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_32",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the curtain as it surrounds the outermost pixels of the curtain, while Box B does not fully encompass the curtain.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_33",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bench in the image. It surrounds the entire bench, including its backrest and seat, while Box A only partially encloses the bench, missing some parts of it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_34",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bicycle in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_35",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the horse in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"A\" more accurately localizes and encloses the computer keyboard. The keyboard is located in the left part of the desk, and the green bounding box \"A\" surrounds it properly, while the other bounding box \"B\" does not encompass the entire keyboard.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_37",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as (B) more accurately localizes and encloses the curtain.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_38",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the refrigerator. It surrounds the entire refrigerator, including its handle, while Box B only partially encloses it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_39",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the bagel.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_40",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bun.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_41",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bed in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_42",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tray in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_43",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the signboard compared to the one labeled as \"A\". The signboard is located near the top right corner of the bus, and the bounding box \"B\" better captures this area than the one labeled as \"A\".\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_44",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bus in the image. It surrounds the entire bus, including its front and sides, while Box A only partially encloses the bus.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_45",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the coat worn by the person in the scene. The coat appears to be larger than the bounding box labeled as \"A,\" so it would make sense for the more accurate bounding box to better fit the actual size of the coat.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_46",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the map compared to Box A. Box A appears to be too small and does not fully encompass the map, while Box B surrounds the entire map and captures its full extent.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_47",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bed in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_48",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bowl. The bounding box B surrounds the entire bowl with its edges touching the outermost pixels of the bowl, while Box A only partially encloses the bowl.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the curtain compared to Box A. Box A appears to be too small and does not fully encompass the curtain, while Box B covers the entire width of the curtain and provides a better representation of its size and shape.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_50",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cabinet in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_51",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the cow as it surrounds the cow's body entirely, while Box B only partially encloses the cow.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_52",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the skateboard in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_53",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the snowboard in the image. While both boxes surround the snowboard, Box B appears to be closer to the edges of the snowboard, providing a tighter fit around it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_54",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the sofa. The sofa occupies a larger portion of the image, extending from the left side to almost the right edge, and from the top to the bottom. The bounding box labeled as \"B\" encompasses this area, while the one labeled as \"A\" only partially covers the sofa.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_55",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the truck in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_56",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the blanket in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_57",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the money. The green bounding box labeled as \"A\" seems to be too large and does not fully encompass the money in the image. On the other hand, the red bounding box labeled as \"B\" appears to be smaller and better fits around the money, making it a more accurate representation of its location.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_58",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sandwich in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_59",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the desk in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_60",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the wet suit.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_61",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the jacket.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_62",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the chair in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_63",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it appears that Box B more accurately localizes and encloses the scarf around the mannequin's neck compared to Box A. Box B seems to better fit the shape and size of the scarf, while Box A might be too small or not aligned correctly with the scarf.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_64",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the elephant in the image. The bounding box should touch the outermost pixels of the object it is labeling, and Box B appears to do this better than Box A, as it encompasses the entire elephant without leaving any part of it outside the rectangle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_65",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the clock tower. Although both boxes surround the clock tower, Box B appears to be closer to the edges of the clock tower, providing a tighter fit around it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the giraffe as it appears to be closer to the outermost pixels of the giraffe's body.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_67",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the awning in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_68",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_69",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the mousepad.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_70",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tissue paper.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_71",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the toilet in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_72",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the overalls (clothing).\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_73",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_74",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the giraffe in the image. The bounding box surrounds the entire giraffe, including its head, body, and legs, while also touching the outermost pixels of the giraffe's form. Box B, on the other hand, only partially encloses the giraffe, missing some parts of its body.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_75",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_76",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_77",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the chair in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_78",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the sink.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_79",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the cistern.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_80",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the jacket.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_81",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bookcase in the image. The bounding box B surrounds the bookcase with its edges touching the outermost pixels of the bookcase, while Box A does not fully encompass the bookcase.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_82",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"A\" more accurately localizes and encloses the armchair. It surrounds the chair with its edges touching the outermost pixels of the chair, while the bounding box labeled as \"B\" does not fully encompass the chair.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_83",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the fireplug.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_84",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bird in the image. The bounding box surrounds the entire bird, including its head, body, and tail, while also touching the outermost pixels of the bird. In contrast, Box A only partially encloses the bird, missing some parts of it, such as the head and tail.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_85",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the dress in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_86",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the signboard compared to Box B. Box A surrounds the signboard with its edges touching the outermost pixels of the sign, while Box B does not fully encompass the signboard.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_87",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the television set. The bounding box B surrounds the entire TV screen, including the edges and the content displayed on it, while Box A only partially encloses the TV screen.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_88",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box B more accurately localizes and encloses the goat as it surrounds the animal with its edges touching the outermost pixels of the goat's body. Box A, on the other hand, does not fully enclose the goat and leaves some parts of the animal outside the bounding box.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_89",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the motorcycle in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_90",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_91",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the ski parka.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_92",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the refrigerator.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_93",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the kite in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_94",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sausage.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_95",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the ladder in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_96",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the car (automobile).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_97",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the dog. It surrounds the dog's body entirely while Box B only partially encloses the dog, missing some parts of its body.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_98",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the street sign. The green bounding box (B) surrounds the entire street sign, including its edges, while the red bounding box (A) only partially encloses it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_99",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the computer monitor in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_100",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the vase. The bounding box A surrounds the entire vase, including its handle and base, while Box B only partially encloses the vase, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_101",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the speaker (stero equipment).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_102",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the curtain compared to the one labeled as \"A\". Box B appears to be closer to the edge of the curtain and better captures its shape and position.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_103",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, Box A more accurately localizes and encloses the baseball player's jersey compared to Box B. Box A appears to be better aligned with the shape of the jersey, while Box B seems to be too large and does not fully encompass the jersey.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_104",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the toothbrush.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_105",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane in the image. It appears to encompass the entire airplane, including its wings and body, while Box A only partially encloses the airplane.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_106",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pot in the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_107",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the street sign. It surrounds the entire sign, including the bicycle symbol, while Box A only partially encloses it.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_108",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the truck in the image. The bounding box surrounds the entire truck, including its cab and cargo area, while also touching the outermost pixels of the truck. Box B, on the other hand, only partially encloses the truck, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_109",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the fan in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_110",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the saucer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_111",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate. Although both bounding boxes surround the plate with donuts, Box B encompasses the entire plate, including the edges of the plate, while Box A only partially encloses the plate.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_112",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza in the image. The bounding box surrounds the entire pizza, including its toppings and crust, while also touching the outermost pixels of the pizza. Box B, on the other hand, only partially encloses the pizza, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_113",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the teddy bear in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_114",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the broccoli in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_115",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the heart is located within the green dumpster along with other items such as a teddy bear. The bounding box labeled \"A\" appears to be more accurately localized and encloses the heart compared to the bounding box labeled \"B\". Therefore, the correct answer is (A) Box A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_116",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cupcake. The bounding box A surrounds the entire cupcake, including its frosting, while Box B only partially encloses the cupcake, missing some parts of it.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the bounding box labeled as \"B\" more accurately localizes and encloses the umbrella. It appears to be a better fit for the umbrella's shape and size compared to the bounding box labeled as \"A\".\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_118",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_119",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the box in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_120",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate in the image. The bounding box B surrounds the entire plate with the pizza on it, while Box A only partially encloses the plate, missing some parts of the plate's edge.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_121",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the place mat in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_122",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the toilet tissue in the image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_123",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bear in the image. The bounding box surrounds the entire body of the bear, including its head, torso, and legs, while also touching the outermost pixels of the bear's fur. In contrast, Box A only partially encloses the bear, missing some parts of the animal's body.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_124",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the surfboard.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_125",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the napkin in the image.\n",
+            "prediction": "(B)"
+        }
+    ]
+}

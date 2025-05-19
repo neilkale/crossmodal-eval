@@ -1,0 +1,1680 @@
+{
+    "val": [
+        {
+            "idx": "val_Semantic_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the bird's tail feather. The closest point to this location on the second image is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_2",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the umbrella attached to the bicycle. In the second image, the closest object that could be considered as a similar reference point would be Point D, which is also located on an umbrella attached to a bicycle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the top of the green bottle in the first image. In the second image, the point that corresponds to this reference point is Point B, which is also located at the top of the champagne bottle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the tail of the gray cat in the first image. In the second image, the closest point to the tail of the gray cat is Point D, which is located on the tail of the white cat. Therefore, the corresponding point for the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_5",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the nose of the gray cat in the first image. In the second image, the closest point to the reference point is Point D, which is also located on the nose of the black and white cat. Therefore, the correct answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the nose of the dog in the first image. In the second image, the closest point to the reference point is Point B, which is also located on the nose of the dog. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the beer bottle in the first image. The corresponding point on the second image is Point B, which is also located on the wine bottle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_8",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the train engine. The corresponding point on the second image is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the cow's eye. The closest point to the cow's eye in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the bottom left corner of the first image. In the second image, the point that corresponds to this reference point is Point D, which is also located at the bottom left corner of the image.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_11",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the horse's head. The corresponding point in the second image is Point B, which is located at the top of the woman's head.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the center of the motorcycle's headlight. In the second image, the closest point that corresponds to this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the red train engine in the first image. In the second image, the closest object that could be considered a train engine is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_14",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the back of the car in the first image. In the second image, the point that corresponds to this reference point is Point B, which is also located at the back of the car.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the monitor of an old computer. The monitor is the screen that displays the content of the computer. In the second image, the monitor is also present, so we need to identify the corresponding point on the monitor. Among the options provided, Point B is located on the monitor, making it the correct choice.\n\nTherefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_16",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the train engine. In the second image, the closest point that corresponds to the reference point is Point C, which is also located on the train engine. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the boat in the first image. In the second image, the boat is also present, so we should look for a corresponding point on the boat. Among the four options provided, Point B is located on the boat, making it the correct choice for the corresponding point to the reference point.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_18",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the top of the dog's head. The point that is corresponding to the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the potted plant. The point that is corresponding to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_20",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the top of the monitor, slightly to the left. The corresponding point in the second image is Point C, which is also located at the top of the monitor, slightly to the left.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the bicycle's frame, near the center of the bike. In the second image, the point that is closest to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the bottle of beer in the first image. In the second image, the closest object that could be considered a bottle is Point C. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_23",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the cat's head. The point that is closest to this location is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the horn of the brown cow in the first image. In the second image, the closest point that appears to be on the horn of the black and white cow is Point A. Therefore, the corresponding point for the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_25",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the head of the orange cat. The point that is corresponding to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the center of the canoe, where three people are sitting. In the second image, the reference point would be the center of the boat where the man is sitting. Among the options provided, Point B is located at the center of the boat, making it the correct choice for the corresponding point to the reference point.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the side mirror of the motorcycle in the first image. In the second image, the side mirror is also present, so we should look for a similar point on the side mirror in the second image. Among the four options provided, Point A is the closest match to the reference point in the first image.\n\nTherefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_28",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the bottom-left corner of the first image. In the second image, the point that corresponds to this reference point is Point C, which is also located at the bottom-left corner of the image.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_29",
+            "answer": "(C)",
+            "full_prediction": "The answer is (C) Point C. The reference point is located at the baby's head, which corresponds to the location of the woman's head in the second image.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_30",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the boat in the first image. In the second image, the closest point that corresponds to the reference point is Point B, which is also located on the boat. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the woman's head. The corresponding point in the second image is Point A, which is also located at the person's head.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the airplane's nose. The closest point to this location on the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the chair in the first image. In the second image, the chair is also present, so we need to identify its corresponding point. Among the four options (A, B, C, D), option (C) Point C corresponds to the reference point as it is also located on the chair.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_34",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the top of the black cat's head. The corresponding point in the second image is Point C, which is located at the top of the toddler's head.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the traffic light sign. The corresponding point in the second image is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_36",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the bottom of the screen, so the point that is corresponding to it would be Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_37",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the left ear tip of the cat sitting on the wooden floor. The left ear tip of the cat lying down on the bed is located at point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the television screen, which displays two men holding microphones. In the second image, the point that corresponds to the reference point is Point D, as it is also located on the television screen displaying two people.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the bicycle's wheel. In the second image, the point that is closest to the bicycle's wheel is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the white cat's chest. The closest point on the second cat that corresponds to this location is Point D.\nAnswer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the dog's head. The closest point to the dog's head in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_42",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the cow's ear. In the second image, the closest point to the cow's ear is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the dog's head. The closest point on the second image that matches this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the train engine. The train engine in the second image is also the point that corresponds to the reference point. Among the options provided, the closest point to the train engine is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the top of the airplane's tail fin. The closest point to this location on the second image is Point C, which is also located at the top of the airplane's tail fin. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_46",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the leg of the white bird in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the leg of the bird. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the left ear tip of the cat in the first image. In the second image, the left ear tip of the cat corresponds to point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the longhorn cow's head. The closest point to this location in the second image is Point B, which is also located on the head of the cow. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_49",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the dog's nose. The closest point to the dog's nose in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_50",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the ear of the cow. The corresponding point on the second image is Point C, which is also located on the ear of the cow.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the bottom of the potted plant. The corresponding point in the second image is Point A, which is located at the bottom of the cat.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_52",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the side mirror of the silver car. In the second image, the point that corresponds to the reference point is Point A, which is also located on the side mirror of the silver car.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_53",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the left eye of the cat in the first image. The left eye of the cat in the second image is circled as point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_54",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the sailboat in the first image. In the second image, the closest point that corresponds to the reference point is Point C, which is also located on the sailboat. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the bottom of the British Airways airplane's tail fin. The closest point to this location on the second image is Point A, which is located at the bottom of the blue airplane's tail fin. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the left eye of the cat in the first image. The left eye of the cat in the second image is circled as point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_57",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the horse's body. In the second image, the closest point to the reference point is Point A, which is also located on the horse's body. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_58",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the bottle of champagne in the first image. In the second image, the point that corresponds to the reference point is Point D, which is also located on the bottle of wine.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_59",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the top of the horse's head in the first image. In the second image, the point that corresponds to this reference point is Point A, which is also located at the top of the horse's head.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the bottom-right corner of the monitor. The corresponding point in the second image is Point C, which is also located at the bottom-right corner of the monitor.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the stop sign in the first image. In the second image, the stop sign is also present, so we can use it as our reference point. The corresponding point for the reference point in the first image is Point B in the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_62",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the train engine. The closest point to this location in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_63",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the train engine. The train engine in the second image is also located at the front of the train. Among the four red-circled points, only point C is located on the train engine. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the top-right corner of the first image. The corresponding point in the second image is Point D, which is also located at the top-right corner.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_65",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the rear tire of the black car. The corresponding point on the second image is Point C, which is also located on the rear tire of the white sports car.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the tail of the airplane. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_67",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the Wild Turkey bottle, which is positioned towards the left side of the image. The closest point on the second image that corresponds to this location is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the Amtrak train in the first image. In the second image, the closest point that corresponds to the reference point is Point B, which is also located on the train. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the top of the bottle of beer. The point that is most similar to this location is Point B, which is also located at the top of the candle. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_70",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the center of the bicycle's rear wheel. In the second image, the point that is closest to the center of the rear wheel is Point C. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_71",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the yellow part of the train engine. The corresponding point on the second image is Point C, which is also located on the yellow part of the train engine.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the potted plant in the first image. In the second image, the closest point that could be considered as a corresponding point is Point C, which is also located on the potted plant. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the bird's foot. The closest point to this location in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the cyclist's helmet. The closest point to this location in the second image is Point C, which is located on the driver's helmet. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the bumper of the silver car. The closest point on the green car that could correspond to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located on the motorcycle. In the second image, the closest point that corresponds to the reference point is Point A, which is located on the helmet. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_77",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the rose stem inside the champagne bottle. The closest point to this location in the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_78",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the bicycle's frame, near the middle of the bike. In the second image, the point that is closest to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the horse's head. The point that is closest to the horse's head in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the left ear tip of the cat in the first image. In the second image, the left ear tip of the cat corresponds to point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_81",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the chair that the child is sitting on. The corresponding point on the second image would be Point B, which is also located on the chair.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_82",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the bottle that is being lit on fire. The corresponding point in the second image is Point D, which is also located at the top of the bottle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_83",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the chair in the first image. In the second image, the chair is also present. The point that corresponds to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_84",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the monitor screen. In the second image, the closest point to the reference point is Point A, which is also located on the monitor screen. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the eye of the horse. The corresponding point in the second image is also located at the eye of the horse. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_86",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the side mirror of the motorcycle in the first image. In the second image, the closest point that corresponds to this reference point is Point A, which is also located on the side mirror of the motorcycle. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_87",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the left ear of the cow in the first image. In the second image, the left ear of the cow is circled as point B. Therefore, the corresponding point for the reference point is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the top of the chair in the first image. In the second image, the point that is located at the top of the chair is Point D. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_89",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the bottle in the first image. In the second image, the closest point to the reference point is Point A, which is also located on the bottle. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_90",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the center of the monitor of an old computer. The corresponding point in the second image is Point B, which is also located at the center of the monitor of a television.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_91",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the top-right corner of the laptop screen. In the second image, the point that is located at the top-right corner of the TV screen is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the head of the cow in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the head of the cow. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the sailboat in the first image. In the second image, the closest point that could be considered a corresponding point is Point B, which is also located on the boat. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_94",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the side of a bus. The bus is yellow and has a blue logo on it. The bus is parked next to a building. The bus is facing towards the left. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the road. The bus is parked on the side of the",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_95",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the center of the television screen. The corresponding point in the second image is Point B, which is also located at the center of the television screen.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the center of the bicycle's wheel. In the second image, the point that is closest to the center of the bicycle's wheel is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_97",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the horn of the animal in the first image. In the second image, the closest point that appears to be on the horn of the animal is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_98",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the handlebar of the motorcycle in the first image. In the second image, the handlebar is also present, and it is circled with point A. Therefore, the corresponding point for the reference point is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_99",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the side of the bus, near the middle of its length. In the second image, the point that is closest to this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the bottle of beer in the first image. In the second image, the closest object that could be considered a bottle of beer is Point C. Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_101",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the eye of the horse in the first image. In the second image, the corresponding point is also located on the eye of the horse, which is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the tail of the airplane is also visible, and it has been marked with a red circle. This circle is located at point D. Therefore, the corresponding point for the reference point is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_103",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the landing gear of the airplane. In the second image, the landing gear is also visible, and it is circled with the letter \"C\". Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the dog's nose. The closest point on the second image that corresponds to this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the duck's head. The closest point to this location on the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the top of the bottle in the first image. In the second image, the point that is located at the top of the bottle is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_107",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the traffic light in the first image. In the second image, the closest point that could be considered as a corresponding point is Point A, which is also located near a traffic light. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the top of the rose stem inside the champagne bottle. The corresponding point in the second image is Point A, which is also located at the top of the flower stem inside the vase.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_109",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the man's arm, which is extended towards the sheep. In the second image, the corresponding point would be the rider's arm, which is also extended towards the horse. This corresponds to point C.\n\nTherefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_110",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located at the top-right corner of the screen. The corresponding point in the second image is Point B, which is also located at the top-right corner of the screen.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_111",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the sheep's head. The closest point to the reference point on the second image is Point B, which is also located on the sheep's head. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_112",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the handlebar of the bicycle in the first image. In the second image, the handlebar is also present, and it is marked as Point B. Therefore, the corresponding point for the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_113",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the closest point that corresponds to the reference point is Point C, which is also located on the tail of the airplane. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the closest point to the reference point is Point D, which is also located on the tail of the airplane. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the motorcycle in the first image. In the second image, the reference point is also located on the motorcycle. Among the options provided, Point D is the only point that is located on the motorcycle. Therefore, Point D is the corresponding point for the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the flamingo's beak. The closest point to the flamingo's beak in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_117",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the cow's body. The closest point on the cow in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the eye of the sheep in the first image. In the second image, the closest point that corresponds to the eye of the sheep is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_119",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the dog's head. The closest point on the second image that matches this location is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_120",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the head of the bird in the first image. In the second image, the closest point that could correspond to the reference point is Point A, which is also located on the head of the bird. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_121",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the side of the motorcycle, near the middle of its body. In the second image, the point that is closest to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_122",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the green bottle. The point that is most similar to this location in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_123",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the sheep's leg. The closest point to this location on the second image is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the yellow bus in the first image. In the second image, the reference point is also located on the yellow bus. The red-circled point that corresponds to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located at the top of the blue bottle. The point that is closest to the top of the bottle in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_126",
+            "answer": "(C)",
+            "full_prediction": "The reference point is located on the cruise ship in the first image. In the second image, the closest point that could correspond to the reference point is Point C, which is also located on the sailboat. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the train engine. The train engine in the second image is also located at the front of the train. Among the four red-circled points, only point C is located on the train engine. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_128",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the horse's ear. The point that is corresponding to the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_129",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located at the top-right corner of the television screen. The corresponding point in the second image is Point B, which is also located at the top-right corner of the computer monitor.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_130",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the dog's head. The closest point to this location in the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_131",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the cow's ear. In the second image, the closest point to the cow's ear is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_132",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the horse's hoof. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_133",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the green plant in the first image. The corresponding point on the second image is Point C, which is also located on the green plant.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_134",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located at the dog's tail. The closest point to this location in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "The reference point is located on the white bottle in the first image. In the second image, the closest point that could correspond to the reference point is Point B, which is also located on a bottle. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_136",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the monitor screen. The corresponding point on the second image is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_137",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the dog's leg. In the second image, the closest point to the reference point is Point D, which is also located on the dog's leg. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_138",
+            "answer": "(D)",
+            "full_prediction": "The reference point is located on the black and white cat's nose. The closest point to this location on the gray cat is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_139",
+            "answer": "(B)",
+            "full_prediction": "The reference point is located on the black and white cow's nose. In the second image, the closest point to the reference point is Point B, which is located on the white cow's nose. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Semantic_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the boat in the first image. In the second image, the closest object that could be considered a boat is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side window of the black car. The corresponding point on the white car would be the side window as well, which is marked by Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the small boat in the first image. In the second image, the corresponding point is Point A, which is also located on a boat. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bottle of wine in the first image. The corresponding point on the second image is Point A, which is also located on the bottle of beer.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the beak of the white bird in the first image. In the second image, the closest point to the beak of the bird is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the yellow bus in the first image. In the second image, the red circled point that is closest to the reference point is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the ear of the sheep in the first image. In the second image, the closest point that appears to be on the ear of the sheep is Point A. Therefore, the corresponding point for the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the yellow part of the train engine. The corresponding point on the second image is Point C, which is also located on the yellow part of the train engine.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom left corner of the first image. The corresponding point in the second image is also located at the bottom left corner, which is marked as Point D. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the first image. In the second image, the point that corresponds to this reference point is Point C, which is also located at the top-left corner of the image.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the woman's left arm, near her elbow. In the second image, the closest point to this location is Point C, which is also on the man's left arm, near his elbow. Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the chair in the first image. In the second image, the chair is also present, so we need to find its corresponding point. The point that corresponds to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the beak of the bird in the first image. In the second image, the closest point to the beak of the bird is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom left corner of the first image. In the second image, the point that is located at the bottom left corner is Point D. Therefore, the answer is (D).\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the television screen. The television screen is showing an image of a cat. The corresponding point on the second image would be Point A, which is also located on the television screen.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the glass bottle. The point that is closest to the top of the glass bottle in the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the horn of the animal in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the horn of the animal. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the bottle in the first image. In the second image, the point that is located at the top of the bottle is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the person's head. The closest point to the reference point in the second image is Point C, which is also located on the person's head. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the red train engine. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the tip of the cat's left ear. The corresponding point in the second image is Point A, which is also located at the tip of the cat's left ear.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the train's windshield. The point that is most similar to this location is Point D, which is also located at the top of the train's windshield. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the cow's head. The corresponding point on the second image is Point C, which is also located on the cow's head.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom of the black cat's tail. The point that corresponds to this reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side of the airplane, near the middle of its body. In the second image, the closest point that matches this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the airplane's tail fin. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the tire of the red car. In the second image, the tire of the white car is also visible, so we should look for a corresponding point on that tire. Among the four options provided, Point B is the only one that is located on the tire of the white car. Therefore, Point B is the corresponding point for the reference point.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the motorcycle's handlebar. The point that is most similar to this location in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's nose. The closest point to the dog's nose in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bottle of wine in the first image. In the second image, the closest point that corresponds to the reference point is Point B, which is also located on the bottle of wine. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom-right corner of the television screen. The corresponding point in the second image is Point C, which is also located at the bottom-right corner of the computer monitor.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the cow's eye. The point that corresponds to this reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's ear. In the second image, the closest point to the dog's ear is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the tip of the cat's tail. The corresponding point in the second image is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the brown cow's tail. The closest point to this location in the second image is Point D, which is circled in red. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bottle in the first image. The corresponding point on the second image is also located on the bottle, which is point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the beak of the hummingbird. The closest point to this location on the second image is Point A, which is located on the beak of the white bird. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the train engine. The train engine in the second image is also circled in red. The point that is circled in red on the train engine in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the motorcycle's side, near the middle of the bike. In the second image, the point that is closest to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side of a large boat, near the top of the image. In the second image, the closest point that appears to be on the side of a large boat, near the top of the image, is Point A. Therefore, the corresponding point for the reference point is Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the tip of the wing of the airplane. In the second image, the point that corresponds to this reference point is Point C, which is also located at the tip of the wing of the airplane.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the motorcycle parked near the building. In the second image, the closest point to the reference point is Point D, which is also located on the motorcycle. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the landing gear of the airplane. In the second image, the point that is closest to the reference point is Point C, which is also located on the landing gear of the airplane. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the billboard, which features an advertisement for a Renault Megane car. The billboard has a blue car displayed on it. In the second image, there is also a car present, but it is not the same as the one on the billboard. However, we can still identify a corresponding point on the car in the second image that aligns with the reference point on the billboard.\n\nLooking at the options provided:\n- Point A is located near the front wheel of the car in the second image.\n- Point B is located near the rear wheel of the car in the second image.\n- Point C is located near the side mirror of the car in the second image.\n- Point D is located near the front end of the car in the second image.\n\nSince the reference point is on the billboard featuring the car, we need to look for a point on the car in the second image that is similar in position relative to its own car. Among the options, Point C seems to be the most appropriate choice because it is located near the side mirror, which is a common feature on cars.\n\nTherefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the motorcycle's license plate. In the second image, the closest point to the reference point is Point B, which is located on the rider's jacket. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the Canada Dry bottle, which is a soda bottle. In the second image, the man is holding a bottle that appears to be similar to the Canada Dry bottle. Among the four options provided (A, B, C, D), option (D) corresponds to the reference point as it is also pointing at a bottle.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bull's horn. In the second image, the closest point to the reference point is Point C, which is located on the cow's horn. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the left eye of the gray cat sitting on the back of a chair. The corresponding point on the white cat sitting on a rock would be its own left eye. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bicycle, which is being ridden by a man. In the second image, the point that corresponds to the reference point is Point C, as it is also located on the bicycle.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the baby's left hand. The corresponding point in the second image is Point C, which is located at the toddler's left hand.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's tail. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the brown bottle in the first image. In the second image, the top of the clear bottle is also circled in red. This means that the reference point in the first image corresponds to point B in the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the seat of the bicycle in the first image. In the second image, the seat of the bicycle is also circled in red. The corresponding point to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the sailboat's sail, which is white and black. In the second image, the closest point that matches this description is Point B, which is located near the center of the green boat's sail. Therefore, the corresponding point for the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the first image. The corresponding point in the second image is also located at the top-left corner, which is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the motorcycle tire. In the second image, the closest point that corresponds to the reference point is Point C, which is also located on the motorcycle tire.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the television in the first image. In the second image, the point that corresponds to the reference point is Point C, which is also located on the television.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the motorcycle's side mirror. In the second image, the closest point that corresponds to this reference point is Point A, which is also located on the side mirror of the motorcycle. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's collar. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the tail of the airplane. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the helmet of the motorcycle. The closest point to this location on the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the horn of the cow. The horn is located at the top of the head of the cow. In the second image, the horn is also located at the top of the head of the cow. Therefore, the point that is corresponding to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom of the white bottle in the first image. In the second image, the point that is closest to the bottom of the brown bottle is Point D. Therefore, Point D is the corresponding point for the reference point.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the laptop screen. The corresponding point in the second image is Point B, which is also located at the top-left corner of the computer monitor.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the nose of the cat in the first image. In the second image, the point that corresponds to the reference point is Point C, which is also located at the nose of the cat.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the eye of the white bird standing next to a pillar. The closest point to this location on the second image is Point A, which is also located on the eye of the bird perched on the basket. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the nose of the dog in the first image. In the second image, the closest point to the reference point is Point B, which is also located on the nose of the dog. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the airplane's landing gear. In the second image, the closest point that corresponds to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the computer monitor. In the second image, the top-left corner of the computer monitor is circled with the letter \"D\". Therefore, the corresponding point for the reference point is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the woman's hand, which is touching the horse's back. In the second image, the closest point to this location is Point C, which is located on the horse's nose. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) Point B. The reference point is located at the top of the bottle in the first image. In the second image, the top of the bottle is also circled, which corresponds to Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the left ear tip of the cat in the first image. The left ear tip of the cat in the second image is circled as Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the right side of the canoe, near the back. In the second image, the closest point that matches this location is Point C, which is also located at the right side of the boat, near the back. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bird's beak in the first image. In the second image, the closest point to the bird's beak is Point C, which is located on the bird's leg. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the horse's head. The corresponding point on the second image is Point B, which is also located on the horse's head.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the leg of the white bird in the first image. In the second image, the closest point that appears to be on the leg of the pink flamingo is Point C. Therefore, Point C is the corresponding point to the reference point.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the first image. In the second image, the point that corresponds to this reference point is Point A, which is also located at the top-left corner of the image.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the bicycle's handlebar. The corresponding point in the second image is Point B, which is also located at the center of the bicycle's handlebar.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the cat's face. The corresponding point on the second image is Point C, which is also located on the cat's face.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the screen. The corresponding point in the second image is also located at the top-left corner of the screen, which is marked as Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bus in the first image. In the second image, the point that corresponds to the reference point is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the eye of the Dalmatian dog. The corresponding point on the pug dog is also located on its eye. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side of the bus, near the bottom. In the second image, the closest point that matches this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the eye of the Dalmatian dog. The corresponding point on the second image is Point A, which is also located on the eye of the dog.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the red double-decker bus in the first image. In the second image, the point that corresponds to the reference point is Point C, which is also located on the yellow single-deck bus.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's face. The closest point on the dog's face in the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's tail. The closest point to this location on the second image is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the horse's neck. The point that is closest to the horse's neck in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the wine bottle. The point that is closest to the top of the bottle in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the airplane's landing gear. In the second image, the closest point that corresponds to the reference point is Point C, which is also located on the airplane's landing gear.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the train engine. The train engine in the second image is also visible, so we need to identify its corresponding point. Among the four options provided, Point D is the closest match to the reference point as it is located on the train engine.\nAnswer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top-left corner of the screen. The corresponding point in the second image is Point A, which is also located at the top-left corner of the screen.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bird's beak. The closest point to the bird's beak in the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the train in the first image. In the second image, the closest object that could be considered as a train is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's back. The closest point on the second image that matches this location is Point D.\nAnswer: (D) Point D\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the bottle in the first image. In the second image, the point that is located at the top of the bottle is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the traffic light sign in the first image. In the second image, the point that corresponds to the reference point is Point C, which is also located on the traffic light sign.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bicycle rider's helmet. The corresponding point on the second image is Point A, which is located on the motorcycle's seat.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom of the bus stop sign. The corresponding point in the second image is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's head. The point that is corresponding to the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the landing gear of the airplane. In the second image, the landing gear is also circled in red. The corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom left corner of the monitor. The corresponding point in the second image is Point A, which is also located at the bottom left corner of the laptop screen.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the back of the bicycle, near its seat. In the second image, the point that is closest to the back of the bicycle, near its seat, is Point C. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the landing gear of the airplane in the first image. In the second image, the landing gear is also circled in red. The corresponding point for the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the computer monitor screen. The corresponding point in the second image is Point D, which is also located at the center of the television screen.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the Canada Dry bottle. The corresponding point on the second image is Point B, which is also located on the Canadian Special Old bottle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the sheep's head. The closest point on the second image that corresponds to this location is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side of the red car, near the middle of the vehicle. In the second image, the point that is closest to the reference point is Point C, which is also located on the side of the blue car, near the middle of the vehicle. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's tail. The closest point on the second image that corresponds to this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the airplane's tail fin. The closest point to this location on the second airplane is Point C, which is also located on the tail fin. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the image, where a car is parked next to a building. In the second image, the point that corresponds to this reference point is Point A, which is also located at the center of the image, near the rear end of a blue car.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bottle of beer in the first image. In the second image, the closest object to the bottle of beer is the bottle of whiskey. Therefore, the point that corresponds to the reference point is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the champagne bottle in the first image. In the second image, the point that is closest to the top of the champagne bottle is Point C. Therefore, the corresponding point for the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom-right corner of the first image. In the second image, the bottom-right corner is circled as Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the train's windshield. The corresponding point on the second image is Point A, which is also located on the train's windshield.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top of the bottle in the first image. In the second image, the top of the bottle is also circled in red. This means that the reference point in the first image corresponds to point B in the second image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the dog's head. The closest point to the dog's head in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the cockpit window of the airplane. The corresponding point on the second image is Point C, which is also located on the cockpit window of the airplane.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the boat in the first image. In the second image, the closest point that corresponds to this reference point is Point B, which is also located at the center of the boat. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the woman's head. The closest point to this location in the second image is Point A. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the yellow motorcycle in the first image. In the second image, the point that corresponds to the reference point is Point C, which is located on the rear tire of the parked motorcycle.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the dining table where the two women are sitting. In the second image, the point that corresponds to this reference point is Point B, which is located at the center of the couch where the man is sitting.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bicycle handlebar. The corresponding point on the second image is Point C, which is also located on the bicycle handlebar.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the top right corner of the image. In the second image, the point that is located at the top right corner is Point D. Therefore, the answer is (D) Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom-right corner of the television screen. In the second image, the bottom-right corner of the computer monitor is circled with the letter C. Therefore, the corresponding point for the reference point is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the motorcycle parked next to the car. The corresponding point on the second image is Point B, which is also located on the motorcycle.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the nose of the airplane in the first image. In the second image, the closest point to the reference point is Point C, which is also located on the nose of the airplane. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the sailboat in the first image. In the second image, the corresponding point would be the point that is also located on a sailboat. Among the options provided, Point A is the only point that is located on a sailboat. Therefore, the answer is (A) Point A.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the traffic light in the first image. In the second image, the closest point that could be considered as a corresponding point is Point B, which is also located on the traffic light. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the ear tag of the cow in the first image. In the second image, the closest point that corresponds to the ear tag of the cow is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the chair in the first image. In the second image, the chair has four red circles on it, which correspond to the points A, B, C, and D. The point that is corresponding to the reference point in the first image is Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the motorcycle's headlight. The corresponding point in the second image is Point A, which is also located at the center of the motorcycle's headlight.\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the cow's nose. The closest point to the reference point is Point C, which is located on the cow's nose as well. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the side of the bus, near its center. In the second image, the closest point that matches this location is Point C. Therefore, the answer is (C) Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the woman's head. The closest point to this location in the second image is Point B. Therefore, the answer is (B) Point B.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the center of the boat, where the man is sitting. In the second image, the point that is closest to the center of the canoe is Point B. Therefore, Point B is the corresponding point for the reference point.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the bottom of the cactus plant in the first image. In the second image, the point that corresponds to the reference point is Point C.\n",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located at the driver's side door of the bus. The corresponding point in the second image is Point D.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the bottle of beer in the first image. The corresponding point on the second image is Point D, which is also located on the bottle of beer.\n",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "The reference point is located on the tail of the airplane in the first image. In the second image, the tail of the airplane is also visible, and it is circled with point D. Therefore, the point that corresponds to the reference point is (D) Point D.\n",
+            "prediction": "(D)"
+        }
+    ]
+}

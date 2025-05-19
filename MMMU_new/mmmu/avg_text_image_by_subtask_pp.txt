@@ -1,0 +1,39 @@
+                            subject  avg_text_length  avg_image_area    ratio
+                        Agriculture           128.97      2953250.77 22898.74
+Diagnostics_and_Laboratory_Medicine            86.10      1320773.13 15339.99
+                          Sociology            82.23       803570.23  9772.23
+                         Art_Theory            62.60       777187.07 12415.13
+                                Art            97.20       649105.07  6678.04
+                            Biology           206.03       622833.17  3023.02
+                            History           126.90       614465.70  4842.13
+                              Music            63.37       512008.23  8079.66
+                          Marketing           259.70       496231.37  1910.79
+                         Psychology           765.27       493771.40   645.23
+                             Design            76.13       468230.77  6150.41
+                         Literature           142.53       462303.53  3243.55
+                   Computer_Science           201.53       402006.93  1994.77
+                  Clinical_Medicine           221.67       339209.67  1530.25
+                             Manage           465.07       316761.93   681.11
+                          Economics           204.83       280509.93  1369.48
+                               Math           198.10       253683.93  1280.59
+                          Geography           157.07       246690.83  1570.58
+                          Materials           203.20       233967.27  1151.41
+             Mechanical_Engineering           227.17       216134.33   951.42
+                   Energy_and_Power           261.67       208683.03   797.50
+              Basic_Medical_Science            96.20       207567.00  2157.66
+                      Public_Health           402.23       188192.40   467.87
+                            Physics           225.73       185981.73   823.91
+                            Finance           314.03       185668.00   591.24
+                           Pharmacy           181.13       168605.53   930.85
+                         Accounting           257.57       160539.03   623.28
+                          Chemistry           186.10       152935.10   821.79
+       Architecture_and_Engineering           293.00       122386.73   417.70
+                        Electronics           117.60        92289.70   784.78
+
+BEST FINETUNED MODEL
+
+{'Overall-Art and Design': {'num': 120, 'acc': 0.692}, 'Art': {'num': 30, 'acc': 0.667}, 'Art_Theory': {'num': 30, 'acc': 0.8}, 'Design': {'num': 30, 'acc': 0.8}, 'Music': {'num': 30, 'acc': 0.5}, 'Overall-Business': {'num': 150, 'acc': 0.427}, 'Accounting': {'num': 30, 'acc': 0.433}, 'Economics': {'num': 30, 'acc': 0.433}, 'Finance': {'num': 30, 'acc': 0.367}, 'Manage': {'num': 30, 'acc': 0.433}, 'Marketing': {'num': 30, 'acc': 0.467}, 'Overall-Science': {'num': 150, 'acc': 0.453}, 'Biology': {'num': 30, 'acc': 0.4}, 'Chemistry': {'num': 30, 'acc': 0.4}, 'Geography': {'num': 30, 'acc': 0.567}, 'Math': {'num': 30, 'acc': 0.433}, 'Physics': {'num': 30, 'acc': 0.467}, 'Overall-Health and Medicine': {'num': 150, 'acc': 0.56}, 'Basic_Medical_Science': {'num': 30, 'acc': 0.567}, 'Clinical_Medicine': {'num': 30, 'acc': 0.6}, 'Diagnostics_and_Laboratory_Medicine': {'num': 30, 'acc': 0.4}, 'Pharmacy': {'num': 30, 'acc': 0.633}, 'Public_Health': {'num': 30, 'acc': 0.6}, 'Overall-Humanities and Social Science': {'num': 120, 'acc': 0.717}, 'History': {'num': 30, 'acc': 0.767}, 'Literature': {'num': 30, 'acc': 0.833}, 'Sociology': {'num': 30, 'acc': 0.6}, 'Psychology': {'num': 30, 'acc': 0.667}, 'Overall-Tech and Engineering': {'num': 210, 'acc': 0.429}, 'Agriculture': {'num': 30, 'acc': 0.533}, 'Architecture_and_Engineering': {'num': 30, 'acc': 0.467}, 'Computer_Science': {'num': 30, 'acc': 0.5}, 'Electronics': {'num': 30, 'acc': 0.233}, 'Energy_and_Power': {'num': 30, 'acc': 0.3}, 'Materials': {'num': 30, 'acc': 0.433}, 'Mechanical_Engineering': {'num': 30, 'acc': 0.533}, 'Overall': {'num': 900, 'acc': 0.528}}
+
+BASELINE
+
+{'Overall-Art and Design': {'num': 120, 'acc': 0.667}, 'Art': {'num': 30, 'acc': 0.667}, 'Art_Theory': {'num': 30, 'acc': 0.8}, 'Design': {'num': 30, 'acc': 0.733}, 'Music': {'num': 30, 'acc': 0.467}, 'Overall-Business': {'num': 150, 'acc': 0.407}, 'Accounting': {'num': 30, 'acc': 0.433}, 'Economics': {'num': 30, 'acc': 0.433}, 'Finance': {'num': 30, 'acc': 0.367}, 'Manage': {'num': 30, 'acc': 0.367}, 'Marketing': {'num': 30, 'acc': 0.433}, 'Overall-Science': {'num': 150, 'acc': 0.433}, 'Biology': {'num': 30, 'acc': 0.367}, 'Chemistry': {'num': 30, 'acc': 0.4}, 'Geography': {'num': 30, 'acc': 0.5}, 'Math': {'num': 30, 'acc': 0.433}, 'Physics': {'num': 30, 'acc': 0.467}, 'Overall-Health and Medicine': {'num': 150, 'acc': 0.567}, 'Basic_Medical_Science': {'num': 30, 'acc': 0.567}, 'Clinical_Medicine': {'num': 30, 'acc': 0.6}, 'Diagnostics_and_Laboratory_Medicine': {'num': 30, 'acc': 0.433}, 'Pharmacy': {'num': 30, 'acc': 0.6}, 'Public_Health': {'num': 30, 'acc': 0.633}, 'Overall-Humanities and Social Science': {'num': 120, 'acc': 0.692}, 'History': {'num': 30, 'acc': 0.733}, 'Literature': {'num': 30, 'acc': 0.8}, 'Sociology': {'num': 30, 'acc': 0.567}, 'Psychology': {'num': 30, 'acc': 0.667}, 'Overall-Tech and Engineering': {'num': 210, 'acc': 0.433}, 'Agriculture': {'num': 30, 'acc': 0.533}, 'Architecture_and_Engineering': {'num': 30, 'acc': 0.433}, 'Computer_Science': {'num': 30, 'acc': 0.467}, 'Electronics': {'num': 30, 'acc': 0.333}, 'Energy_and_Power': {'num': 30, 'acc': 0.3}, 'Materials': {'num': 30, 'acc': 0.4}, 'Mechanical_Engineering': {'num': 30, 'acc': 0.567}, 'Overall': {'num': 900, 'acc': 0.517}}

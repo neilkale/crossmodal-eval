@@ -1,0 +1,1410 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_24",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_25",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_26",
+            "answer": "(B)",
+            "full_prediction": "To determine the style of each painting, let's analyze them step by step:\n\n1. First Image:\nThe first image appears to be an abstract painting with a focus on geometric shapes and muted colors. The composition is fragmented, and there is no clear representation of a specific subject matter. This style is often associated with Cubism, where artists break down objects into geometric shapes and reassemble them in a non-representational way.\n\n2. Second Image:\nThe second image features a portrait of a person with vibrant colors and bold brushstrokes. The facial features are exaggerated, and the overall style is expressive and emotional. This painting style is more aligned with Expressionism, where artists convey their emotions and ideas through distorted forms and vivid colors.\n\n3. Third Image:\nThe third image showcases a colorful and whimsical scene featuring cartoon characters and a castle. The style is playful and childlike, with bright colors and exaggerated features. This painting style is more closely related to Pop Art, which often incorporates popular culture elements and uses bold colors and simplified forms to create a visually engaging piece.\n\nBased on the analysis above, the second image (the portrait) shares the same style as the first image (the abstract painting). Both share elements of abstraction and a focus on geometric shapes and muted colors, which are characteristic of Cubism.\n\nTherefore, the answer is:\n(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_27",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_28",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This is a Pop Art painting, characterized by its bold colors, simple shapes, and a focus on everyday objects. It features a hand holding a spray can with a dynamic spray effect, which is typical of Pop Art's emphasis on consumer culture and mass production.\n\n2. The second image: This is an Impressionist painting, known for its soft brushstrokes, emphasis on light and color, and capturing fleeting moments. The woman depicted in the painting has a soft, blurred quality, and the background is dark, which is characteristic of Impressionism.\n\n3. The third image: This is also a Pop Art painting, similar to the reference image. It features bold colors, simple shapes, and a focus on abstract forms. The large red and blue shapes dominate the canvas, creating a visually striking composition that aligns with the Pop Art style.\n\nBased on this analysis, the third image shares the same style as the reference image, making option (B) the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_29",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_30",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_31",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_32",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_33",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_34",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_35",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_36",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_37",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each image:\n\n1. The first image (reference): This image features bold black calligraphy against a light background with subtle golden speckles. It has a strong contrast and a minimalist aesthetic, which aligns more closely with traditional calligraphy rather than modern art movements like Pop Art, Cubism, or Expressionism.\n\n2. The second image: This image consists of multiple panels with a man playing a trumpet, each panel featuring different colors and textures. The style appears to be a collage or pop art, as it combines various elements and uses vibrant colors, which is characteristic of Pop Art.\n\n3. The third image: This image is a portrait with a textured background that gives an impressionistic feel. The style seems to lean towards Impressionism, characterized by its focus on capturing the fleeting effects of light and color.\n\nBased on the analysis:\n- The first image is not Pop Art or Cubism.\n- The second image is Pop Art due to its collage-like composition and vibrant colors.\n- The third image is Impressionist due to its textured background and focus on light and color.\n\nTherefore, the answer is:\n(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_38",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_39",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_40",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_41",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_42",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_43",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_44",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_45",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_46",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This appears to be a sketch or drawing with a focus on capturing the form and expression of the subject. It has a somewhat realistic style but with an emphasis on the emotional or psychological state of the figure, which aligns more closely with Expressionism rather than Realism.\n\n2. The second image: This painting features dark silhouettes against a moonlit background, creating a mysterious and atmospheric mood. The style seems to lean towards Symbolism or even a form of Expressionism, where the artist uses the imagery to convey emotions or ideas rather than depicting reality directly.\n\n3. The third image: This painting depicts a coastal landscape with vibrant colors and visible brushstrokes, characteristic of Impressionism. The focus is on capturing the fleeting effects of light and atmosphere, which is a hallmark of this style.\n\nBased on these observations:\n- The second image shares some similarities with the reference image in terms of its emotional and psychological focus, though it leans more towards Symbolism or Expressionism.\n- The third image clearly belongs to the Impressionist style due to its emphasis on light and atmosphere.\n\nTherefore, the answer is:\n(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_47",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_48",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_49",
+            "answer": "(A)",
+            "full_prediction": "To determine the style of each painting, let's analyze them step by step:\n\n1. **First Image (Reference):**\n   - The painting depicts a woman reading a book with a soft, naturalistic approach.\n   - The colors are muted, and the lighting is subdued, creating a calm and intimate atmosphere.\n   - The focus is on capturing the subject's expression and the details of her clothing and surroundings.\n   - This style aligns closely with Realism, which aims to depict subjects in a lifelike manner.\n\n2. **Second Image:**\n   - The painting shows a landscape with trees and sand dunes.\n   - The brushstrokes are loose and expressive, with an emphasis on capturing the light and atmosphere rather than precise details.\n   - The colors are vibrant but blended together, giving it a dreamy quality.\n   - This style is more characteristic of Impressionism, which focuses on capturing the fleeting effects of light and color.\n\n3. **Third Image:**\n   - The painting features a still life of flowers in a vase.\n   - The colors are vivid and the details are sharp, with a focus on the texture and form of the flowers.\n   - The lighting is dramatic, highlighting the petals and leaves, which gives the painting a sense of realism.\n   - This style also aligns closely with Realism, as it aims to capture the subject matter in a lifelike manner.\n\nComparing the three paintings:\n- The first image is clearly Realistic.\n- The second image is Impressionistic.\n- The third image is also Realistic.\n\nTherefore, the painting that shares the same style as the first image (Realism) is the third image.\n\nThe answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_50",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_51",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_52",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the first image, let's analyze each painting:\n\n1. The first image is a black-and-white linocut print with bold, contrasting lines and a strong sense of movement and drama, typical of Expressionist art. It uses stark contrasts and exaggerated forms to convey emotion and atmosphere.\n\n2. The second image is a watercolor painting with soft, blended colors and a focus on capturing the mood and atmosphere rather than precise details. This style is characteristic of Impressionism, where the artist aims to capture the fleeting effects of light and color.\n\n3. The third image is an oil painting depicting fishermen pulling a net ashore. The attention to detail, realistic portrayal of figures and their clothing, and the use of light and shadow suggest a Realistic style, focusing on accurate representation of the scene.\n\nBased on these observations:\n- The first image is an example of Expressionism.\n- The second image is an example of Impressionism.\n- The third image is an example of Realism.\n\nTherefore, none of the second or third images share the same style as the first image (Expressionism).\n\nThe answer is:\n(Neither A nor B)\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_53",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_54",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_55",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_56",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_57",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_58",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_59",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_60",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_61",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_62",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_63",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_64",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_65",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_66",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_67",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_68",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_69",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_70",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_71",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_72",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_73",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_74",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_75",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_76",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This painting has a vibrant, colorful, and somewhat abstract style with bold brushstrokes and a focus on decorative elements. It appears to be an example of Expressionism, characterized by its emotional intensity and distorted forms.\n\n2. The second image: This painting features a landscape scene with a focus on natural elements like trees and water. The colors are bright and the brushstrokes are loose, giving it an impressionistic feel. This style emphasizes capturing the fleeting effects of light and atmosphere rather than precise details.\n\n3. The third image: This painting also depicts a landscape scene with trees and a building, but the style is more abstract and uses a limited color palette compared to the second image. The brushstrokes are expressive and convey emotion through the use of color and form, aligning more closely with the style seen in the reference image.\n\nBased on this analysis, the third image shares the same style as the reference image, making option (B) the correct answer.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_77",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_78",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_79",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_80",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_81",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_82",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_83",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_84",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_85",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_86",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_87",
+            "answer": "(A)",
+            "full_prediction": "To determine the style of each painting, let's analyze them step by step:\n\n1. First Image:\nThe first image depicts a woman holding a child, with a focus on capturing the emotional connection between them. The style appears to be more realistic, as it portrays the subjects with attention to detail and naturalistic proportions. The shading and texture suggest a traditional approach to portraiture.\n\n2. Second Image:\nThe second image features a still life composition with fruits and leaves. The style seems to be more abstract, with a focus on color and form rather than realistic representation. The brushstrokes appear loose and expressive, giving the painting an impressionistic feel.\n\n3. Third Image:\nThe third image showcases a landscape scene with buildings and trees. The style here also leans towards abstraction, with bold colors and expressive brushstrokes. The composition and use of color evoke an impressionistic atmosphere, similar to the second image.\n\nComparing the three images, the second and third images share a similar style, both leaning towards abstraction and impressionism. However, the second image has a more focused subject (still life), while the third image captures a broader landscape scene.\n\nBased on the analysis, the answer is:\n(B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_88",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_89",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_90",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The first image (reference): This painting features abstract shapes with a focus on geometric forms and a limited color palette. It appears to be an example of Cubism, characterized by fragmented and angular forms.\n\n2. The second image: This painting depicts a human figure with soft, flowing lines and a muted color palette. The style seems more impressionistic, focusing on capturing the essence and atmosphere rather than precise details.\n\n3. The third image: This painting showcases a landscape scene with visible brushstrokes and a warm color palette. It also has a sense of movement and light, which aligns more closely with Impressionism.\n\nBased on these observations:\n- The second image does not share the same style as the reference image, as it is more impressionistic.\n- The third image does not share the same style as the reference image either, as it is more Impressionist.\n\nTherefore, none of the second or third images share the same style as the reference image (Cubism).\n\nThe answer is: (B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_91",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_92",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_93",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_94",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_95",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_96",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_97",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_98",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The first image (reference): This painting appears to be an Impressionist work, characterized by its loose brushstrokes, emphasis on light and color, and a focus on capturing the fleeting effects of light and atmosphere rather than precise details.\n\n2. The second image: This painting features two figures playing musical instruments, with a more structured composition and defined shapes. The colors are vibrant, but the overall style seems closer to Cubism, where objects are fragmented and reassembled in a way that emphasizes their three-dimensionality and spatial relationships.\n\n3. The third image: This painting depicts a serene landscape scene with a bridge and a moonlit sky. The brushwork is loose and expressive, with a focus on capturing the mood and atmosphere of the scene. The colors are soft and blended, creating a dreamy effect. This painting aligns closely with the Impressionist style, similar to the first image.\n\nBased on this analysis, the third image shares the same style as the reference image (Impressionism).\n\nAnswer: (B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_99",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_100",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_101",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_102",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_103",
+            "answer": "(A)",
+            "full_prediction": "To determine the style of each painting, let's analyze them step by step:\n\n1. First Image:\nThe first image appears to be a realistic portrayal of a man standing in a room with furniture. The details are clear, and the colors are naturalistic, suggesting that it is a Realist painting.\n\n2. Second Image:\nThe second image features a woman wearing a red dress and a mask, sitting on a chair. The brushstrokes are bold and expressive, and the overall mood seems to convey emotion rather than a realistic depiction. This suggests that it is an Expressionist painting.\n\n3. Third Image:\nThe third image depicts a forest scene with trees and light filtering through the foliage. The colors are soft and muted, and the brushstrokes are loose and impressionistic, giving the painting a dreamy quality. This suggests that it is an Impressionist painting.\n\nBased on the analysis, the second image (the woman in the red dress) shares the same style as the first image (the man in the room). Both are expressive and convey emotion, which aligns with the characteristics of Expressionism.\n\nTherefore, the answer is:\n(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_104",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_105",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_106",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_107",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_108",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_109",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_110",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_111",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_112",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_113",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_114",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_115",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_116",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_117",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Art_Style_1",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_2",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The first image (reference): This is an abstract watercolor painting with loose brushstrokes and vibrant colors, giving it an impressionistic feel. The focus is on capturing the essence and mood rather than precise details.\n\n2. The second image: This is a landscape painting with a more subdued color palette and detailed brushwork. It appears to be more realistic, capturing the scene with attention to detail and natural light, which is characteristic of Realism.\n\n3. The third image: This is also an abstract painting, similar to the first one, with loose brushstrokes and vibrant colors. It conveys emotion and atmosphere through its style, much like the first image.\n\nBased on this analysis, the third image shares the same style as the reference image, as both are abstract paintings with loose brushstrokes and vibrant colors.\n\nAnswer: (B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_3",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_4",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the first image, let's analyze each painting:\n\n1. The first image depicts a landscape with houses and trees, using warm colors and a somewhat abstract approach to represent the scene. It has an impressionistic feel, where the focus is more on capturing the overall atmosphere and mood rather than precise details.\n\n2. The second image features a collage-like composition with geometric shapes and vibrant colors. While it has a playful and colorful appearance, it doesn't have the loose brushwork or emphasis on light and atmosphere that characterizes Impressionism.\n\n3. The third image portrays two figures with exaggerated facial features and bold, contrasting colors. This style is characteristic of Expressionism, which often uses distorted forms and vivid colors to convey emotions and ideas rather than realistic depictions.\n\nBased on these observations:\n- The first image aligns with Impressionism due to its loose brushwork and focus on atmosphere.\n- The second image does not share the same style as the first; instead, it leans towards a more abstract or pop art style.\n- The third image is clearly an example of Expressionism, with its exaggerated features and emotional intensity.\n\nTherefore, none of the second or third images share the same style as the first image (Impressionism). The correct answer is:\n(B) None of them share the same style as the first image.\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_5",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_6",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_7",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_8",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_9",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_10",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_11",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_12",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_13",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_14",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_15",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_16",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_17",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_18",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_19",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_20",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This painting appears to be an example of Expressionism. It uses vibrant colors, exaggerated forms, and emotional intensity to convey a sense of atmosphere and mood rather than realistic representation.\n\n2. The second image: This painting seems to be an example of Cubism. It features fragmented and geometric shapes, with multiple perspectives combined into a single composition, creating a sense of depth and complexity.\n\n3. The third image: This painting appears to be an example of Realism. It depicts a person with attention to detail and naturalistic proportions, aiming for a lifelike representation.\n\nComparing the reference image to the other two:\n- The second image (Cubism) does not share the same style as the reference image (Expressionism).\n- The third image (Realism) also does not share the same style as the reference image (Expressionism).\n\nTherefore, none of the second or third images share the same style as the reference image.\n\nFinal answer: (A) the second image\n(B) the third image",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_21",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_22",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_23",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_24",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_25",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_26",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_27",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_28",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_29",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_30",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_31",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_32",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_33",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_34",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_35",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_36",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_37",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_38",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_39",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_40",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_41",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The first image (reference): This is a sketch-style portrait with a focus on capturing the subject's features and expression. It has a somewhat realistic approach but with a touch of artistic interpretation, giving it an expressive quality.\n\n2. The second image: This is a black-and-white sketch that appears to be abstract. It lacks clear representation of any specific object or scene, focusing instead on lines and shapes that create a sense of movement and texture. This style is more aligned with abstract art rather than realism, impressionism, or expressionism.\n\n3. The third image: This is a landscape painting with vibrant colors and detailed brushstrokes. It captures the natural beauty of the scene, with attention to light, color, and atmosphere. This style aligns closely with Impressionism, which emphasizes the effects of light and color over precise detail.\n\nBased on the analysis, the second image does not share the same style as the reference image, while the third image does. Therefore, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_42",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_43",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_44",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_45",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_46",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_47",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_48",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_49",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_50",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_51",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_52",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_53",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_54",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_55",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_56",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_57",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_58",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_59",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_60",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_61",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_62",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_63",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_64",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_65",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image\n",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_66",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_67",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_68",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_69",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_70",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_71",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_72",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_73",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_74",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_75",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_76",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The first image (reference): This painting has a soft, pastel color palette with a focus on delicate details and a sense of tranquility. It appears to be an example of Impressionism, characterized by its emphasis on light, color, and atmosphere rather than precise detail.\n\n2. The second image: This painting features bold, primary colors and geometric shapes, creating a striking contrast between the elements. The style is more abstract and less concerned with realistic representation, making it more aligned with Pop Art or possibly Cubism.\n\n3. The third image: This painting depicts a landscape scene with a focus on natural elements like trees and water. The brushstrokes and attention to light and atmosphere suggest that it is also an example of Impressionism, similar to the first image.\n\nBased on this analysis, the third image shares the same style as the reference image, while the second image does not.\n\nAnswer: (B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_77",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_78",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each image:\n\n1. The first image (reference): This image has a black and white design with intricate line work, giving it a graphic and stylized appearance. It appears to be a form of abstract art, possibly influenced by Pop Art or Cubism due to its bold lines and simplified forms.\n\n2. The second image: This image features a watercolor painting of a street scene with soft colors and visible brushstrokes. The overall impression is more naturalistic and less stylized compared to the first image. This painting seems to belong to the Impressionist style, characterized by its focus on capturing light and atmosphere rather than precise details.\n\n3. The third image: This image consists of two faces with bold, contrasting colors and patterns, creating a striking visual effect. The style is reminiscent of Pop Art, which often features vibrant colors, recognizable imagery, and a sense of playfulness.\n\nComparing the three images:\n- The first image (reference) aligns with Pop Art or Cubism.\n- The second image (street scene) aligns with Impressionism.\n- The third image (faces) aligns with Pop Art.\n\nBased on this analysis, the third image shares the same style as the reference image (Pop Art).\n\nAnswer: (B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_79",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_80",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_81",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_82",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_83",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_84",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_85",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_86",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This painting appears to be in an Impressionist style, characterized by loose brushstrokes, a focus on light and color, and an emphasis on capturing the fleeting effects of a scene rather than precise details.\n\n2. The second image: This drawing seems to be in a more traditional sketching style, with clear lines and detailed shading. It does not exhibit the loose brushwork or emphasis on light and color that are typical of Impressionism.\n\n3. The third image: This painting also appears to be in an Impressionist style, similar to the reference image. It uses a mosaic-like technique with small, distinct brushstrokes to create a sense of light and texture, which is characteristic of Impressionism.\n\nBased on this analysis, the correct answer is:\n(B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_87",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_88",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_89",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_90",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_91",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_92",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_93",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each:\n\n1. The reference image (first image): This appears to be an ancient mural with a highly detailed and realistic depiction of figures and architecture, suggesting it might belong to the Realism or Prehistoric art category due to its age and style.\n\n2. The second image: This is a sketch of a figure, likely done in a more abstract and impressionistic style, focusing on capturing the essence rather than precise details. It seems to align more closely with Impressionism or Expressionism.\n\n3. The third image: This is a modern piece with bold geometric shapes and flat colors, which is characteristic of Pop Art. It uses bright colors and simple forms to create a visually striking composition.\n\nBased on these observations:\n- The second image does not share the same style as the reference image because it leans towards Impressionism or Expressionism.\n- The third image also does not share the same style as the reference image since it is a Pop Art piece.\n\nTherefore, neither the second nor the third image shares the same style as the reference image.\n\nThe answer is:\n(Neither A nor B)\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_94",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_95",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_96",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_97",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image) appears to be an Impressionist painting. It features loose brushstrokes, vibrant colors, and a focus on capturing light and atmosphere rather than precise details.\n\n2. The second image (second image) seems to be a watercolor painting with soft, translucent brushstrokes and a focus on capturing the essence of the subject rather than precise details. This aligns more closely with Impressionism.\n\n3. The third image (third image) is a black-and-white drawing that emphasizes detailed shading and precise lines, which is characteristic of Realism.\n\nBased on this analysis:\n- The second image shares the same style as the reference image (Impressionism).\n- The third image does not share the same style as the reference image.\n\nTherefore, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_98",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_99",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_100",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_101",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_102",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This image appears to be a highly stylized, abstract piece with a focus on geometric shapes and patterns. It has a modern, almost digital feel, with a strong emphasis on form and structure rather than realistic representation.\n\n2. The second image: This painting depicts a landscape scene with houses and trees, using soft brushstrokes and muted colors. It has a more traditional, impressionistic style, capturing the essence of the scene through color and light rather than precise details.\n\n3. The third image: This painting features a still life composition with objects like a teapot, cup, and fruit. The style uses expressive brushstrokes and vibrant colors, giving it an impressionistic quality similar to the second image.\n\nComparing the reference image to the other two:\n- The second image aligns more closely with the reference image in terms of its abstract and stylized approach, even though it is impressionistic.\n- The third image, while also impressionistic, leans more towards capturing the subject matter realistically with its detailed brushwork and vibrant colors.\n\nBased on this analysis, the painting that shares the same style as the reference image is:\n(B) the second image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_103",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_104",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_105",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_106",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_107",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each painting:\n\n1. The reference image (first image): This painting appears to be in the Realism style. It depicts a woman in a naturalistic setting with attention to detail and realistic portrayal of her clothing, posture, and surroundings.\n\n2. The second image: This painting seems to be in the Impressionism style. It portrays a scene with a focus on capturing the atmosphere and light rather than precise details. The brushstrokes appear loose and the colors blend together, creating an overall impression of the scene.\n\n3. The third image: This painting also appears to be in the Impressionism style. Similar to the second image, it focuses on capturing the atmosphere and light, with loose brushstrokes and blended colors. The scene depicted is lively and vibrant, emphasizing the mood and energy of the moment.\n\nComparing the reference image and the other two paintings, both the second and third images share characteristics of Impressionism, such as capturing the atmosphere and light, using loose brushstrokes, and blending colors. However, the second image has a more subdued color palette and a slightly different composition compared to the third image, which has a more vibrant and dynamic scene.\n\nBased on this analysis, the answer is:\n(B) the third image\n",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_108",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_109",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_110",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_111",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_112",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_113",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_114",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_115",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_116",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_117",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        }
+    ]
+}

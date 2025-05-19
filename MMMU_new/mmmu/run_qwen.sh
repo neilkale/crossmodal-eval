@@ -1,45 +1,19 @@
 #!/bin/bash
 
+# Useful scripts for evaluating the 'coreasoning prompt' models.
+mv /work3/nkale/ml-projects/understanding-conflict/Qwen2-VL-Finetune/output/llava_instruct_150k_lora_blend_no_aug_1e3_new_v1_fix/checkpoint-200/ ../../checkpoints/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_fix/checkpoint-200/
+
+python run_qwen.py \
+--output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_fix4/checkpoint-100.json \
+--model_path ../../checkpoints/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_fix4/checkpoint-100
+
+python main_eval_only.py --output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_fix4/checkpoint-300.json
+
 # 700k no aug new v1 with weight ensemble
 python run_qwen.py \
 --output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_ckpt700k_wise1.5_val.json \
 --model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_ckpt700k \
 --weight_ensembling_ratio 1.5
-
-# 60k no aug new v1
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_ckpt60k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_new_v1_ckpt60k
-
-# 5k no aug
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt5k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt5k
-
-# 10k no aug
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt10k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt10k
-
-# 100k no aug
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt100k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt100k
-
-# 400k no aug
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt400k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt400k
-
-# 400k
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_1e3_ckpt400k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_1e3_ckpt400k
-
-# 800k no aug
-python run_qwen.py \
---output_path ./example_outputs/qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt800k_val.json \
---model_path ../../qwen2.5_7b_150k_lora_blend_no_aug_1e3_ckpt800k
 
 # 1100k no aug with weight ensemble
 python run_qwen.py \

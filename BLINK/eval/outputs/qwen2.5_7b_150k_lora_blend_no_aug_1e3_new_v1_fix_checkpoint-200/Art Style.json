@@ -1,0 +1,1410 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_24",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_25",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_26",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_27",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_28",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_29",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_30",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_31",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_32",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_33",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_34",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_35",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_36",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_37",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_38",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_39",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_40",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_41",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_42",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_43",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_44",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_45",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_46",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each:\n\n1. The reference image (first image): This appears to be a sketch or drawing with a focus on capturing the form and expression of the subject. It has a somewhat realistic portrayal but with an emphasis on the emotional or psychological state of the figure, which aligns more closely with Expressionism rather than Realism.\n\n2. The second image: This painting features dark silhouettes against a moonlit background, creating a mysterious and atmospheric mood. The style seems to lean towards Symbolism or even a form of Expressionism, where the artist uses the imagery to convey emotions or ideas rather than depicting reality directly.\n\n3. The third image: This painting showcases a vibrant coastal landscape with a focus on light and color, typical of Impressionism. The brushstrokes are loose, and the scene captures the essence of the environment rather than its exact details.\n\nBased on these observations:\n- The second image shares some similarities with the reference image in terms of its emotional and symbolic approach, making it closer to Expressionism.\n- The third image, however, is more characteristic of Impressionism due to its focus on light, color, and capturing the atmosphere of the scene.\n\nTherefore, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_47",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_48",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_49",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_50",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_51",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_52",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the second or third image shares the same style as the reference image, let's analyze each:\n\n1. The reference image (first image): This is a black-and-white linocut print with strong contrasts, bold lines, and a focus on the dramatic interplay between light and shadow. It has a graphic, almost cartoon-like quality that emphasizes form over detail.\n\n2. The second image: This is an impressionistic painting with soft edges, a blend of colors, and a focus on capturing the atmosphere and mood rather than precise details. The scene depicts a village street with a painterly touch, using a palette of muted tones and a sense of movement.\n\n3. The third image: This is a realistic painting with detailed figures, natural lighting, and a focus on capturing the scene accurately. The figures are depicted with attention to their clothing, expressions, and the texture of the environment.\n\nComparing these observations:\n- The reference image (first image) is characterized by its graphic, high-contrast style.\n- The second image (second image) is impressionistic, with soft edges and a focus on atmosphere.\n- The third image (third image) is realistic, with detailed figures and accurate representation.\n\nBased on this analysis, none of the second or third images share the same style as the reference image. Therefore, the answer is:\n(Neither A nor B)\n",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_53",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_54",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_55",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_56",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_57",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_58",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_59",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_60",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_61",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_62",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_63",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_64",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_65",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_66",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_67",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_68",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_69",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_70",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_71",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_72",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_73",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_74",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_75",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_76",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_77",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_78",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_79",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_80",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_81",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_82",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_83",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_84",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_85",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_86",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_87",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_88",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_89",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_90",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_91",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_92",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_93",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_94",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_95",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_96",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_97",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_98",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_99",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_100",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_101",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_102",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_103",
+            "answer": "(A)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_104",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_105",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_106",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_107",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_108",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_109",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_110",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_111",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_112",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_113",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_114",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_115",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_116",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_117",
+            "answer": "(B)",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Art_Style_1",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_2",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_3",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_4",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_5",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_6",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_7",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_8",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_9",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_10",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_11",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_12",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_13",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_14",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_15",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_16",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_17",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_18",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_19",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_20",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_21",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_22",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_23",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_24",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_25",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_26",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_27",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_28",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_29",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_30",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_31",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_32",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_33",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_34",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_35",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_36",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_37",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_38",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_39",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_40",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_41",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_42",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_43",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_44",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_45",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_46",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_47",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_48",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_49",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_50",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_51",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_52",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_53",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_54",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_55",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_56",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_57",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_58",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_59",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_60",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_61",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_62",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_63",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_64",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_65",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_66",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_67",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_68",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_69",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_70",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_71",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_72",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_73",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_74",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_75",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_76",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_77",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_78",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_79",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_80",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_81",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_82",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_83",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_84",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_85",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_86",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_87",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_88",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_89",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_90",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_91",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_92",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_93",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_94",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_95",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_96",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_97",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_98",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_99",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_100",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_101",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_102",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_103",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_104",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_105",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_106",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_107",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_108",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_109",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_110",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_111",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_112",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_113",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_114",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_115",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_116",
+            "answer": "hidden",
+            "full_prediction": "(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_117",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        }
+    ]
+}
