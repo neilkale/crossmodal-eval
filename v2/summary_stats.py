@@ -1,11 +1,12 @@
-from helpers import get_argument_parser, get_task
-import yaml
 import os
+from helpers import get_argument_parser, get_task
+from qwen import QwenModel
+import yaml
 
 def parse_args():
     parser = get_argument_parser()
-
     args = parser.parse_args()
+
     with open(args.model_config, 'r') as f:
         config = yaml.safe_load(f)
     args.model_path = config.get('model_path')
@@ -28,10 +29,4 @@ if __name__ == "__main__":
     subtasks = helper.get_subtasks(args.subtask_name)
 
     for task_name in subtasks:
-        print(f"Evaluating predictions for subtask: {task_name}")
-        helper.eval_predictions(task_name, rerun=args.rerun)
-        
-    print("All tasks completed.")
-    
-
-    
+        helper.get_accuracy(task_name)

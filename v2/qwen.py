@@ -150,7 +150,7 @@ class QwenModel:
                     **inputs,
                     do_sample=False, # TODO: Greedy decoding set here, potentially undo this?
                     temperature=1,  # TODO
-                    top_p=0.9,  # TODO
+                    # top_p=0.9,  # TODO
                     num_beams=1,
                     max_new_tokens=512,
                     use_cache=True,

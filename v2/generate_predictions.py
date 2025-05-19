@@ -1,5 +1,5 @@
 import os
-from helpers import get_argument_parser, get_dset_helpers
+from helpers import get_argument_parser, get_task
 from qwen import QwenModel
 import yaml
 
@@ -31,12 +31,12 @@ if __name__ == "__main__":
         raise ValueError(f"Unsupported model: {args.model_path}. Currently only qwen2.5-vl-7b is supported.")
     
     print(f"Task: {args.task_name}")
-    helpers = get_dset_helpers(args.task_name)
+    helper = get_task(args.task_name, args.data_dir, args.output_dir)
 
-    subtasks = helpers.get_subtasks(args.subtask_name)
+    subtasks = helper.get_subtasks(args.subtask_name)
 
     for task_name in subtasks:
-        print(f"Processing subtask: {task_name}")
-        helpers.eval_task(task_name, model_generate_func, args.data_dir, args.output_dir, max_samples=args.max_samples, rerun=args.rerun)
+        print(f"Generating predictions for subtask: {task_name}")
+        helper.eval_task(task_name, model_generate_func, max_samples=args.max_samples, rerun=args.rerun)
     
     print("All tasks completed.")
