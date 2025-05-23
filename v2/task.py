@@ -76,6 +76,7 @@ class Task:
         Check the model's prediction for a multiple-choice question.
         
         Args:
+            gold_answer (str): The correct answer choice (A, B, C, D, etc.)
             prediction (str): The raw text containing a multiple-choice question and answer
             
         Returns:

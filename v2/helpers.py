@@ -3,12 +3,18 @@ import os
 import yaml
 from hardblink import HardBLINK
 from blink import BLINK
+from sat import SAT
+from mmhalbench import MMHalBench
 
 def get_task(task_name, data_dir=None, output_dir=None):
     if task_name == 'HardBLINK':
         return HardBLINK(data_dir=data_dir, output_dir=output_dir)
     elif task_name == 'BLINK':
         return BLINK(data_dir=data_dir, output_dir=output_dir)
+    elif task_name == 'SAT':
+        return SAT(data_dir=data_dir, output_dir=output_dir)
+    elif task_name == 'MMHalBench':
+        return MMHalBench(data_dir=data_dir, output_dir=output_dir)
     else:
         raise ValueError(f"Unsupported task: {task_name}.")
 
